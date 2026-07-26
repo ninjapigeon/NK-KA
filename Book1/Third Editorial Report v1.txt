@@ -1,0 +1,215 @@
+======================================================================
+THIRD — FULL EDITORIAL PASS (manuscript PDF, 158 pp, ~84,300 words)
+Method: word-level diff against assembled acts + mechanical sweeps +
+targeted full-context reads. Find-strings match the manuscript text
+(including curly quotes where present).
+======================================================================
+
+────────────────────────────────────────────
+A. CRITICAL — meaning-level errors
+────────────────────────────────────────────
+
+A1. COSMOLOGY SPEECH ATTRIBUTED TO TONDI  (Act One, the inn scene)
+The merge put Third's entire thesis inside Tondi's quotation. As
+printed, Tondi — the town mender — claims the Titans made HER as one
+of their tools and that she watched the Titansfall.
+
+FIND:
+  "Was a Titan," Tondi said. "They made the world… They made me, too,
+  in their way — I am one of their tools… I watched it come apart:
+
+REPLACE WITH:
+  "Was a Titan," Tondi said. Quiet. She had got there a breath before
+  I did.
+  "They made the world," Third said. "They made me, too, in their way
+  — I am one of their tools. I watched it come apart:
+
+Also in this speech, the if-clause never resolves ("And if someone is
+gathering the tools of creation… whether they mean to…" has no main
+clause). Minimal repair:
+
+FIND:    And if someone is gathering the tools of creation… whether
+         they mean to gather a fallen Titan back
+REPLACE: And if someone is gathering the tools of creation, then the
+         question I cannot put down is whether they mean to gather a
+         fallen Titan back
+
+(Re-attributed to Third, the absent reverence tic on "the Virek spent
+an entire people to do" is CORRECT — Third never uses it.)
+
+A2. GRAVE-VIGIL GREY PASSAGE — step-rule violation (After-Liwon vigil)
+Pre-existing text our straggler sweep missed; the only remaining
+soul-drift in the book: "The grey came and sat with him sometimes —
+he could reach it without moving now" (the grey comes to him; he
+reaches it without stepping; "stayed in it" disembodied).
+
+FIND:
+  The grey came and sat with him sometimes — he could reach it without
+  moving now, the warm part, the part where she still got the rhyme
+  right — and he stayed in it longer and longer, and minded less and
+  less the coming back,
+
+REPLACE WITH (recommended — keeps the dying-by-preference arc;
+brief bodily steps, 100x grey-time):
+  He stepped to the grey more and more — a breath gone from the
+  hillside, a long while on the far side of it, the warm part, the
+  part where she still got the rhyme right — and he stayed longer and
+  longer inside each breath, and minded less and less the coming back,
+
+ALTERNATIVE (if you'd rather he never goes during the vigil — strongest
+fit with the more-shrub-than-statue overgrowth, but changes meaning):
+  The grey pulled at him more and more — she was in it, the warm part,
+  the part where she still got the rhyme right — and he leaned into
+  the pull longer and longer, and minded less and less how little held
+  him on this side,
+
+A3. "THE NOTCH" DANGLES (opening scene)
+You deleted the inn-naming sentence and converted every later "the
+Notch" to "the inn"/"my inn" — but missed the one in the opening, so
+an unexplained name appears once and never again.
+FIND:    He was the Kro who'd been coming to the Notch longer
+REPLACE: He was the Kr who'd been coming to the inn longer
+(This also handles one of the three Kro→Kr stragglers; see B5.)
+
+────────────────────────────────────────────
+B. WORLDBUILDING / TERM CONSISTENCY
+────────────────────────────────────────────
+
+B1. SEASONS (none exist on Anka):
+ • "each big enough to put up a winter's preserves in"
+   → "each big enough to put up a hundred spins of preserves in"
+ • "the world was a screaming winter" → "a screaming whiteout"
+ • "the screaming winter sealed behind us" → "the screaming cold
+   sealed behind us"
+ • "like a door closing on winter" → "like a door closing on the cold"
+ • "in the middle of high summer" → "in the heat of a cloudless day"
+ • "The eye, which had not moved in a span of seasons"
+   → "…in a thousand spins"
+ • PAIRED JOKE (keep both sides matched): Roan: "would've gotten a
+   *tenday* of drinks." / Tasha: "A season," I said.
+   → "A hundred spins," I said.
+   and closing scene: "which Mathen would have got a season of drinks
+   out of" → "…a hundred spins of drinks out of"
+
+B2. YEARS (time is counted in spins; ~300 spins ≈ 1 year):
+ • "I had learned to interpret, over many years" → "over many spins"
+ • "here twice a year if you were lucky" → "here twice in three
+   hundred spins if you were lucky"
+ • "a voice she kept for about once a year" → "…for about once in
+   three hundred spins"
+ • "year on year on year" → "spin on spin on spin" (improves it — the
+   Scar turning is the held-dog rhythm)
+ • "a span of years that were nearly happy" → "a stretch of spins that
+   were nearly happy"
+
+B3. MISSED CAVALRY FIX (opening): "The anti-cavalry spikes at the
+town's edge" → "The boundary spikes at the town's edge"
+
+B4. "HUMAN" as adjective (race is Humin; the word shouldn't exist):
+ • "not impatience, nothing so human as that" → "nothing so humin"
+ • Third: "It is, I think, the most human thing about all of us."
+   → "the most humin thing about all of us."
+
+B5. Kr vs Kro: you've settled on "Kr" (9 uses incl. dialogue); the 3
+"Kro" remaining are all in the opening scene — convert all three.
+(Keep the boundary-stone "Kr that way, Rk the other" exactly as is.)
+
+B6. IMPERIAL UNITS: two "six feet" measures (traveller scene + room
+scene) → "two paces" both times. (All other feet/foot/yard hits are
+body parts or courtyards — fine. No miles or inches remain.)
+
+B7. CAPITALIZATION DECISIONS (pick one; counts shown):
+ • Glaive ×4 (all Act Three) vs glaive ×28 → recommend lowercase all
+ • bolter ×1 ("his Glaive, the bolter, and his falcatas") → Bolter
+ • titanspawn ×1 (Shredder-head paragraph) → Titanspawn (matches 9)
+ • Hexwood ×5 vs hexwood ×3 → unify (recommend lowercase: a material,
+   like jade)
+ • Magefire ×2 vs magefire ×1 → unify (same recommendation)
+ • Spire ×4 vs spire ×5 → recommend capital everywhere (named landmark;
+   "spireward" stays lowercase)
+ • "The Stony had passed" vs "the air before a stony" → unify noun
+   caps (recommend lowercase except where it opens a sentence)
+
+B8. SPELLING (BrE is your dominant register; convert the strays):
+ • "favored" → "favoured" (grey memory, Virek village)
+ • "armor" ×2 → "armour"
+ • "center" → "centre" (blood-on-wall paragraph)
+ • "coloration" → "colouration" (Shredder head)
+ • "6 eyes" → "six eyes" (numerals are reserved for spin-counts)
+
+────────────────────────────────────────────
+C. MECHANICAL — typos & formatting
+────────────────────────────────────────────
+
+C1. FUSED HYPHENS (12 — paste/wrap casualties; restore hyphens):
+ pointfirst → point-first          notknowing → not-knowing
+ notthinking → not-thinking        antispinward → anti-spinward
+ pushingaway → pushing-away        halfknew → half-knew
+ halfknowing → half-knowing        halfanswered → half-answered
+ monsterkilling → monster-killing  beingthere → being-there
+ finallysafeenough → finally-safe-enough
+ not-hiswords → not-his-words
+
+C2. Missing space: "and he let it.The grey" → "and he let it. The grey"
+
+C3. Lowercase i: "So i brought my stew" → "So I brought my stew"
+
+C4. SMART-PUNCTUATION ISLANDS: ~35 curly double quotes, ~21 curly
+apostrophes, and 4 "…" ellipsis characters — all inside recently
+pasted passages (cosmology, peg scene, collector arrival, vigil,
+Roan's arithmetic, spikes dialogue) while the rest of the book uses
+straight marks and three dots. Find-replace in Pages: " " → ", ' → ',
+… → ... (4 replacements cover it).
+
+C5. Reverence-tic insert uses spaced hyphens:
+ "the Virek - may they never be forgotten - host"
+ → "the Virek — may they never be forgotten — host"
+
+C6. SCENE BREAKS: 113 former scene/beat dividers are now "--" glued
+to the first word of the next paragraph ("--We came out of it…"),
+while a handful survive as standalone "---"/"***". Pages find-replace
+won't fix these safely (some legitimate em-dash openings exist), but
+they're all and only the two-hyphen+capital pattern at paragraph
+starts. Restore each to your chosen divider on its own line.
+
+C7. ◆ ◆ ◆ ORNAMENT SYSTEM: 7 grey-memory scenes carry "◆ ◆ ◆"; three
+grey scenes don't: "Sideways was grey…" (the first one — its ◆ was
+dropped in the export), "He should not have gone in…" (Mathen in the
+grey), and "The water was the first thing…" (The Bow). If ◆ ◆ ◆ marks
+close-third memory, add it to those three; if not, remove the seven.
+
+C8. Phrasing nitpicks (optional):
+ • "creating a loud plinking sound off the wood shingles" → "a loud
+   plinking off the wood shingles"
+ • "checked the lockbox in the floor with the day's Black earned" →
+   "checked the lockbox in the floor, the day's Black inside it"
+ • "The body and shoulders had not moved to track the eye — the rest
+   of it was as still…" → "The body had not moved to track the eye —
+   the whole of it was as still…" (avoids body/rest overlap)
+
+────────────────────────────────────────────
+D. FLAGGED, INVESTIGATED, AND CORRECT AS-IS (don't re-fix)
+────────────────────────────────────────────
+ • Lujian's they/them for the lost one is right: Lujian doesn't know
+   who Third lost, so speaks generically — and Third's pivot from
+   "They were a child" to "I called her little one" is the reveal.
+ • "Roan's other shoulder" has its antecedent: he took a shard leaf
+   "through the meat of his shoulder" in the glass-fall.
+ • Directions are coherent: traveller's own town (Ravagers) is two
+   days spinward; the collector tale is a different town, left
+   anti-spinward; the party follows anti-spinward and passes it.
+ • The bearded small listener is a Hin — consistent, and the bow
+   thread (Kern's heirloom → the brook bow) tracks: red bindings
+   "new and bright" in the memory, "old red worked deep" at the inn.
+ • Reverence-tic system is correctly implemented: Mathen reflexes it
+   once; Third never does, in speech or telling.
+ • "a hundred hundred grips" reads as intentional archaism.
+ • honorary, practise/practice, travel-fat, "the yard(s)" — all
+   correct BrE / correct usage.
+ • Ash chain is consistent: burned at the rim, "ash now," "a pile of
+   ash on a rock" — no stray vial-of-ash.
+ • Stony timeline works: forecast at the door, pebble warning, storm,
+   "The Stony had passed" — matches canon (storms last moments).
+ • Magefire math now closes: bottles under ~100 spins, "perhaps twenty
+   spins in the dim one" at the geysers, guttering through Act Three.
+======================================================================
