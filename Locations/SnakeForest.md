@@ -1,0 +1,5 @@
+## The Snake Forest
+
+Not a remarkable forest at first glance — the trees aren’t especially tall, and the wood isn’t especially dense. What’s remarkable is that every single tree in it has exactly the same curve to its trunk: a long, slow bend, as if each one had started growing sideways and slowly corrected itself to vertical over a very long time. Some say they look like snakes, frozen mid-uncoil and turned to wood. Nobody’s found a reason why every tree would bend the same way, in the same direction, with the same curve.
+
+Nothing in the Snake Forest attacks. Nothing has ever been seen to move. But people who spend any real time under its canopy report the same thing, in roughly the same words: a low, building unease that doesn’t go away and doesn’t seem to come from anything in particular — just from looking, day after day, at hundreds of identical trees that shouldn’t be identical. It wears at people. Travelers who can avoid a long stay in the Snake Forest generally do, not because anything will hurt them, but because something about it doesn’t sit right, and a few days of not sitting right is enough for most.
