@@ -41,6 +41,59 @@ A pale, chalky powder ground from Titan Bones — the alabaster debris of the gl
 
 A thick, tar-like substance harvested from the deeper parts of swamps and bogs, where decayed plant matter has compressed over long stretches of time into something close to natural tar. Heated and worked, it makes an effective waterproofing for boat hulls, roofing, and the seams of stilt-house foundations — about the only thing the swamps are reliably good for exporting, which towns on their edges are happy to do at a markup.
 
+## Boltcaster
+# The Bolt-Caster: Weapon Design Notes
+
+*A speculative longarm for Anka, from a parallel civilization that never developed conventional gunpowder.*
+
+### Premise
+
+This civilization’s “gunpowder” is not a solid combustible propellant but a **binary reactive system** called **magefire**: a strange dry powder sealed in a glass vial, which reacts violently with water when the vial is shattered. There is no ignition, no spark, no flame — the trigger event is purely mechanical (a puncture), and the resulting pressure wave can be **100% directionally channeled**, eliminating the need for a heavy containment chamber. The discharge behaves less like a bullet pushed by expanding gas and more like a directed, lightning-like bolt — a coherent, violent pressure/energy release traveling down an open, fluted channel rather than a sealed bore.
+
+### Caliber & Ammunition
+
+- Bolt is shotgun-scale, roughly **.50 caliber**.
+- Ammunition is a small sealed **cartridge-cell**: a glass vial of magefire powder plus a water charge, roughly cartridge/shotgun-shell sized.
+- Cells are fed from a **revolving cartridge drum** mounted just ahead of the trigger, cycled automatically by the recoil-driven mechanism (see below).
+- No muzzle ornamentation — a clean, flush bore opening (earlier design generations used a decorative flared muzzle ring as a stylistic holdover; current design drops it).
+
+### Overall Configuration
+
+Held **bazooka-style, over the shoulder**, with the weight and mechanism sitting *behind* the shoulder rather than a conventional in-line stock:
+
+- A **shoulder yoke/saddle** roughly a third of the way back from the muzzle acts as the balance point and pivot.
+- Forward of the yoke: a **slender, fluted, blade-like open-channel barrel** — not a closed bore, but a guided channel, since the weapon directs a pressure-wave discharge rather than containing gas behind a solid projectile.
+- Behind the shoulder: a **substantial rear counterweight pod** housing the recoil/reload mechanism — proportionally dramatic against the comparatively modest bore, giving a strong “small deadly bore, big engineered machinery” visual contrast.
+
+## Recoil & Reload Mechanism — Clockwork, Not Hydraulics
+
+Rejected a simple butt-pad/padding solution in favor of an actual engineered energy-management system, styled as **dark-ages clockwork** rather than Victorian hydraulics:
+
+- The barrel assembly has limited rearward travel on discharge.
+- This recoil stroke **winds a heavy iron mainspring** housed in the rear pod.
+- The mainspring’s energy is bled off slowly and safely through a **visible escapement and gear train** (the mechanical-clock solution to metering stored spring energy) — this is what actually converts a sharp, shoulder-jarring kick into a manageable, delayed release, rather than merely padding the impact.
+- A small **notched iron tension-dial** on the pod indicates mainspring tension (period-appropriate stand-in for a pressure gauge).
+- The same gear train **cycles the revolving cartridge drum**, chambering the next cell automatically — recoil-operated reloading, an emergent function of the recoil system rather than a separate hand-operated action.
+- Iron is used **sparingly and only for moving clockwork parts** — springs, gears, axles. All structural elements are wood.
+
+## Materials
+
+- **Hexwood** — a dark, blood-anointed wood resembling deep mahogany, used for barrel, yoke, and housing. This is not a steel substitute for aesthetics only: Hexwood is established as **structurally equal to forged steel**, its strength tied to the ritual/runic carving rather than the material alone.
+- **Dense, continuous runic carvings** cover every structural surface — the runes are load-bearing and integral to the wood’s supernatural strength, not mere decoration. Runes glow faintly with a dull ember-like light where carved deepest.
+- Hexwood is darkened and worn smooth from handling and old bloodstains, reinforcing the “anointed/consecrated weapon” cultural framing.
+- Iron (black, hand-forged) appears only in the clockwork internals.
+- No brass, no polished steel, no glass sight-windows, no visible hydraulics — deliberately avoiding a “scientific instrument” read in favor of dark-ages craft.
+
+## Vocabulary Note
+
+Because the weapon has no ignition/combustion step, “fire” and “shoot” are poor organic fits for this culture’s vocabulary — those words derive from a flame-based weapon tradition this civilization skipped entirely. More plausible native terms, given the puncture-then-discharge mechanic and the “bolt” naming convention already in use:
+
+- **“Loose”** (as in “loosing a bolt”) — likely primary verb; direct inheritance from crossbow/bow terminology, fits an archaic register, and describes releasing a triggered/stored action rather than igniting one.
+- **“Strike”** or **“break”** — plausible technical term among weapon-makers specifically for the vial-puncturing action.
+- **“Crack”** — onomatopoeic option for the discharge’s sound, similar to thunder.
+
+If “fire”/“shoot” appear in-world at all, they’d read best as a fossilized borrowing from an earlier flame-weapon tradition, or as an outsider’s/mistranslator’s word choice — a useful detail for distinguishing POV or culture in dialogue.
+
 ## Buhar
 
 For something with as much status attached to owning one, a Buhar is mechanically little more than a sealed tube: a magefire “bolt” loaded at the breech, and a small chamber of water just ahead of it. Squeeze the trigger at the top, and the bolt ignites — flash-heating the water to steam fast enough that the resulting burst drives down the tube and out the far end before the eye can follow it, carrying with it the same green-tinted lightning discharge seen in arcane batteries. There’s nothing solid in a Buhar’s shot — no ball, no dart, nothing left to dig out afterward — just superheated steam and a crackling charge, traveling in an unnaturally straight line. To anyone on the receiving end — armored or not — the impact gets described the same way, again and again: like being hit by a charging Tusker.
