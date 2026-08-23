@@ -4,7 +4,7 @@
 
 ---
 
-*Dedicated to my best friend and wife, Liza. Without whose patience this would never have been completed. Also to my best man Eric, for the patience and inspiration for Wally. Lastly, to Zanaimo and her almost sibling ‘Liwon’, who i discovered during this writing as a way to process hir loss. Thank you Lord for the blessings herein, and may all those who read this enjoy it as much as I did writing it.*
+*Dedicated to my best friend and wife, Liza. Without whose patience this would never have been completed. Also to my best man Eric, for the patience and inspiration for Wally. Lastly, to Zanaimo and her almost sibling ‘Liwon’, who i discovered during this writing as a way to process hir loss. My first completed book since being diagnosed as AuDHD. Thank you to all who put up with pre-diagnosed me who just couldn't understand. Thank you Lord for the blessings herein, and may all those who read this enjoy it as much as I did writing it.*
 
 ---
 
@@ -46,7 +46,7 @@ Halfway home, past the dark bulk of the mill, boots came up behind me — quick,
 
 "Tasha! Hold up—" A wobble in his voice I didn't like. "Tasha, I need—"
 
-I turned. Roan was coming up the path at the pace that isn't quite running, because running would mean admitting something. And he wasn't alone. Beside him, keeping easy time with a stride that had nothing to do with Roan's hurry, came a shape I had no ready name for: tall, hooded, walking on something that didn't sound like feet on the earth.
+I turned. Roan was coming up the path at the pace that isn't quite running, because running would mean admitting something. And he wasn't alone. Beside him, keeping easy time with a stride that had nothing to do with Roan's hurry, came a shape I had no ready name for: thin, hooded, walking on something that didn't sound like feet on the earth.
 
 I was bad at leaving things alone. It was either a failing or the one interesting thing about me — and with my hand drifting toward my blade, I had the brief, unwelcome feeling I was about to learn which.
 
@@ -57,11 +57,11 @@ I was bad at leaving things alone. It was either a failing or the one interestin
 
 They stopped a few paces short of me — far enough to let me look at the thing without it looming, and looming was clearly something it could do without trying.
 
-Wooden limbs, leather-woven, in the way of something built to suggest muscle without quite managing it. A cloak doing an earnest, unsuccessful job of concealing the wearer, mostly because the wearer had cloven hooves where feet should be, and the sole-less boots someone had pulled over them had long since worn through. And in the shadow of the hood, slightly off-centre, one eye: a hole in smooth wood, lit from somewhere inside, a steady blue. Not pointed at me — and then it was, the glow finding me, settling, brightening a fraction as it fixed in place.
+Wooden limbs, leather-wound, in the way of something built to suggest muscle without quite managing it. A cloak doing an earnest, unsuccessful job of concealing the wearer, mostly because the wearer had cloven hooves where feet should be, and the sole-less boots someone had pulled over them had long since worn through. And in the shadow of the hood, slightly off-centre, one eye: a hole in smooth wood, lit from somewhere inside, a steady blue. Not facing me — and then it was, the glow finding me, settling, brightening a fraction as it fixed in place.
 
-And a staff. Or what I took for a staff, in the first half-second, before the rest of it caught up — a tall shaft of dark, close-grained wood, held in one wooden hand the way a tired man leans on a walking stick. Except no walking stick I'd ever swept out from under a table carried a hand's width of flat blade at its head, carved its whole length finer than anything off a mortal tool, the wood so dark and dense it might have been wet stone. A glaive. Held grounded, blade to the dirt, in the one way a thing can hold a polearm that doesn't read as about to use it — which somehow made it worse, the courtesy of it, the way a big animal sitting still and watching you is worse than one already moving. The cloak hid the hooves badly, the hood didn't hide the eye at all, the staff was not a staff, and the whole of it gave the impression of something that had learned how to be unalarming from a single description, once, and gotten every detail a little, and terribly, wrong.
+~~And a staff. Or what I took for a staff, in the first half-second, before the rest of it caught up — a tall shaft of dark, close-grained wood, held in one wooden hand the way a tired man leans on a walking stick. Except no walking stick I'd ever swept out from under a table carried a hand's width of flat blade at its head, carved its whole length finer than anything off a mortal tool, the wood so dark and dense it might have been wet stone. A glaive. Held grounded, blade to the dirt, in the one way a thing can hold a polearm that doesn't read as about to use it — which somehow made it worse, the courtesy of it, the way a big animal sitting still and watching you is worse than one already moving.~~ Strapped across its waist, only the leather-wrapped handles showing, were a pair of blades i'd later learn were Falkas. Each one as long as a forearm, delicately carved their entire length, leaf-shaped but angled slightly down, and weighted towards the tip. "Better for chopping" I was later told. The cloak hid the hooves badly, the hood didn't hide the eye at all, ~~the staff was not a staff,~~ and the whole of it gave the impression of something that had learned how to be unalarming from a single description, once, and gotten every detail a little, and terribly, wrong.
 
-My hand was on my blade. I left it there.
+My hand was on my own blade. I left it there.
 
 "They wouldn't let it through the gate on its own," Roan said, in a rush, like he'd been holding the words in his mouth the whole way over. "Course they wouldn't. But it asked — it talks, Tasha — it asked for Tondi by name, and Pek said bring it to whoever's at the inn and let them sort it, so I—" He gestured at the entire situation. "So I brought it. To whoever's at the inn. Which I was hoping would be Tondi."
 
