@@ -46,7 +46,7 @@ Halfway home, past the dark bulk of the mill, boots came up behind me — quick,
 
 "Tasha! Hold up—" A wobble in his voice I didn't like. "Tasha, I need—"
 
-I turned. Roan was coming up the path at the pace that isn't quite running, because running would mean admitting something. And he wasn't alone. Beside him, keeping easy time with a stride that had nothing to do with Roan's hurry, came a shape I had no ready name for: thin, hooded, walking on something that didn't sound like feet on the earth.
+I turned. Roan was coming up the path at the pace that isn't quite running, because running would mean admitting something. And he wasn't alone. Beside him, keeping easy time with a stride that had nothing to do with Roan's hurry, came a shape I had no ready name for: thin, hooded, walking on something that didn't sound like feet on the packed dirt.
 
 I was bad at leaving things alone. It was either a failing or the one interesting thing about me — and with my hand drifting toward my blade, I had the brief, unwelcome feeling I was about to learn which.
 
@@ -59,7 +59,7 @@ They stopped a few paces short of me — far enough to let me look at the thing 
 
 Wooden limbs, with just disturbingly too-long forearms, wrapped in something like leather, in the way of something built to suggest muscle without quite managing it. A cloak doing an earnest, unsuccessful job of concealing the wearer, mostly because the wearer had cloven hooves where feet should be, and the sole-less boots someone had pulled over them had long since worn through. And in the shadow of the hood, slightly off-centre, one eye: a hole in smooth wood, lit from somewhere inside, a steady blue. Not facing me — and then it was, the glow finding me, settling, brightening a fraction as it fixed in place.
 
-~~And a staff. Or what I took for a staff, in the first half-second, before the rest of it caught up — a tall shaft of dark, close-grained wood, held in one wooden hand the way a tired man leans on a walking stick. Except no walking stick I'd ever swept out from under a table carried a hand's width of flat blade at its head, carved its whole length finer than anything off a mortal tool, the wood so dark and dense it might have been wet stone. A glaive. Held grounded, blade to the dirt, in the one way a thing can hold a polearm that doesn't read as about to use it — which somehow made it worse, the courtesy of it, the way a big animal sitting still and watching you is worse than one already moving.~~ Strapped across its waist, only the leather-wrapped handles showing, were a pair of blades i'd later learn were Falkas. Each one as long as a forearm, delicately carved their entire length, leaf-shaped but angled slightly down, and weighted towards the tip. "Better for chopping" I was later told. The cloak hid the hooves badly, the hood didn't hide the eye at all, ~~the staff was not a staff,~~ and the whole of it gave the impression of something that had learned how to be unalarming from a single description, once, and gotten every detail a little, and terribly, wrong.
+~~And a staff. Or what I took for a staff, in the first half-second, before the rest of it caught up — a tall shaft of dark, close-grained wood, held in one wooden hand the way a tired man leans on a walking stick. Except no walking stick I'd ever swept out from under a table carried a hand's width of flat blade at its head, carved its whole length finer than anything off a mortal tool, the wood so dark and dense it might have been wet stone. A glaive. Held grounded, blade to the dirt, in the one way a thing can hold a polearm that doesn't read as about to use it — which somehow made it worse, the courtesy of it, the way a big animal sitting still and watching you is worse than one already moving.~~ Strapped across the back of its waist, only the leather-wrapped handles showing, were a pair of blades i'd later learn were Falkas. Each one as long as a forearm, delicately carved their entire length, leaf-shaped but angled slightly down, and weighted towards the tip. "Better for chopping" I was later told. The cloak hid the hooves badly, the hood didn't hide the eye at all, ~~the staff was not a staff,~~ and the whole of it gave the impression of something that had learned how to be unalarming from a single description, once, and gotten every detail a little, and terribly, wrong. The way a large animal sitting still ans watching you, is worse than one already moving. 
 
 My hand was on my own blade. I left it there.
 
@@ -75,7 +75,7 @@ The thing's eye stayed on me. The body hadn't moved to follow it — the whole o
 
 "I did ask," the thing said.
 
-The voice arrived like the first stones of a rockslide — not loud, not sharp, felt as much as heard, happening in the chest before it reached the ears. I hadn't expected it to speak. I took my hand off my blade — not because I'd decided it was safe, but because I'd decided that if it wasn't, the blade wouldn't be the relevant variable.
+The voice arrived like the first stones of a rockslide — not loud, not sharp, felt as much as heard, happening in the chest before it reached the ears. I hadn't expected it to speak. I took my hand off my blade — not because I'd decided it was safe, but because I'd decided that if it wasn't, my blade wouldn't be the relevant variable.
 
 "All right," I said, mostly to buy a breath. Then, to Roan, because it was easier than talking to the thing: "What did Tondi tell you to do, exactly? Her words."
 
@@ -95,9 +95,9 @@ Roan had the look of a man who's found a puppy and is hoping no one will tell hi
 
 It returned the head to wherever it kept such things, with that same wrong, unhurried motion, and said nothing, which I was starting to understand was how it agreed.
 
-So the three of us went back the way Roan had come — me in front, because it felt important to be in front; the thing behind me, its tread landing wrong on the packed earth; Roan at the rear with the air of a man escorting a prisoner he isn't sure is actually his. The town stayed dark and shuttered. If anyone watched, they kept it to themselves.
+So the three of us went to the inn — me in front, because it felt important to be in front; the thing behind me, its tread landing wrong on the packed dirt; Roan at the rear with the air of a man escorting a prisoner he isn't sure is actually his. The town stayed dark and shuttered. If anyone watched, they kept it to themselves.
 
-At the inn I unlocked the gate but didn't open it, and turned to face the thing properly, the building at my back as though that would help.
+At the inn I unlocked the gate but didn't open it, and turned to face the thing properly, with the building at my back as though that would help.
 
 "Tondi set the condition," I said, "and Tondi's asleep, and I'm not waking her for this. So. You can't come in until she's seen that head and said you're what you say you are. Her rule, not mine, and I'm not clever enough to overrule it tonight. But you can wait inside the gate. That much is my call."
 
@@ -115,7 +115,7 @@ I looked at Roan. Roan looked at the thing.
 
 He opened his mouth. Closed it.
 
-I checked the lock — combination set, the hexwood bolt sliding home with its reassuring click — and gave Roan the look I hoped said *not my problem*, and went.
+I checked the lock — combination set, the hexwood bolt sliding home with its reassuring click — and gave Roan the look I hoped said *not my problem*, and left.
 
 Behind me, rounding the mill, I heard him say, at about a third of his usual volume, "Do you need anything? Water, or—" and stop, presumably having remembered what he was talking to.
 
