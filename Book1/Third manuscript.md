@@ -136,7 +136,7 @@ I took my coat off. Told myself I'd sleep, and was surprised, after a while, to 
 
 # Three
 
-I found out later what Third did while I was asleep.
+I found out later what he did while I was asleep. I'm not exactly sure when it stopped being *it* in my head, I only noticed I'd already done it - the way you notice, well after the fact, that you've started calling someone by their first name. 
 
 When I came around the corner of the mill with my coat still half-buttoned and my eyes not fully decided about being open, he was there. Something about the way he was standing — not the stillness, which was always there, but the quality of it — made me stop walking about a dozen paces out.
 
@@ -146,7 +146,7 @@ His eye found me — the glow settling, one lid dropping fractionally as it fixe
 
 "Did you sleep?" I asked, because I was not yet awake enough for a more sophisticated opening.
 
-There was a bellows-wheeze, slow and considered, from somewhere inside the thing before the avalanche spoke. "I do not need sleep. However, during the dark I did advise someone that attempting a non-front-door entry during non-open hours would not be in their best interest. They then left."
+There was a bellows-wheeze, slow and considered, from somewhere inside his chest before the avalanche spoke. "I do not need sleep. However, during the dark I did advise someone that attempting a non-front-door entry during non-open hours would not be in their best interest. They then left."
 
 I thought about that for a moment. My heart was doing what it had been doing since I'd turned the corner and seen him — the specific rhythm of a body that hasn't yet caught up to the decision the mind already made.
 
@@ -168,15 +168,13 @@ I asked him why he hadn't said any of this the night before. He said I hadn't as
 
 He'd stayed at the window the rest of the night, he said — for no reason he could name precisely. The night was the same. The patrol was the same. The town was the same. It had simply seemed the right place to be when morning came, if morning was going to bring what he thought it might.
 
-I got the lock open. "What did you think morning was going to bring?"
+Once inside, i put away my coat and got him to a seat. "What did you think morning was going to bring?"
 
 He said: someone willing to ask how soon.
 
 "Looks like it might get stony today," I said — the sky had that particular flat quality that usually meant falling rocks by mid-morning.
 
-He followed me inside.
-
-I started the morning routine — shutters, stove, stew selection — and did not think about the fact that there was a Titanspawn Forged standing in the corner of my inn wearing its worn cloak, and watching me with one blue eye.
+I started the morning routine — shutters, stove, stew selection — and did not think about the fact that there was a Titanspawn Forged sitting in the corner of my inn wearing its worn cloak, and watching me with one blue eye.
 
 I was not thinking about it very hard.
 
@@ -199,7 +197,7 @@ The rocks were just starting to bounce off the roof, a loud plinking off the woo
 
 And then she stopped.
 
-The plinking continued, but abated slightly, as if waiting for our mender to gather herself. That was the thing I would think about afterward, when I had time to think about things. The scream was real — she was genuinely, fully startled, a grey-haired woman finding a Titanspawn standing in the corner of her inn at first light. But the stopping was just as real, and faster than it had any right to be. One breath of pure shock, and then something behind her eyes simply went to work, sorting the impossible thing in the corner into categories, weighing it, and arriving — visibly, in the space of about two heartbeats — at a conclusion.
+The plinking continued, but abated slightly, as if waiting for our mender to gather herself. That was the thing I would think about afterward, when I had time to think about things. The scream was real — she was genuinely, fully startled, a grey-haired woman finding a Titanspawn sitting in the corner of her inn at first light. But the stopping was just as real, and faster than it had any right to be. One breath of pure shock, and then something behind her eyes simply went to work, sorting the impossible thing in the corner into categories, weighing it, and arriving — visibly, in the space of about two heartbeats — at a conclusion.
 
 The conclusion was: this requires information, not panic.
 
@@ -211,15 +209,15 @@ It was not really a question. I answered it anyway, from the kitchen doorway, wi
 
 Tondi looked at me. Then she looked at Third. Then she looked back at me with an expression that communicated, with great economy, that we would be discussing the limits of my judgement at a later date.
 
-Third, to its credit, did the thing it always did when it became the subject of a room's attention, which was nothing. It simply turned its head toward Tondi, and waited.
+Third, to his credit, did the thing he always did when he became the subject of a room's attention, which was nothing. He simply turned his head toward Tondi, and waited.
 
-Then it produced the Shredder's head.
+Then he produced the Shredder's head.
 
-I had seen it do this the night before and it had unsettled me then. In the morning light, with Tondi watching, it was somehow worse — the arm going around to the back without the body turning, the angles wrong, the whole motion carrying the casual competence of something that had been retrieving objects from impossible places for longer than the town had existed. The head came out and was held forth at arm's length, a gruesome offering between two intelligent beings, neither of whom was entirely sure what the correct etiquette was.
+I had seen him do this the night before and it had unsettled me then. In the morning light, with Tondi watching, it was somehow worse — the arm going around to the back without the body turning, the angles wrong, the whole motion carrying the casual competence of something that had been retrieving objects from impossible places for longer than the town had existed. The head came out and was held forth at arm's length, a gruesome offering between two intelligent beings, neither of whom was entirely sure what the correct etiquette was.
 
 "This was what you sought," Third said. The voice did the thing it did — arrived in the chest before the ears. "As I understood it. If it is not sufficient, I will leave."
 
-There was a silence then that I would not wish on anyone. Tondi standing very still. Third holding a decapitated Shredder head at arm's length. Me in the doorway with a vegetable. The fire not yet lit, the room cold, the light coming grey through the shutters I hadn't opened yet.
+There was a silence then that I would not wish on anyone. Tondi standing very still. Third holding a decapitated Shredder head at arm's length. Me in the doorway with a vegetable. The fire not yet lit, the room cold, the light coming grey through the just-opened shutters.
 
 The stony had passed. Tondi closed her eyes for a breath. I watched her hands, which had balled into fists at her sides, slowly uncurl. When she opened her eyes again, she had decided something, and Tondi deciding something was a force roughly equivalent to weather.
 
@@ -229,7 +227,7 @@ The word being cost her something. I could hear it. But she said it, which was T
 
 "That said," she went on, "some of the townsfolk—" She stopped, reconsidered, and corrected herself with the flat honesty that was the closest thing she had to a personality trait. "Most of the townsfolk will not understand. Would you mind setting yourself somewhere more out of the centre of the room. And—" she looked at the cloak, which was doing its usual poor job. "—covering yourself a bit more thoroughly. Scar's sake."
 
-She did not wait for an answer. She walked to the corner she always sat in, the one with the best light for mending, and she picked up the cup of water I put out for her every morning, and she drank from it, and she almost visibly relaxed. Third looked down at its cloak, considering the problem of how to cover itself better. This required the use of an arm, so it set the Shredder's head down on the nearest table — without any apparent concern for the fact that it was a decapitated head on a table where people would later eat — and began trying to arrange the inadequate cloak into something more adequate.
+She did not wait for an answer. She walked to the corner she always sat in, the one with the best light for mending, and she picked up the cup of water I put out for her every morning, and she drank from it, and she almost visibly relaxed. Third looked down at its cloak, considering the problem of how to cover himself better. This required the use of an arm, so it set the Shredder's head down on the nearest table — without any apparent concern for the fact that it was a decapitated head on a table where people would later eat — and began trying to arrange the inadequate cloak into something more adequate.
 
 I put the vegetable down and went over to Tondi, not for conversation, which one did not seek with Tondi, but because there was a tablecloth on the pile of her current projects that was past saving, stained and fraying, not worth the Black it would take to mend.
 
