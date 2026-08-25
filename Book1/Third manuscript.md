@@ -59,7 +59,7 @@ They stopped a few paces short of me — far enough to let me look at the thing 
 
 Wooden limbs, with just disturbingly too-long forearms, wrapped in something like leather, in the way of something built to suggest muscle without quite managing it. A cloak doing an earnest, unsuccessful job of concealing the wearer, mostly because the wearer had cloven hooves where feet should be, and the sole-less boots someone had pulled over them had long since worn through. And in the shadow of the hood, slightly off-centre, one eye: a hole in smooth wood, lit from somewhere inside, a steady blue. Not facing me — and then it was, the glow finding me, settling, brightening a fraction as it fixed in place.
 
-~~And a staff. Or what I took for a staff, in the first half-second, before the rest of it caught up — a tall shaft of dark, close-grained wood, held in one wooden hand the way a tired man leans on a walking stick. Except no walking stick I'd ever swept out from under a table carried a hand's width of flat blade at its head, carved its whole length finer than anything off a mortal tool, the wood so dark and dense it might have been wet stone. A glaive. Held grounded, blade to the dirt, in the one way a thing can hold a polearm that doesn't read as about to use it — which somehow made it worse, the courtesy of it, the way a big animal sitting still and watching you is worse than one already moving.~~ Strapped across the back of its waist, only the leather-wrapped handles showing, were a pair of blades i'd later learn were Falkas. Each one as long as a forearm, delicately carved their entire length, leaf-shaped but angled slightly down, and weighted towards the tip. "Better for chopping" I was later told. The cloak hid the hooves badly, the hood didn't hide the eye at all, ~~the staff was not a staff,~~ and the whole of it gave the impression of something that had learned how to be unalarming from a single description, once, and gotten every detail a little, and terribly, wrong. The way a large animal sitting still ans watching you, is worse than one already moving. 
+ Strapped across the back of its waist, only the leather-wrapped handles showing, were a pair of blades i'd later learn were Falkas. Each one as long as a forearm, delicately carved their entire length, leaf-shaped but angled slightly down, and weighted towards the tip. "Better for chopping" I was later told. The cloak hid the hooves badly, the hood didn't hide the eye at all, and the whole of it gave the impression of something that had learned how to be unalarming from a single description, once, and gotten every detail a little, and terribly, wrong. The way a large animal sitting still ans watching you, is worse than one already moving. 
 
 My hand was on my own blade. I left it there.
 
@@ -237,7 +237,7 @@ She didn't look up. She made a sound that I had learned to interpret, over many 
 
 I took the cloth.
 
-"Here," I said to Third, and draped it over its back and shoulders, on top of the failing cloak. With the tablecloth added, and Third positioned away from the door and out of the direct sightline of anyone walking in, you would have to get fairly close to notice the hooves, or the wrongness of the arms, or the glaive it had stood point-down in the angle of the wall behind it — close enough that its hand could have found the shaft without looking — or the single blue glow where a face should have been.
+"Here," I said to Third, and draped it over his back and shoulders, on top of the failing cloak. With the tablecloth added, and Third positioned away from the door and out of the direct sightline of anyone walking in, you would have to get fairly close to notice the hooves, or the wrongness of the arms, or the single blue glow where a face should have been.
 
 Klar arrived for his shift just then, which was its own small mercy, because Klar arriving meant the morning had to resume being a morning. I took the Shredder's head off the table before he could see where it had been sitting and handed it to him.
 
@@ -260,13 +260,13 @@ I did not examine that decision very closely either.
 
 # Five
 
-The day did what days do. Customers came for the stew and left having eaten it; the Scar crawled its slow arc overhead; Tondi mended and grumbled and eventually went up to rest; and through all of it the thing in the corner sat under its tablecloth and did not move, until the light began to fail and the inn emptied to nothing and I found that I had run out of reasons not to go and sit with it.
+The day did what days do. Customers came for the stew and left having eaten it; the Scar crawled its slow arc overhead; Tondi mended and grumbled and eventually went up to rest; and through all of it the thing in the corner sat under its tablecloth and did not move, except to adjust the Falkas on its back rarely, until the light began to fail and the inn emptied to nothing and I found that I had run out of reasons not to go and sit with it.
 
-So I brought my stew, just in case. The tablecloth had done a passable job of hiding the worst of it, but up close, where I was sitting, there was no pretending the thing across the corner table from me was anything other than what it was. The glaive leaned in the corner at its shoulder, point on the floorboards, near enough to its hand that it never had to look for it. It had sat there through a whole day of customers and stew and Tondi's grumbling and had not once reached for it — but it had not let it out of reach, either, the way you keep a thing you have carried so long that setting it down would feel like setting down a hand. The wooden hand with its too-many joints resting on the table's edge. The faint sound, every so often, of something mechanical inside a chest that didn't move. And the eye — one blue eye, set slightly off-centre in a smooth featureless face, which had not so much looked at me as found me, the glow of it fixing in place with a weight I could almost feel.
+So I brought my stew, just in case. The tablecloth had done a passable job of hiding the worst of it, but up close, where I was sitting, there was no pretending the thing across the corner table from me was anything other than what it was.  The wooden hand with its too-many joints resting on the table's edge. The faint sound, every so often, of something mechanical inside a chest that didn't move. And the eye — one blue eye, set slightly off-centre in a smooth featureless face, which had not so much looked at me as found me, the glow of it fixing in place with a weight I could almost feel.
 
-I'd served odder, maybe. Tondi, for one.
+I'd served stranger, maybe. Tondi, for one.
 
-What I kept coming back to was the weapon. Slung across its back, under the failing cloak, was a Boltcaster — a real one, a lightning-gun, the kind the militia talked about the way some men talk about women they'll never meet. Ours had exactly none. And here was one riding the back of a Titanspawn that fought with a curved wooden blade it kept in its hand, while the Boltcaster stayed where it was, unslung, unfired, gathering the same dust as the rest of it.
+What I kept coming back to was the weapon. Slung across its back, under the failing cloak, was a Boltcaster — a real one, a lightning-gun, the kind the militia talked about the way some men talk about women they'll never meet. Ours had exactly none. And here was one riding the back of a Titanspawn that fought with curved wooden blades it kept in its hands, while the Boltcaster stayed where it was, unslung, unfired, gathering the same dust as the rest of it.
 
 "You don't use that," I said, before I'd decided to. I nodded at the weapon. "The Boltcaster. You've had a blade in your hand twice since you got here and that thing hasn't come off your back once."
 
@@ -302,7 +302,7 @@ I thought about that — Third standing in the pre-dawn, reading a knee-high pli
 
 "I have found it useful to understand a place before asking something of it."
 
-Before asking something of it. I looked at the tablecloth they'd draped over him — my idea, technically, though Tondi had grunted permission — and tried to remember if I'd ever thought of this town as something that could be asked things. I'd mostly thought of it as somewhere I'd been born and hadn't left.
+Before asking something of it. I looked at the tablecloth I'd draped over him — my idea, technically, though Tondi had grunted permission — and tried to remember if I'd ever thought of this town as something that could be asked things. I'd mostly thought of it as somewhere I'd been born and hadn't left.
 
 "What are you asking of it?" I said. "Specifically."
 
