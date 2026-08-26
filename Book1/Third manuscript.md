@@ -361,7 +361,7 @@ I nodded slowly. Outside, the patrol's footsteps had faded. The Scar was almost 
 
 # Six
 
-"Soon" he'd said, which id took for a wor to avoid choosing a number. it turned out to mean the next day, and it wasnt Third who chose the date. 
+"Soon" he'd said, which I'd took for a word to avoid choosing a number. it turned out to mean the next day, and it wasnt Third who chose the date. 
 
 The traveller came in a little after midday, which was the wrong time for travellers. They arrived in the evening, mostly, when the dark was coming and a roof seemed worth paying for. A midday arrival meant someone who had been walking through the night, which meant someone who had not felt safe stopping, which meant news, and news that came in on foot at the wrong time of day was never the good kind.
 
