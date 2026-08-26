@@ -249,7 +249,7 @@ Klar's whole face changed. He had not yet looked up enough to register the Forge
 
 And he was gone.
 
-I looked at Third, in its corner, under its tablecloth, with its one blue eye, watching the room with the patience of something that had decided this was an acceptable place to be and had no particular feelings about how long it took. I looked at Tondi, mending, her water at her elbow, behaving as though there were not a Titanspawn in her inn.
+I looked at Third, in his corner, under his tablecloth, with his one blue eye, watching the room with the patience of something that had decided this was an acceptable place to be and had no particular feelings about how long it took. I looked at Tondi, mending, her water at her elbow, behaving as though there were not a Titanspawn in her inn.
 
 Then I went and lit the stove, because the stew was not going to make itself, and because I had apparently decided, somewhere in the last few hours, that this was simply how the morning was going to go.
 
