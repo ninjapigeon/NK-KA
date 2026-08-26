@@ -361,6 +361,8 @@ I nodded slowly. Outside, the patrol's footsteps had faded. The Scar was almost 
 
 # Six
 
+"Soon" he'd said, which id took for a wor to avoid choosing a number. it turned out to mean the next day, and it wasnt Third who chose the date. 
+
 The traveller came in a little after midday, which was the wrong time for travellers. They arrived in the evening, mostly, when the dark was coming and a roof seemed worth paying for. A midday arrival meant someone who had been walking through the night, which meant someone who had not felt safe stopping, which meant news, and news that came in on foot at the wrong time of day was never the good kind.
 
 He was Humin, middle-aged, with the particular grey-faced look of a man who has used up everything he had and is running on the memory of it. There was a wound on his forearm, bound with a strip of his own shirt, and the binding had gone stiff and dark. He came through the door and stopped just inside it, the way people do when they have been moving toward a destination for so long that arriving leaves them with nothing to do.
