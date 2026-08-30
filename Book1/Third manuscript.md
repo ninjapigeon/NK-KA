@@ -407,7 +407,7 @@ The traveller hadn't noticed. He was looking into his cup.
 
 "You shouldn't have," Tondi said, gently, which was a register I had heard from her perhaps twice in my life.
 
-"I know. I did anyway." He looked up, and his eyes found mine, and I wished they hadn't, because there was something in them that I did not have anywhere to put. "There was something there. Walking through it. Through what was left. Not a Ravager — the Ravagers were gone, they'd moved on, they don't linger. This was after. Something walking through the dead, slow, like it was — looking for something. Going building to building. And the survivors, there were a few of us hiding, and it walked right past us. Right past. Didn't look. Didn't care. Like we weren't worth the turning of its head."
+"I know. I did anyway." He looked up, and his eyes found mine, and I wished they hadn't, because there was something in them that I did not have anywhere to put. "There was something there. Walking through it. No wait, more like floated through it. Through what was left. Not a Ravager — the Ravagers were gone, they'd moved on, they don't linger. This was after. Something floating through the dead, slow, like it was — looking for something. Going building to building. And the survivors, there were a few of us hiding, and it went right past us. Right past. Didn't look. Didn't care. Like we weren't worth the turning of its head."
 
 The bellows again. Slow. Across the room. I kept my eyes on the traveller.
 
