@@ -569,11 +569,11 @@ It was, I realised as I said it, the first time in my life I had asked Tondi to 
 
 I didn't say anything. There wasn't a safe thing to say.
 
-She set the mending down — which she did not do, which I had perhaps seen her do twice — and reached into the basket at her side, and came up with a small roll of waxed cloth. She put it on the table between us and pushed it across with two fingers, the way she pushed everything she didn't want to be thanked for.
+She set the mending down — which I had perhaps seen her do twice — and reached into the basket at her side, and came up with a small roll of waxed cloth. She put it on the table between us and pushed it across with two fingers, the way she pushed everything she didn't want to be thanked for.
 
 "Needles," she said. "Three. hexwood, anointed proper — not the bone kind that snaps when you breathe on it. And thread, the waxed gut, it'll hold through wet. You'll tear something out there — a pack strap, a coat, your own skin, doesn't matter — and there won't be a mender, because the mender will be here, being the thing you come back to." She still hadn't looked up. "I'd rather you didn't bleed out because you lacked the tools to close a seam. It would reflect poorly on me."
 
-I picked up the roll. It weighed almost nothing. hexwood needles were not nothing — anointing wood that fine took a Crafter's whole patience and a measure of titan-blood besides, and a mender's needles were the kind of thing that got named in wills, handed down, guarded like teeth. She would have had these longer than she'd had me.
+I picked up the roll. It weighed almost nothing. hexwood needles were not nothing — anointing wood that fine took a Crafter's whole patience and a measure of titan-blood besides, and a mender's needles were the kind of thing that got named in wills, handed down, guarded like teeth. She would have had these longer than she'd employed me.
 
 "Tondi—"
 
