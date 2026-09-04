@@ -14,7 +14,7 @@ The last customer left when the Scar had wheeled to a hand's-width from full dar
 
 "You don't have to stay," I told him — which was true, and also the thing you say when you'd rather not lock up alone.
 
-"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. The fire burned to coals, the smell of the bricks and their hint of starch, always filled my nose with a touch of confusion. was it morning or evening?
+"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. The fire burned to coals, the smell of the bricks and their hint of starch, always filled my nose with a touch of confusion. Was it morning or evening?
 
 Through the shutters came the militia's boots on the packed earth, the patrol heading out, a touch of wax scent in their wake from their yet-unlit torches. 
 
@@ -83,7 +83,7 @@ The voice arrived like the first stones of a rockslide — not loud, not sharp, 
 
 "All right," I said, mostly to buy a breath. Then, to Roan, because it was easier than talking to the thing: "What did Tondi tell you to do, exactly? Her words."
 
-He worked at it. "She said — if it's reasonable, there's a condition. For letting it in. She said tell it to bring back the head of the Subsurface Shredder, the one that's been working the trail anti-spinward. Proof it's what it says it is." He glanced at it. "And bring the head to her. Not take its word."
+He worked at it. "She said — because I explained it had already come yesterday, and asked, which she said meant it was reasonable - if it's reasonable, there's a condition. For letting it in. She said tell it to bring back the head of the Subsurface Shredder, the one that's been working the trail anti-spinward. Proof it's what it says it is." He glanced at it. "And bring the head to her. Not to take its word."
 
 "You heard her," I said to the thing. "Proof. Do you have the Shredder's head?"
 
@@ -97,7 +97,7 @@ Roan had the look of a man who's found a puppy and is hoping no one will tell hi
 
 "Put that away," I said. "Please. And — fine. Come back to the inn. I'm not deciding anything out here in the dark."
 
-It returned the head to wherever it kept such things, with that same wrong, unhurried motion, and said nothing, which I was starting to understand was how it agreed.
+It returned the head to wherever it kept such things, somewhere under that cloak, with that same wrong, unhurried motion, and said nothing, which I was starting to understand was how it agreed.
 
 So the three of us went to the inn — me in front, because it felt important to be in front; the thing behind me, its tread landing wrong on the packed dirt; Roan at the rear with the air of a man escorting a prisoner he isn't sure is actually his. The town stayed dark and shuttered. If anyone watched, they kept it to themselves.
 
