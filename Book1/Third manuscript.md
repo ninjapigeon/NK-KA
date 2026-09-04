@@ -91,7 +91,7 @@ He worked at it. "She said — if it's reasonable, there's a condition. For lett
 
 Then it reached an arm around to its own back — not turning, not rotating at the shoulder the way a person would, the arm just going where arms don't go, at angles that put a sympathetic twinge in my own shoulder — and produced, from somewhere behind itself, the head. Held it out at arm's length, in a manner that suggested it found the object neither interesting nor troubling.
 
-I looked at the head. Squid-like, but with six eyes, each pair a different size, all of them clouded now. The skin pale past the pallor of death — a thing that had lived mostly without light. By reputation it ambushed the unwary and was the last thing they ever met. By appearance, now, it was an oversized dead fish. Funny, how much death takes out of a thing.
+I looked at the head. Squid-like, but with six eyes, each pair a different size, all of them clouded now. The skin pale past the pallor of death — a thing that had lived mostly without light. By reputation it ambushed the unwary and was the last thing they ever met. By appearance, now, it was an oversized dead fish. Didn't smell much better either. Funny, how much death takes out of a thing.
 
 Roan had the look of a man who's found a puppy and is hoping no one will tell him to put it down.
 
