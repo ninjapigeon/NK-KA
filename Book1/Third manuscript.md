@@ -243,7 +243,7 @@ I took the cloth.
 
 "Here," I said to Third, and draped it over his back and shoulders, on top of the failing cloak. With the tablecloth added, and Third positioned away from the door and out of the direct sightline of anyone walking in, you would have to get fairly close to notice the hooves, or the wrongness of the arms, or the single blue glow where a face should have been.
 
-Klar arrived for his shift just then, which was its own small mercy, because Klar arriving meant the morning had to resume being a morning. I took the Shredder's head off the table before he could see where it had been sitting and handed it to him.
+Klar arrived for his shift just then, which was its own small mercy, because Klar arriving meant the morning had to resume being a morning. I took the Shredder's head off the table before he could see where it had been sitting and handed it to him, the smell still lingering to the old wood.
 
 "Customer brought us a trophy," I said. "Think you can do something with it?"
 
