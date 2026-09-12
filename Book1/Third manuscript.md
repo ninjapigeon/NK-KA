@@ -264,7 +264,7 @@ I did not examine that decision very closely either.
 
 # Five
 
-The day did what days do. Customers came for the stew and left having eaten it; the Scar crawled its slow arc overhead; Tondi mended and grumbled and eventually went up to rest; and through all of it the thing in the corner sat under its tablecloth and did not move, except to adjust the Falkas on its back rarely, until the light began to fail and the inn emptied to nothing and I found that I had run out of reasons not to go and sit with it.
+The day did what days do. Customers came for the stew and left having eaten it; the Scar crawled its slow arc overhead; Tondi mended and grumbled and eventually went up to rest; and through all of it the thing in the corner sat under its tablecloth and did not move, except to adjust the Falkas on its back, until the light began to fail and the inn emptied to nothing and I found that I had run out of reasons not to go and sit with him. 
 
 So I brought my stew, just in case. The tablecloth had done a passable job of hiding the worst of it, but up close, where I was sitting, there was no pretending the thing across the corner table from me was anything other than what it was.  The wooden hand with its too-many joints resting on the table's edge. The faint sound, every so often, of something mechanical inside a chest that didn't move. And the eye — one blue eye, set slightly off-centre in a smooth featureless face, which had not so much looked at me as found me, the glow of it fixing in place with a weight I could almost feel.
 
@@ -284,11 +284,11 @@ For a moment I thought I'd asked the wrong thing, in the way you can feel a wron
 
 I didn't say anything. There are sentences you don't step on.
 
-"Dorn travelled with me," it went on, when it had decided I'd earned the rest. "He told jokes. There was one he was fond of, concerning a Mender, a Crafter, and a Grask. I will not attempt to reproduce it. The delivery was the entire substance of the thing, and the delivery was his." The glow dimmed a fraction. "He was killed by a Subsurface Shredder. It came up through the ground where we had made camp, and it was very fast, and I was not fast enough, which is a thing I have had occasion to be more than once and have never learned to care for."
+"Dorn travelled with me," he went on, when he had decided I'd earned the rest. "He told jokes. There was one he was fond of, concerning a Mender, a Crafter, and a Grask. I will not attempt to reproduce it. The delivery was the entire substance of the thing, and the delivery was his." The glow dimmed a fraction. "He was killed by a Subsurface Shredder. It came up through the ground where we had made camp, and it was very fast, and I was not fast enough, which is a thing I have had occasion to be more than once and have never learned to care for."
 
 "I'm sorry," I said.
 
-"Thank you." Stated simply, the way it said most things — not performed, just received and set down, like a toll paid. "There was a third of us, also. Adura. She was not taken by any creature. She had been unwell for a long while, and one day the being unwell finished what it had been doing slowly." The eye held on me. "I mention them because you should understand what travelling with me has tended to cost the people who have done it. It would be dishonest to ask without saying so."
+"Thank you." Stated simply, the way he said most things — not performed, just received and set down, like a toll paid. "There was a third of us, also. Adura. She was not taken by any creature. She had been unwell for a long while, and one day the being unwell finished what it had been doing slowly." The eye held on me. "I mention them because you should understand what travelling with me has tended to cost the people who have done it. It would be dishonest to ask without saying so."
 
 I turned my cup in my hands. The stew had gone cold while we'd been talking and I hadn't noticed. "So you're looking for new ones. Companions."
 
@@ -312,7 +312,7 @@ Before asking something of it. I looked at the tablecloth I'd draped over him �
 
 "For someone — or several someones — willing to travel with a Titanspawn toward a problem that will likely become violent, with no guarantee of return, in service of preventing something most people do not yet know is happening."
 
-The stew was definitely cold. I pushed it aside. "And what is happening? The thing most people don't know about."
+The stew was definitely cold. The inviting smell it had while warm, had fled with my appetite. I pushed it aside. "And what is happening? The thing most people don't know about."
 
 The eye did not move from me. Whatever considering was happening, it happened behind that fixed blue point. Something settled in the set of the wooden shoulders — a decision being made about how much to say.
 
@@ -369,9 +369,9 @@ I nodded slowly. Outside, the patrol's footsteps had faded. The Scar was almost 
 
 The traveller came in a little after midday, which was the wrong time for travellers. They arrived in the evening, mostly, when the dark was coming and a roof seemed worth paying for. A midday arrival meant someone who had been walking through the night, which meant someone who had not felt safe stopping, which meant news, and news that came in on foot at the wrong time of day was never the good kind.
 
-He was Humin, middle-aged, with the particular grey-faced look of a man who has used up everything he had and is running on the memory of it. There was a wound on his forearm, bound with a strip of his own shirt, and the binding had gone stiff and dark. He came through the door and stopped just inside it, the way people do when they have been moving toward a destination for so long that arriving leaves them with nothing to do. And he brought with him the smell of someone who had been moving for a long time, but his breath was dry - no courage there.
+He was Humin, middle-aged, with the particular grey-faced look of a man who has used up everything he had and is running on the memory of it. There was a wound on his forearm, bound with a strip of his own shirt, and the binding had gone stiff and dark. He came through the door and stopped just inside it, the way people do when they have been moving toward a destination for so long that arriving leaves them with nothing to do. And he brought with him the smell of someone who had been moving for a long time, but his breath was dry - any courage in him, was wntirely his own.
 
-I got him into a chair before he fell into one. Klar brought water without being asked, which was Klar. Tondi, in her corner, set down her mending and watched, which was Tondi. And in the other corner, under his tablecloth, Third did not move at all, which by now I had stopped finding remarkable.
+I got him into a chair before he fell into one. Klar brought water without being asked, which was Klar. Tondi, in her corner, set down her mending and watched, which was Tondi. And in the other corner, under his tablecloth again, Third did not move at all, which by now I had stopped finding remarkable.
 
 The traveller drank. His hands shook. When he could speak, the first thing he said was a name I half-recognised — Chipwood — a settlement maybe two days spinward, on the same trail as ours, the kind of place that was to us what we were to Dunarth. Smaller. Further out. The next notch down the line.
 
@@ -417,7 +417,7 @@ The bellows again. Slow. Across the room. I kept my eyes on the traveller.
 
 "What did it look like," I asked, and my voice came out steadier than I felt.
 
-"I don't know. Cloaked. Hunched. There was a — a light on its back, blue-white, like a bottled storm, like a whole rack of them, glowing through the cloak." He shuddered, and it was not from the wound. "It found whatever it was looking for in the headman's house. I heard it — there was a sound like a building being unmade. And then it left. Anti-spinward. Away from everything. And it never once looked at any of us."
+"I don't know. Cloaked. Hunched. There was — there were lights on its back, blue-white, like a bottled storm, like a whole rack of them, glowing through the cloak." He shuddered, and it was not from the wound. "It found whatever it was looking for in the headman's house. I heard it — there was a sound like a building being unmade. And then it left. Anti-spinward. Away from everything. And it never once looked at any of us."
 
 He went quiet then, all the way quiet, the quiet of a man who has finally set down the thing he had been carrying and discovered that setting it down does not make it lighter, only shared.
 
