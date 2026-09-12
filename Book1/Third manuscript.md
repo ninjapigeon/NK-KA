@@ -150,7 +150,7 @@ His eye found me — the glow settling, one lid dropping fractionally as it fixe
 
 "Did you sleep?" I asked, because I was not yet awake enough for a more sophisticated opening.
 
-There was a bellows-wheeze, slow and considered, from somewhere inside his chest before the avalanche spoke. "I do not need sleep. However, during the dark I did advise someone that attempting a non-front-door entry during non-open hours would not be in their best interest. They then left."
+There was a bellows-wheeze, slow and considered, from somewhere inside his chest. It vented the smell of something old, before the avalanche spoke. "I do not need sleep. However, during the dark I did advise someone that attempting a non-front-door entry during non-open hours would not be in their best interest. They then left."
 
 I thought about that for a moment. My heart was doing what it had been doing since I'd turned the corner and seen him — the specific rhythm of a body that hasn't yet caught up to the decision the mind already made.
 
@@ -369,7 +369,7 @@ I nodded slowly. Outside, the patrol's footsteps had faded. The Scar was almost 
 
 The traveller came in a little after midday, which was the wrong time for travellers. They arrived in the evening, mostly, when the dark was coming and a roof seemed worth paying for. A midday arrival meant someone who had been walking through the night, which meant someone who had not felt safe stopping, which meant news, and news that came in on foot at the wrong time of day was never the good kind.
 
-He was Humin, middle-aged, with the particular grey-faced look of a man who has used up everything he had and is running on the memory of it. There was a wound on his forearm, bound with a strip of his own shirt, and the binding had gone stiff and dark. He came through the door and stopped just inside it, the way people do when they have been moving toward a destination for so long that arriving leaves them with nothing to do.
+He was Humin, middle-aged, with the particular grey-faced look of a man who has used up everything he had and is running on the memory of it. There was a wound on his forearm, bound with a strip of his own shirt, and the binding had gone stiff and dark. He came through the door and stopped just inside it, the way people do when they have been moving toward a destination for so long that arriving leaves them with nothing to do. And he brought with him the smell of someone who had been moving for a long time, but his breath was dry - no courage there.
 
 I got him into a chair before he fell into one. Klar brought water without being asked, which was Klar. Tondi, in her corner, set down her mending and watched, which was Tondi. And in the other corner, under his tablecloth, Third did not move at all, which by now I had stopped finding remarkable.
 

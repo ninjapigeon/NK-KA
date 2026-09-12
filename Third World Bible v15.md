@@ -423,10 +423,9 @@ Abjad, no written vowels.
 
 # PART TWO — KEY DECISIONS & CLIMAX RULINGS (BOOK 1)
 
-Third's weapon: Falcatas — each slightly different, each
-self-made across the centuries. Carries the original Glaive as
-symbol of former office only. Leaves it in the Graveyard at the
-climax. THE GLAIVE IS BONE-COLORED (pale ivory, close to white)
+Third's weapon: Falkas (Falcatas) — each slightly different, each
+self-made across the centuries. The original Glaive was
+a symbol of office. Leaves it in the stream near the Virek boy with the bow. THE GLAIVE IS BONE-COLORED (pale ivory, close to white)
 — Titan-made, never anointed with Titan blood, therefore never
 mahogany-red. [FLAG: any existing Book 1 prose that describes
 the Glaive as dark, wood-toned, or Hexwood-like in color
