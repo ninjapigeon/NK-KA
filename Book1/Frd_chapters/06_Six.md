@@ -1,10 +1,10 @@
 # Six
 
-"Soon" he'd said, which I'd took for a word to avoid choosing a number. it turned out to mean the next day, and it wasnt Third who chose the date.
+"Soon," he'd said, which I took for a word chosen to avoid choosing a number. He kept his watch that night the same as every night, and if he learned anything more in the dark hours he didn't share it with me. The next morning came and went the way mornings did — shutters, stove, the regulars in for their bread — with nothing in any of it to suggest "soon" meant anything closer than it always had. It turned out to mean early afternoon, and it wasn't Third who set the date.
 
 The traveller came in a little after midday, which was the wrong time for travellers. They arrived in the evening, mostly, when the dark was coming and a roof seemed worth paying for. A midday arrival meant someone who had been walking through the night, which meant someone who had not felt safe stopping, which meant news, and news that came in on foot at the wrong time of day was never the good kind.
 
-He was Humin, middle-aged, with the particular grey-faced look of a man who has used up everything he had and is running on the memory of it. There was a wound on his forearm, bound with a strip of his own shirt, and the binding had gone stiff and dark. He came through the door and stopped just inside it, the way people do when they have been moving toward a destination for so long that arriving leaves them with nothing to do. And he brought with him the smell of someone who had been moving for a long time, but his breath was dry - any courage in him, was wntirely his own.
+He was Humin, middle-aged, with the particular grey-faced look of a man who has used up everything he had and is running on the memory of it. There was a wound on his forearm, bound with a strip of his own shirt, and the binding had gone stiff and dark. He came through the door and stopped just inside it, the way people do when they have been moving toward a destination for so long that arriving leaves them with nothing to do. And he brought with him the smell of someone who had been moving for a long time, but his breath was dry - any courage in him was entirely his own.
 
 I got him into a chair before he fell into one. Klar brought water without being asked, which was Klar. Tondi, in her corner, set down her mending and watched, which was Tondi. And in the other corner, under his tablecloth again, Third did not move at all, which by now I had stopped finding remarkable.
 
@@ -74,7 +74,7 @@ The traveller could only nod his frightened head. Third turned his head — the 
 
 "You asked how soon," he said.
 
-I had. The evening before, at the corner table, I had asked exactly that, and he had not answered, and I had gone home thinking I'd have days to decide whether I'd meant it.
+I had. The evening before, at that very table, I had asked exactly that, and he had not answered, and I had gone home thinking I'd have days to decide whether I'd meant it.
 
 "Yes," I said. "I did."
 
