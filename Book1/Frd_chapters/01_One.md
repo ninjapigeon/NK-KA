@@ -4,7 +4,7 @@ The last customer left when the Scar had wheeled to a hand's-width from full dar
 
 "You don't have to stay," I told him — which was true, and also the thing you say when you'd rather not lock up alone.
 
-"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. The fire burned to coals, the smell of the bricks and their hint of starch, always filled my nose with a touch of confusion. Was it morning or evening?
+"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. The fire burning to ashes, the smell of the bricks and their hint of starch, always filled my nose with a touch of confusion. Was it morning or evening?
 
 Through the shutters came the militia's boots on the packed earth, the patrol heading out, a touch of wax scent in their wake from their yet-unlit torches.
 
