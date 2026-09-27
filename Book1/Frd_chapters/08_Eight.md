@@ -2,7 +2,7 @@
 
 I closed the inn that night the way I'd closed it a thousand times, except that I was aware of doing it, which was the difference between a thing you do and a thing you are doing for the last time.
 
-I wiped the tables that did not need wiping, feeling their time worn smooth tops for possibly the last time. I straightened the chairs. I checked the lockbox in the floor, the day's Black inside it — combination set, lever down, lid secured — and I thought about the traveller upstairs, and the town two days spinward that had a lockbox and a memorial pillar and a militia and a closing routine just like this one, right up until it didn't have anything at all. And then I made myself stop thinking about it, because that was a skill I had and there was no sense owning a tool you refused to use.
+I wiped the tables that did not need wiping, feeling their time worn smooth tops for possibly the last time. I straightened the chairs, brushing the marks off the packed earth floor as I went. I checked the lockbox in the floor, the day's Black inside it — combination set, lever down, lid secured — and I thought about the traveller upstairs, and the town two days spinward that had a lockbox and a memorial pillar and a militia and a closing routine just like this one, right up until it didn't have anything at all. And then I made myself stop thinking about it, because that was a skill I had and there was no sense owning a tool you refused to use.
 
 Tondi was in her corner. She had not gone up to bed, which she always did before I finished, which meant she was staying down on purpose, which meant she had something to say and was working her way around to the angle she wanted to say it from. I let her work. You did not hurry Tondi. Hurrying Tondi was how you got the short version, and the short version was always worse.
 
@@ -36,9 +36,9 @@ I didn't say anything. There wasn't a safe thing to say.
 
 She set the mending down — which I had perhaps seen her do twice — and reached into the basket at her side, and came up with a small roll of waxed cloth. She put it on the table between us and pushed it across with two fingers, the way she pushed everything she didn't want to be thanked for.
 
-"Needles," she said. "Three. hexwood, anointed proper — not the bone kind that snaps when you breathe on it. And thread, the waxed gut, it'll hold through wet. You'll tear something out there — a pack strap, a coat, your own skin, doesn't matter — and there won't be a mender, because the mender will be here, being the thing you come back to." She still hadn't looked up. "I'd rather you didn't bleed out because you lacked the tools to close a seam. It would reflect poorly on me."
+"Needles," she said. "Three. Hexwood, anointed proper — not the bone kind that snaps when you breathe on it. And thread, the waxed gut, it'll hold through wet. You'll tear something out there — a pack strap, a coat, your own skin, doesn't matter — and there won't be a mender, because the mender will be here, being the thing you come back to." She still hadn't looked up. "I'd rather you didn't bleed out because you lacked the tools to close a seam. It would reflect poorly on me."
 
-I picked up the roll. It weighed almost nothing. hexwood needles were not nothing — anointing wood that fine took a Crafter's whole patience and a measure of titan-blood besides, and a mender's needles were the kind of thing that got named in wills, handed down, guarded like teeth. She would have had these longer than she'd employed me.
+I picked up the roll. It weighed almost nothing. Hexwood needles were not nothing — anointing wood that fine took a Crafter's whole patience and a measure of titan-blood besides, and a mender's needles were the kind of thing that got named in wills, handed down, guarded like teeth. She would have had these longer than she'd employed me.
 
 "Tondi—"
 
