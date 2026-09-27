@@ -48,7 +48,7 @@ It was just that I was no longer in it.
 
 "How far to the first stop?" I asked, because the silence had gone on long enough and because I had discovered that I did not want to walk inside my own head any further just then.
 
-"Four days to the causeway," Third said, without turning. "If the weather holds and you keep up." A pause. The glow of his eye angled back at me, just slightly, the head not following. "You will keep up. You are already doing better than most."
+"Four days to the causeway," Third said, without turning. "If the weather holds and you keep up." A pause. The glow of his eye angled back at me, just slightly. "You will keep up. You are already doing better than most."
 
 "That's almost encouraging."
 
