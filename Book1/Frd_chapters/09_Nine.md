@@ -32,7 +32,7 @@ I knew that when we crested it, the town would go behind us. The pillar, the inn
 
 I did not look back.
 
-So I kept my eyes on Third's back and the gold on the horizon and the dense warm weight of Klar's bundle in my arms, and I walked over the hill and did not turn around, and I was, I think, a little proud of myself for it.
+So I kept my eyes on Third's back and the gold on the horizon beside me, and the dense warm weight of Klar's bundle in my arms, and I walked over the hill and did not turn around, and I was, I think, a little proud of myself for it.
 
 Roan looked back.
 
