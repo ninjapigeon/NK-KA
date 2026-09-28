@@ -900,6 +900,53 @@ again. Memory of Virek, Humins, Hin; Kro and Ork are strange to
 them; Giants are myth. Third is unique — the only known Akna
 side-stepper.
 
+**FORGED — MILITARY STRUCTURE (locked):**
+
+Rank names, lowest to highest: Shield, Knife, Sword, Glaive.
+
+  - KNIFE: leads a squad of 5 Shields. Squad of 6 (Knife included).
+  - SWORD: leads 5 Knives. Sword + 5 Knives + 25 Shields = 31.
+  - GLAIVE: leads 23 Swords. Full command = 714 Forged:
+      1 Glaive + 23 Swords + 115 Knives + 575 Shields.
+  - Total roster: 24 Glaives. Third was one of them.
+
+Full roster (Glaives / Swords / Knives / Shields):
+      24 / 552 / 2,760 / 13,800   =   17,136 Forged.
+
+THE NUMBER SIX: the Titan(s) liked six. The commander is always
+counted inside the six (Knife + 5 Shields; Sword + 5 Knives).
+Glaives and their Swords together make 24 (four sixes), and 24
+Glaives x 24 (one Glaive + 23 Swords) = 576 = 24 squared. Fits the
+"obsessive repetition" convention: a hierarchy of counts that look
+designed, because they were.
+
+THE GLAIVE (weapon): the rank's namesake and its insignia. Third
+carries it as "symbol of former office" (Part Three). This entry
+explains that phrase; it does not change it.
+
+STYLE RULE: capitalise the rank, lowercase the object. "He was a
+Sword" (rank) vs. "he drew his sword" (weapon). Same for Shield
+and Knife. Avoid ambiguous constructions like "the Shield fell."
+
+DORMANT POPULATION: canon says most Forged retreated into torpor
+after Titansfall and "a few have begun stirring." At this scale
+that implies up to ~17,000 sleepers in swamps, caves, and
+forgotten places, of whom Third is the only one known to be awake
+in Book 1. Book 2 era: undecided.
+
+NOT LOCKED (candidates only):
+  - "Hex" in Hexwood as a nod to six. Etymology undecided.
+  - Twelve digits fully unfolded (2 x 6) as deliberate design.
+  - Whether rank was ever marked on a Forged's body. If so, keep
+    it OFF the chest: the hexagonal chest is retired (Part Three).
+  - Fate of the other 23 Glaives, and whether any Swords/Knives/
+    Shields besides Third are awake, active, or lost in Akna.
+  - Whether Forged used these ranks among themselves after
+    Titansfall, or only under the Titan's direction.
+
+BOOK 1 IMPACT: none required. No rank language appears in the
+text. Third's "symbol of former office" reads as-is.
+
 **Giants (NMH):** The first race the Titans made — immortal, but
 sterile, and the creators of the Virek in turn. Did NOT create
 Hin. Went into hiding so thoroughly after Titansfall that even the
