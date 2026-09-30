@@ -4,7 +4,7 @@ The carts had been on the road a long time.
 
 There were four of them, hand-carts of the kind the Hin trader had, overturned and dragged half across the road and left — not recently, the wood gone grey and splitting, one wheel still turning a slow finger's-width back and forth when the wind found it. Whatever had happened here had happened to people going the other way, spinward, toward the town and the trader and the ordinary world, and had happened all at once, the way the bad things on this road seemed to.
 
-"Pulled across deliberate," Roan said, crouching at the nearest. He'd got better at this — at reading a scene before walking into it, at not touching the first thing his hands wanted to touch. "Like a barricade. Someone tried to make a wall of them."
+"Pulled across, deliberate," Roan said, crouching at the nearest. He'd got better at this — at reading a scene before walking into it, at not touching the first thing his hands wanted to touch. "Like a barricade. Someone tried to make a wall of them."
 
 "It didn't work," I said.
 
@@ -54,11 +54,11 @@ There was an arrow in his garb, high on the shoulder, driven through the woven c
 
 He did not finish the thought. It was the first thing he had ever declined to finish.
 
-He could not tell. That was the truth of it, then and after and for every spin that would ever come after: he stood in the wreck of a village with a wet blade in his hand and blood on his armour that was not his own and he could not tell whether he had been one of the ones who made the wall of bodies, or had only arrived in time to stand among it. The others like him had done this. He knew that. He had perhaps done this. He would never know, and the not-knowing would walk in the grey with him forever, and it was walking with him now.
+He could not tell. That was the truth of it, then and after and for every spin that would ever come after: he stood in the wreck of a village with a wet blade in his hand and blood on his armour that was not his own and he could not tell whether he had been one of the ones who added to the sea of bodies, or had only arrived in time to stand among it. The others like him had done this. He knew that. He had perhaps done this. He would never know, and the not-knowing would walk in the grey with him forever, and it was walking with him now.
 
 Then the crying.
 
-It was small and furious and entirely alive, and it came from a bundle near the broken wall of the nearest dwelling, and when his eye found it the crying did not stop, which was itself a kind of marvel — every other living thing he had come near in those early spins had stopped, had frozen or fled. This one only lay on its back and flailed its small green limbs and howled at the torn sky as if the sky had personally done this and owed it an answer.
+It was small and furious and entirely alive, and it came from a bundle near the broken wall of the nearest dwelling, and when his eye found it the crying did not stop, which was itself a kind of marvel — every other living thing he had come near in those early spins had stopped, had frozen or fled. This one only lay on its back and flailed its small green limbs and howled at the sky as if the sky had personally done this and owed it an answer.
 
 *A Virek,* the thoughts said. *Eliminate it. The purpose is not complete while one remains.*
 
