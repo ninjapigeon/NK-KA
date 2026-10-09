@@ -4,7 +4,7 @@ We came off the causeway after travelling it for two days, by one of the corkscr
 
 Then the trees changed.
 
-It wasn't sudden. That was the first wrong thing about it — there was no edge to the place, no line like the held-back margin of the causeway, no moment you could point to and say *here, it starts here.* The ordinary forest simply thinned and was replaced, tree by tree, the way one word in a sentence gets replaced until you look up and the sentence means something else, and by the time I understood what I was looking at we had been walking in it for some while already, which I did not like, because it meant the place had got in before I noticed the door.
+It wasn't sudden. That was the first wrong thing about it — there was no edge to the place, no line like the held-back margin of the causeway, no moment you could point to and say *here, it starts here.* The ordinary forest simply thinned and was replaced, tree by tree, the way one word in a sentence gets replaced until you look up and the sentence means something else, and by the time I understood what I was looking at we had been walking in it for some time already, which I did not like, because it meant the place had got in before I noticed the door.
 
 Every tree was bent the same way.
 
@@ -56,7 +56,7 @@ Nobody said anything for a moment.
 
 "Me too," I said, and meant it, and felt the meaning come back to me from a long way off, like something thawing.
 
-"You will both be sorry several more times before we are clear," Third said, and stood, and something in the flatness of it was almost — not a joke. Third did not make jokes. But the shape where a joke would go, offered to us deliberately, like a hand. "It is the nature of the place. Apologise as often as you need to. It is cheaper than the alternative, and I will not keep count."
+"You will both be sorry several more times before we are clear," Third said, and straightened, and something in the flatness of it was almost — not a joke. Third did not make jokes. But the shape where a joke would go, offered to us deliberately, like a hand. "It is the nature of the place. Apologise as often as you need to. It is cheaper than the alternative, and I will not keep count."
 
 So we walked, and Third walked ahead of us facing backward as often as forward, his eye on the trees, taking the watching off us and onto himself, and it helped. It genuinely helped, to be relieved of the trees, to have one fixed certain thing — *he is watching; if they move he will say* — to lean the mind against.
 
