@@ -2,7 +2,7 @@
 
 The carts had been on the road a long time.
 
-There were four of them, hand-carts of the kind the Hin trader had, overturned and dragged half across the road and left — not recently, the wood gone grey and splitting, one wheel still turning a slow finger's-width back and forth when the wind found it. Whatever had happened here had happened to people going the other way, spinward, toward the town and the trader and the ordinary world, and had happened all at once, the way the bad things on this road seemed to.
+There was a pile of them, hand-carts of the kind the Hin trader had, overturned and dragged half across the road and left — not recently, the wood gone grey and splitting, smell of the wood long gone implying doubt to the mind that they really were there, one wheel still turning a slow finger's-width back and forth when the wind found it. Whatever had happened here had happened to people going the other way, spinward, toward the town and the trader and the ordinary world, and had happened all at once, the way the bad things on this road seemed to.
 
 "Pulled across, deliberate," Roan said, crouching at the nearest. He'd got better at this — at reading a scene before walking into it, at not touching the first thing his hands wanted to touch. "Like a barricade. Someone tried to make a wall of them."
 
