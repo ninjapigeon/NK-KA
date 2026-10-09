@@ -14,7 +14,7 @@ He cooked, too, and he cooked *well*, which after a tenday of my road-fat-and-re
 
 I call it a wall. It was a wall the way the causeway was a bridge — a thing that wore the word loosely and was really something else. It rose out of the grassland a half-day spinward of us, sheer and seamless and grey, as high as a hill and longer than sight, and it went *nowhere.* It did not ring a thing, or hold back a thing, or join a thing. It started out of flat ground at one end and stopped at flat ground at the other and in between it was simply a wall, a colossal straight nothing the Titan had begun and never finished, or finished and never explained, and the wind came round its end with a low constant note like someone blowing across a jug the size of the world. We camped in the lee of it because the lee was out of the wind. That was the only use it had ever been to anyone, and it had not been built for it, and a hundred generations of travellers had warmed themselves against the side of a thing whose entire purpose had died with the child that wanted it.
 
-And there, in the windbreak of an abandoned god-sized whim, the first night he took over the fire, Mathen produced from the same dried fish and tubers I'd been ruining something a person would willingly eat twice, and he did it while talking the entire time, and he served Third a portion.
+And there, in the windbreak of an abandoned god-sized whim, the first night he took over the fire, Mathen produced from the same dried fish and tubers I'd been ruining, into something a person would willingly eat twice, and he did it while talking the entire time, and he served Third a portion.
 
 "I don't eat," Third said. It was not a complaint. Third stated facts about himself the way he stated facts about the weather.
 
@@ -42,7 +42,7 @@ Across the fire, Third had gone very still. Not the stillness that went down int
 
 The fire popped. Roan had stopped chewing.
 
-"And the hero with the bow," Third said, quieter. "There was a boy with a bow. He was not a hero. He was terrified and he was perhaps fourteen spins past being a child, and the bow was beautiful, and after it was over he sat up in the grass and said 'oh, I thought I was dead,' and then he saw me and pointed it at me, because that is what you do, when you are a frightened boy and a monster is standing over you." The eye dimmed. "I would prefer he were remembered as he was. I find I am the only one left who could correct the record, and I have just done it, and it has changed nothing, because his is not the version that gets told."
+"And the hero with the bow," Third said, quieter. "There was a boy with a bow. He was not a hero. He was terrified and he was perhaps a dozen spins past being a child, and the bow was beautiful, and after it was over he sat up in the grass and said 'oh, I thought I was dead,' and then he saw me and pointed it at me, because that is what you do, when you are a frightened boy and a monster is standing over you." The eye dimmed. "I would prefer he were remembered as he was. I find I am the only one left who could correct the record, and I have just done it, and it has changed nothing, because his is not the version that gets told."
 
 There was a silence after that with a great deal in it.
 
