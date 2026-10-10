@@ -2,7 +2,7 @@
 
 We had come through the bog that morning, and the bog had nearly kept Roan, so the smell, when it found us in the afternoon, landed on people already shaken.
 
-It had looked, the bog, like the kindest thing the country had shown us in days — we came out of scrub onto a wide flat meadow of soft green reeds, knee-high, level as a swept floor, with berry-bushes scattered across it and the warmth of the Spire coming down mild, and every part of me that was tired wanted to walk straight out into it and lie down. Third put his glaive across my chest before I'd taken three steps. "It is water," he said. "All of it. The reeds grow on the surface. They will hold a bird. They will not hold you." And then, because Roan was already six steps out past where Third's arm could reach, having seen the berries and not the warning — the green floor opened under him without a sound, no splash, just a swallowing, the reeds closing over the place he'd been like a mouth, and Mathen and I had him by an arm and a fistful of cloak before his head went under, and we hauled, and the bog hauled back, and for a long ugly moment the country was very calmly trying to drink a man in front of us while looking like a place you'd picnic. We got him out black to the waist and shaking. We went round the long way after that, along the firm edge, and the meadow lay there behind us soft and green and patient, beautiful as anything, waiting for the next tired thing that trusted its eyes.
+It had looked, the bog, like the kindest thing the country had shown us in days — we came out of scrub onto a wide flat meadow of soft green reeds, knee-high, level as a swept floor, with berry-bushes scattered across it and the warmth of the not-Scar-sky coming down mild, and every part of me that was tired wanted to walk straight out into it and lie down. Third put his Falka across my chest before I'd taken three steps. "It is water," he said. "All of it. The reeds grow on the surface. They will hold a bird. They will not hold you." And then, because Roan was already six steps out past where Third's arm could reach, having seen the berries and not the warning — the green floor opened under him without a sound, no splash, just a swallowing, the reeds closing over the place he'd been like a mouth, and Mathen and I had him by an arm and a fistful of cloak before his head went under, and we hauled, and the bog hauled back, and for a long ugly moment the country was very calmly trying to drink a man in front of us while looking like a place you'd picnic. We got him out black to the waist and shaking. We went round the long way after that, along the firm edge, and the meadow lay there behind us soft and green and patient, beautiful as anything, waiting for the next tired thing that trusted its eyes.
 
 So when the smell hit — in the afternoon, which meant the wind was coming from anti-spinward, which meant we were downwind of whatever was left of the town, which meant we'd been smelling it for the last hour without knowing what it was — I'd thought, hoped, it was just the bog again, turned rank in the heat behind us.
 
@@ -16,7 +16,7 @@ It wasn't the bog.
 
 Roan didn't say anything at all. He'd gone the colour of old porridge and was looking at the gate ahead of us with the fixed attention of a man who has realised that the stories and the thing the stories are about are not the same size.
 
-"If anyone lived," Third said, "they've moved on. The only thing moving in there now is scavengers." He tilted his head — not toward the town, but at the angle I'd learned meant he was running several thoughts at once. "This was within the last spin. Two at most."
+"If anyone lived," Third said, "they've moved on. The only thing moving in there now are scavengers." He tilted his head — not toward the town, but at the angle I'd learned meant he was running several thoughts at once. "This was within the last spin. Two at most."
 
 As if to make his point, an Axe Beak strode out from between the spikes with something in its mouth that I chose not to identify — a squat armour-plated thing about a humin and a half of bulk, most of it beak and teeth, the little wing-stumps twitching at its sides as it moved. It wove between the sharpened logs like they were saplings, unhurried, fed and unbothered, and vanished around the side of the nearest building without sparing us a glance.
 
@@ -66,7 +66,7 @@ The memorial pillar stood near the middle of the settlement, knee-high, three-si
 
 I stopped at it for a moment. A generation. Maybe less. Some of these names had likely been children when the town was founded; they'd grown up and built something, and the something was gone in a spin or two along with everyone who'd made it. I thought about a knee-high pillar in a town a great deal like this one, with a great deal fewer names on it, and Tondi in her corner, and Klar's stew, and I made myself stop thinking about it.
 
-Third pointed at the central building. His arm extended with the directness of someone who had been pointing at things for three hundred thousand spins and had long since stopped making it a social gesture.
+Third pointed at the central building. His arm extended with the directness of someone who had been pointing at things for so long he had long since stopped making it a social gesture.
 
 "There. That is what they came for."
 
@@ -82,7 +82,7 @@ A shorter pause. Something in the set of his shoulders I'd learned to read as th
 
 Inside had been an official's residence — six or seven strides to a raised platform with a seat on it, ramps up each side to the rooms above. The sort of room built to make a visitor feel the right size. It was still managing it, even without the official.
 
-The lockbox sat in the centre of the floor. It had been below the centre of the floor, in the proper fashion, and was now above it, and the floor around it was in several places it should not have been. The hexwood box was big enough to hold a reclining child. Its gear-lock hadn't been picked or broken by someone who understood it — it had been torn apart by something that had decided the mechanism was beneath its notice. The lid was peeled back the way you'd husk a grain, if you were enormous and the husk were reinforced hexwood.
+The lockbox sat in the centre of the floor. It had been below the centre of the floor, in the proper fashion, and was now above it, and the floor around it was in several places it should not have been. The hexwood box was big enough to hold a reclining child. Its gear-lock hadn't been picked or broken by someone who understood it — it had been torn apart by something that had decided the mechanism was beneath its notice. The lid was peeled back the way you'd husk a grain, if you were enormous and the husk were reinforced hexwood. And the whole of it smelled faintly of cinnamon. I never understood why hexwood smelled like cinnamon when it was damaged. Understandably, it was a rare thing to damage hexwood. 
 
 I looked at it. Then I looked at Third.
 
@@ -122,7 +122,7 @@ Third had gone still. Not the watchful stillness. The other one — the one that
 
 "Yes," Third said.
 
-"It usually is." Outside, the Scar had begun its slow crawl across the sky — that thirty-minute fade from full light toward the flat Anka dark. We had a walk to make before it finished, and the Herdukii by the gate to step over again, and I was going to be smelling this place for days whichever way the wind turned.
+"It usually is." Outside, the Scar had begun its crawl across the sky — that five-minute fade from full light toward the flat Anka dark. We had a walk to make before it finished, and the Herdukii by the gate to step over again, and I was going to be smelling this place for days whichever way the wind turned.
 
 Mathen and Roan were waiting by the gap in the wall when we came out, Roan steadier now, Mathen with the particular lightness he put on when he'd decided the rest of us needed it.
 
