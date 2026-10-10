@@ -6,11 +6,11 @@ It stood where two trails crossed: a waist-high cairn with a flat stone set into
 
 "Boundary stone," Mathen said.
 
-"Kro that way, Ork the other. You see them all through this country — it's old border, older than the towns that sit on it. The line's the thing. Whoever cut it cut it to last." He ran a thumb along the split. "They've been hating each other since before anyone can say. That's the one fact every version agrees on. Every other part of the story, you'll get a different telling in every town — who started it, who betrayed who, which of them was the real people and which the ruined copy. But the hate itself, nobody argues. It's just *there*. Like weather. Like the Scar."
+"Kro that way, Ork the other. You see them all through this country — it's old border, older than the towns that sit on it. The line's the thing. Whoever cut it cut it to last." He ran a thumb along the split. "They've been hating each other since before anyone can say. That's the one fact every version agrees on. Every other part of the story, you'll get a different telling in every town — who started it, who betrayed who, which of them was the 'better race'. But the hate itself, nobody argues. It's just *there*. Like weather. Like the Scar."
 
 "Why, though," Roan said. He was looking at the two scratched figures. "What did they actually do to each other, at the start of it?"
 
-"Ah." Mathen settled back, the storyteller's pleasure coming over him. "Now, the one I like best — and I make no claim it's true, mind, I make a claim it's *good* — goes that they were one people once, and a great sorcerer offered to make them perfect, and they said yes, the fools, because everyone says yes to that, and..." He spread his hands. "Two peoples woke where one lay down. Each one looked at the other and saw everything it had just thrown away, walking around wearing its face. And you can forgive a stranger anything. But you can't forgive your own discarded half. That's the version I tell. It's almost certainly wrong." He glanced, the way he'd taken to glancing, across the fire. "Ser? You'd know better than the stone-cutters. Were they one people, once?"
+"Ah." Mathen settled back, the storyteller's pleasure coming over him. "Now, the one I like best — and I make no claim it's true, mind, I make a claim it's *good* — goes that they were one people once, and a great sorcerer offered to make them perfect, and they said yes, the fools, because everyone says yes to that, and..." He spread his hands. "Two peoples woke where one lay down. Each one looked at the other and saw everything it had just thrown away, walking around wearing its face. And you can forgive a stranger anything. But you can't forgive your own discarded half. That's the version I tell. It's almost certainly wrong." He glanced, the way he'd taken to glancing, across the trail. "Ser? You'd know better than the stone-cutters. Were they one people, once?"
 
 Third did not answer.
 
@@ -54,7 +54,7 @@ He had not decided to say it. He was already moving.
 
 <p align="center">&#42; &#42; &#42;</p>
 
-Zala's house was at the wall's foot, and the laminated reed of its door hung in tatters, and Third put his shoulder through what was left and stopped, and every gear in him stopped with him.
+Zala's house was at the wall's foot, and the laminated reed of its door hung in tatters, and Third put his shoulder through what was left and stopped, and every gear in him stopped too.
 
 There were two children on the floor.
 
@@ -70,7 +70,7 @@ The green one broke first. It scrambled up the wreck of Zala's furniture and wen
 
 He turned back to the one on the floor.
 
-He crossed the room. Two paces. He had crossed worse rooms in two paces and not felt them; he felt this one. He knelt, and his hands, which could mend any part of himself, which had mended every part of himself at least once, hung over the torn pale body and could do nothing, because she was not made of wood and titan-blood, she was made of the thing the green ones and pale ones were all made of, the soft mendable-only-by-time thing, and there was no time, there was the opposite of time.
+He crossed the room. Two paces. He had crossed worse rooms in two paces and not felt them; he felt this one. He knelt, and his hands, which could mend any part of himself, which would mend every part of himself at least once, hung over the torn pale body and could do nothing, because she was not made of wood and titan-blood, she was made of the thing the green ones and pale ones were all made of, the soft mendable-only-by-time thing, and there was no time, there was the opposite of time.
 
 "Bada?"
 
