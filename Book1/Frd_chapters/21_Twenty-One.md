@@ -46,13 +46,13 @@ It took a long time. She talked about the war, and the towns, and the two people
 
 The eye, which had not moved in a thousand spins, moved.
 
-"There it is," Lujian said softly, not surprised, only tired and a little glad. "No. Don't — you don't have to say anything. I'm only telling you. If you want them to have been a person and not a *reason*, you don't get to stop. Stopping agrees with the liar. Going on is the only way left to call it what it was." She sat back. "It's not a comfort. I know it's not. It's the opposite of a comfort. It's a debt. But it's theirs, and it's yours, and I'd think a thing that's carried a glaive since before there were towns to carry it past could carry one more thing that heavy."
+"There it is," Lujian said softly, not surprised, only tired and a little glad. "No. Don't — you don't have to say anything. I'm only telling you. If you want them to have been a person and not a *reason*, you don't get to stop. Stopping agrees with the liar. Going on is the only way left to call it what it was." She sat back. "It's not a comfort. I know it's not. It's the opposite of a comfort. It's a debt. But it's theirs, and it's yours, and I'd think a thing that's carried a pair of Falkas since before there were towns to carry it past could carry one more thing that heavy."
 
 Third's hand, when he lifted it — the first thing he had moved on purpose in longer than he could hold — closed around the vine she had been worrying, and pulled it, slow, from the wood of his arm.
 
 "They were a child," he said. The voice came out of him cracked and disused, a landslide that had forgotten the shape of words. "I called her little one. She made it into a name."
 
-Lujian nodded, the way you nod at a thing set finally down between you. "Then she had a name," she said. "That's more than most of mine got, at the end. Come on. You've a great deal of going on to do, and the first step's the worst of it; after that it's only walking."
+Lujian nodded, the way you nod at a thing finally set down between you. "Then she had a name," she said. "That's more than most of mine got, at the end. Come on. You've a great deal of going on to do, and the first step's the worst of it; after that it's only walking."
 
 He stood. The growth tore away from him in sheets. He had been a long time stopped, and the standing was its own kind of agony, every wound he had let go unmended announcing itself at once — and under the agony, faint, unwanted, the terrible relief of a debt accepted.
 
@@ -76,7 +76,7 @@ I got the rope off and went to him while Mathen got a fire fighting the damp and
 
 "Her again?" I had earned that much, I thought — the one word he'd given me, *her*, and the right to use it.
 
-"Not only her, this time." The ember considered the shrinking white wall. "Someone who came after. Who found me when I had — stopped. And made me start." A pause. "She has been gone a long time also. They are all gone a long time, Tasha. That is the part the grey does not change. I can have the warm parts back, as often as I like, for as long as I can stand them. I cannot have any of them *back.*"
+"Not only her, this time." The ember considered the shrinking white wall. "Someone who came after. Who found me when I had — stopped. And made me start." A pause. "She has been gone a long time also. They are all gone a long time, Tasha. That is the part the grey does not change. I can have the warm parts, as often as I like, for as long as I can stand them. I cannot have any of them *back.*"
 
 I didn't say anything for a moment. The pieces were on the table, and I had learned to look at them now, and a new one had just been set down, and I did not like the shape it made with the others.
 
