@@ -19,7 +19,7 @@ Third looked at the line in the dirt for a moment.
 He scuffed the map out with his hoof, and we went hard.
 
 We went hard into rising country, and the country answered, the second afternoon, by throwing rocks at us out of a clear sky. There was no cloud. That was the part I could not make peace with — the Spire was shining, the day was fine, and then a pebble cracked off the trail at my feet, and another, and Third said one word, "stony," and put us at a dead run for an overhang he'd already marked without telling anyone he was marking it. By the time we reached it the air was full of them, stones the size of knuckles and then the size of fists falling out of nothing at all, hammering the grass flat, hammering Roan's other shoulder hard enough to drop him before Mathen dragged him in under the rock. They say it's the glutton's teeth, Mathen told me, hunched beside me while the world cracked and rattled outside our little shelter — that the broken teeth of one of the Titans are scattered out ahead of us in fields, and that the sky over that country never quite forgives it, and drops stone the way other skies drop rain, for no reason and to no schedule and on whoever happens to be under it. It lasted the length of a short tantrum and then simply stopped, the last few stones pattering down into a silence that rang, and we crawled out onto a trail strewn white with rubble that hadn't been there an hour before, and went on, because the place all the lines pointed was that same teeth-strewn country, and it had just told us, plainly, what it thought of visitors. 
-I'd seen them before, back in town, but maybe something about being in w town softened it. out here a Stony was brief, untamed, and gave no warnings of its passing. 
+I'd seen them before, back in town, but maybe something about being in a town softened it. Out here a Stony was brief, untamed, and gave no warnings of its passing. 
 
 <p align="center">&#42; &#42; &#42;</p>
 
@@ -71,17 +71,17 @@ I want it written down exactly, because I have heard it told wrong since, told a
 
 The man looked at him. For the first time, something behind the tired eyes engaged — mild, almost kind, the look you'd give a child who'd planted himself in your path with his arms out.
 
-And then he stepped sideways.
+And then he said an old word, and stepped sideways.
 
 I felt Third go rigid beside me. Not move — the opposite of move. He went rigid the way you go rigid when you see a thing that cannot be, and the not-being of it nails you to the spot, and in the half-breath that Third stood nailed, the man was simply — past. Past Roan's spear, past the door, not through them, beside them, gone out of the world at that angle my eye could never hold and back into it on the inside of the tower, between Mathen and the shelf, and he reached out and took the peg off the worn stone dish the way you'd take a cup off a table in your own house.
 
-He did not wake it. I had set it back into a place with my own shaking hands, and a place does not come up for anyone — and it came up for him, no tap, no catch, as though it had never been fixed to anything at all. Then Third moved. Too late, knowing it was too late, crossing the tower in a stride with his glaive coming round — and the man looked at him.
+He did not wake it. I had set it back into a place with my own shaking hands, and a place does not come up for anyone — and it came up for him, no tap, no catch, as though it had never been fixed to anything at all. Then Third moved. Too late, knowing it was too late, crossing the tower in a stride with his Falkas sliding out of their sheathes in one smooth motion — and the man looked at him.
 
 At Third. Only at Third. The mild eyes found the Forged and for one instant they were not mild at all, they were *interested*, they sharpened on Third the way they had not sharpened on four armed strangers, and his head tilted a fraction, the way you tilt your head at a sound you half-recognise from a long time ago. His mouth moved. I was close enough to see it and not to hear it, and I have spent a long time since trying to read the shape of the word off the memory of his lips, and the nearest I can come is that it was not a word of threat.
 
 It might have been the start of a name.
 
-Then he stepped sideways again and the tower was only the tower, wind through the door, the keeper on her knees by the empty dish, Roan still braced in the doorway against a man who wasn't there anymore, and Mathen with his good blade half-drawn and nothing to draw it on, and Third standing in the middle of the round stone room with his glaive up and his single eye gone down to a coal, staring at the place where the air had closed.
+Then he said the other old word and stepped sideways again and the tower was only the tower, wind through the door, the keeper on her knees by the empty dish, Roan still braced in the doorway against a man who wasn't there anymore, and Mathen with his good blade half-drawn and nothing to draw it on, and Third standing in the middle of the round stone room with his own blades up and his single eye gone down to a coal, staring at the place where the air had closed.
 
 <p align="center">&#42; &#42; &#42;</p>
 
