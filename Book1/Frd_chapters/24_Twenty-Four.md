@@ -8,7 +8,7 @@ They were like plinths. That was the nearest I could come to it — squared-off 
 
 "Teeth," Mathen said, soft, because the field was the kind of place that takes your voice down whether you decide to or not. "The glutton's. They pulled them out of his head in the war — imagine the size of the thing that wore these — and they came down all over the world and stuck where they landed, and grass grew up around them, and here we are walking through the dropped teeth of a god, calling it a field." He looked almost happy, in the way Mathen got happy at a thing that was too big to be anything but a story. "You can't make this up. You wouldn't dare."
 
-I put my hand on the nearest one as we passed, the way I'd touched the causeway pillar, because apparently that's the kind of fool I am, I have to touch the impossible thing to believe it's let me. It was warm. Not sun-warm. Warm like a thing that had been alive once and hadn't entirely got the message. I took my hand back.
+I put my hand on the nearest one as we passed, the way I'd touched the causeway pillar, because apparently that's the kind of fool I am, I have to touch the impossible thing to believe it real. It was warm. Not sun-warm. Warm like a thing that had been alive once and hadn't entirely got the message. I took my hand back.
 
 And then I saw the rocks that floated.
 
@@ -20,7 +20,7 @@ There were clusters of them, here and there among the plinths — fist-sized chu
 
 "They float," I said, which was stupid, but I was past managing my mouth.
 
-"They float." He came up beside me, his eye on the clump, level and careful. "The teeth do not like the black glass that veins the world; they shy from it, push away from it, and a chip with a vein beneath it will hang in the air, slowly turning, for as long as you leave it be. A small one gets carried home as a charm — a strange, harmless thing that tugs out of your hand toward any glass you bring near it." A pause. "People come here and harvest them. It is a trade. There is a town, rim of the fields, that lives on nothing else."
+"They float." He came up beside me, his eye on the clump, level and careful. "The teeth do not like the black glass that veins the world; they shy from it, push away from it, and a chip with a vein beneath it will hang in the air, slowly turning, for as long as you leave it be. A small one gets carried home as a charm — a strange, harmless thing that tugs out of your hand toward any glass you bring near it." A pause. "People come here and harvest them. It is a trade. There is a town, rimward of the fields, that lives on nothing else."
 
 "So they're safe."
 
@@ -36,7 +36,7 @@ He showed us, because Mathen asked him to and because we needed to see it once t
 
 The cluster came apart.
 
-That's the only way I can say it. The dozen polite turning stones simply *stopped being polite*, and the whole clump swept down off its place in the air and went for the moving stone like a dog off a chain, fast, a swirling shrieking cone of rock that hit the place the thrown stone had stopped and tore the heather to green rags in a circle the width of a room, and hung there, swirling, waiting — and when nothing else moved, it slowed, and rose, and gathered itself back up to chest height a few paces from where it had started, turning slowly around nothing, polite again. Patient again. A dozen fist-sized stones hanging in the gold light, for all the world exactly like the harmless ones forty paces to its left.
+That's the only way I can say it. The dozen politely turning stones simply *stopped being polite*, and the whole clump swept down off its place in the air and went for the moving stone like a dog off a chain, fast, a swirling shrieking cone of rock that hit the place the thrown stone had stopped and tore the heather to green rags in a circle the width of a room, and hung there, swirling, waiting — and when nothing else moved, it slowed, and rose, and gathered itself back up to chest height a few paces from where it had started, turning slowly around nothing, polite again. Patient again. A dozen fist-sized stones hanging in the gold light, for all the world exactly like the harmless ones forty paces to its left.
 
 Nobody said anything for a moment.
 
