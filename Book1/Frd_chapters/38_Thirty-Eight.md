@@ -18,7 +18,7 @@ I could not hear an answer. There was no answer to hear; she was in the place I 
 
 I felt it through the rope before I understood it. The arm under my hand — slack since the going-still took him — came back. Not pulling toward the wall. Not pulling anywhere. Just *his* again, weight in it, a man inhabiting his own limb.
 
-"You taught me this," Third said, and I knew, this time, it was not to Liwon, and not to me; it was to a woman who had died old in a bed a long way from here, who had lost everything and gone on anyway. "You said going on was the only way to call the loss what it was. I did not understand you. I thought you meant *endure.* You meant *refuse.* You meant that to take the bargain is to let them tell you it was never really a loss at all — and that the loss is the last of the love you get to keep. I am keeping it. I am keeping all of it. Thank you. I am sorry it took me until the end of the world."
+"You taught me this," Third said, and I knew, this time, it was not to Liwon, and not to me; it was to a woman who had died old in a bed a long way from here, who had lost everything and gone on anyway. "You said going on was the only way to call the loss what it was. I did not understand you. I thought you meant *endure.* You meant *refuse.* You meant that to take the bargain, is to let them tell you it was never really a loss at all — and that the loss is the last of the love you get to keep. I am keeping it. I am keeping all of it. Thank you. I am sorry it took me until the end of the world."
 
 And then, to the grey, to the small reaching shape in it, the worst sentence I have ever heard a person say, said gently, said like tucking someone in:
 
@@ -46,7 +46,7 @@ I think, if he had raged, I could have hated him cleanly, and it would have been
 
 "Yes," Third said. He had turned, finally, away from the place she'd been. The single light of his eye found the cold man, and there was no triumph in it either, only a kind of terrible kinship. "You will wait. And I will spend whatever I have left making certain the next one who wakes is found by someone who loves them, before it is found by you. That is the whole of the war, I think. That is the only war there ever was. You have patience. I will leave behind people."
 
-Sougad looked at him a long moment. Then he stepped sideways, the half-step out of the world that I had watched Third make a dozen times, and the cold went with him, all at once, like a door closing on the cold — and the rock where he'd stood was only rock, and the Scar wheeled its slow light over a world that had, against everything, not ended.
+Sougad looked at him a long moment. Then he said the old word and stepped sideways, the half-step out of the world that I had watched Third make a dozen times, and the cold went with him, all at once, like a door closing on the cold — and the rock where he'd stood was only rock, and the Scar wheeled its slow light over a world that had, against everything, not ended.
 
 I became aware that I was still holding Third's arm. That my other hand had, at some point I never felt, finally found the Boltcaster under my cloak, and was gripping it white-knuckled, and had never drawn it.
 

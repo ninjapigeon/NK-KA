@@ -24,7 +24,7 @@ And we both looked away from each other for a moment, because that was as close 
 
 Third had not moved.
 
-He stood where he'd turned to face Sougad, a little apart, and he was looking at the place the grey had been — the ordinary rock, the ordinary low troughs, nothing standing up out of any of it — and I knew, the way I'd learned to know him, that he was not looking at the rock. He was looking at where she had been. At the empty place he had chosen to keep empty. The lights in his chest had gone back to their small steady burning, the dim one no worse than before, no better; the make of him was intact; he had taken no wound that he could repair or that anyone could see.
+He stood where he'd turned to face Sougad, a little apart, and he was looking at the place the grey had been — the ordinary rock, the ordinary low troughs, nothing standing up out of any of it — and I knew, the way I'd learned to know him, that he was not looking at the rock. He was looking at where she had been. At the empty place he had chosen to keep empty. The lights in his chest had gone back to their small steady burning, the dim one worse than before; the make of him was intact; he had taken no wound that he could repair or that anyone could see.
 
 He had taken the other kind.
 
@@ -64,14 +64,14 @@ He took Dorn's Boltcaster out of my cramped hand, as gently as he'd given it, an
 
 We did not stay long. You don't, in that country; the place had spared us its worst but it had not become safe, and a slab the size of a barn settling half a field off is a poor lullaby. There was the matter of Roan, who could not walk, and the matter of how far we were from anywhere that wasn't trying to kill us, and the matter of the long impossible distance between a cliff at the cold edge of the world and any roof at all.
 
-Third lifted Roan as easily as he'd once lifted an infant, one arm, settled, and Roan made a noise of protest that turned into a noise of pain that turned into the quiet of a man saving his strength, and we turned our backs on the spine.
+Third lifted Roan as easily as he'd once lifted an infant, one arm, settled, and Roan made a noise of protest that turned into a noise of pain that turned into the quiet of a man saving his strength. Then, with his free hand, Third reached behind him and drew out the Boltcaster. He took the bolt from it first and put the bolt in his pouch, because he was careful about such things. And he leaned the squat ugly thing against the foot of the spine, upright, the way you'd hang a friend's coat on the hook by the door of a place you did not expect to come back to, and stepped back from it, and we turned our backs on the spine.
 
-I looked back once. The glaive was still standing where Third had leaned it, upright against the pale stone, the wide pale blade he'd carried since before he was anyone.
+I looked back once. Dorn's Boltcaster was still standing where Third had leaned it, upright against the pale stone, the squat ugly wooden thing he had carried for more spins than I could count and never once fired.
 
 "You're leaving it," I said.
 
-"It was never mine," said Third, with the boy on his arm. "Let it stand there. Let the next fool who climbs all this way looking for treasure find a door-warden's glaive and no door, and no warden, and let them make of it whatever story keeps them warm on the walk home. Mathen would like that, I think. A thing left behind on purpose, to be wondered at. He always said the wondering was the point."
+"It was never mine," said Third, with the boy on his arm. "I carried it because putting it down would mean he was gone, and I was not prepared to mean that. He is gone. I find I can mean it now." The eye rested on the thing against the stone a moment longer. "Let it stand there. Let the next fool who climbs all this way looking for treasure find a dead man's gun and no door, and no warden, and let them make of it whatever story keeps them warm on the walk home. Mathen would like that, I think. A thing left behind on purpose, to be wondered at. He always said the wondering was the point."
 
-And we walked out into the open book, the three of us, one of us carried and one of us carrying and one of us holding a rope that had no far end anymore and not yet knowing how to put it down — out across the crawling field toward a horizon that was a very long way away, with no notion in the world of how we were going to cross it, and behind us a glaive stood guard over nothing at all, exactly as it had been made to do, and was, at last, free of us.
+And we walked out into the open book, the three of us, one of us carried and one of us carrying and one of us holding a rope that had no far end anymore and not yet knowing how to put it down — out across the crawling field toward a horizon that was a very long way away, with no notion in the world of how we were going to cross it, and behind us a dead man's gun leaned against the cliff at the edge of the world, loaded with nothing, keeping a watch it had never been asked to keep, and Third walked out from under it for the first time in three hundred thousand spins, lighter by exactly one thing, and knowing which.
 
 <p align="center">&#9670; &#9670; &#9670;</p>

@@ -6,7 +6,7 @@ My scream was the wrongness. He didn't ask what for. That, in the end, was the w
 
 He came past me in a lunge that knocked my shoulder half around and did the one thing none of us had planned because none of us had been able to say it aloud — he threw himself not at the cold man, not at the grey, but at *Third.* At his friend. At the wooden back already turning toward the wall, the hooves already lifting for that first long stride into the place where the dead were holding up their arms. Roan got one arm across the seam of Third's chest, over the guttering lights, and his other hand to his own wrist, and locked, and set his heels, and hauled — a boy trying to arm-wrestle a landslide back up its hill.
 
-It did nothing, in the matter of strength. Third took the step anyway, dragging the both of them, Roan's heels furrowing the bare rock toward the standing grey.
+It did nothing, in the matter of strength. Third took the step anyway, dragging the both of them, Roan's heels nearly furrowing the bare rock toward the standing grey.
 
 So the cold man did the other thing. The thing that told me, finally and completely, what he was.
 

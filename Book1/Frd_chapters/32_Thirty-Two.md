@@ -12,7 +12,7 @@ Third stood at the rim with his back to our dead fire and looked at the cliff th
 
 "Coming," Roan said, and checked the lashings on his spear for the fourth time that hour, which was how Roan said *I am terrified and I am coming anyway,* and which I had learned not to comment on.
 
-"Then we go to it," Third said, "while we can still choose the ground. He will make for the spine. The spine is the last of it — the last pin, the place the whole shape is hung from. If he reaches it unopposed he has everything he needs and we have a long walk home with nothing to show for it but our lives, which he will not let us keep regardless." He took up his glaive, the Boltcaster, and his Falkas, and he did not put on the cloak. He had no more use for looking like a man.
+"Then we go to it," Third said, "while we can still choose the ground. He will make for the spine. The spine is the last of it — the last pin, the place the whole shape is hung from. If he reaches it unopposed he has everything he needs and we have a long walk home with nothing to show for it but our lives, which he will not let us keep regardless." He took up his Falkas, and the Boltcaster, and he did not put on the cloak. He had no more use for looking like a man.
 
 <p align="center">&#42; &#42; &#42;</p>
 

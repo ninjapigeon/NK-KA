@@ -28,15 +28,15 @@ Roan, despite himself, huffed a small laugh. Mathen said nothing, watching Third
 
 Third set down, deliberately, the thing he'd been holding without my noticing he'd taken it out — the Boltcaster, Dorn's Boltcaster, the squat ugly wooden thing he carried and never loaded — laid it across his knees like a man laying out a friend's coat. And he told the joke.
 
-"A Mender, a Crafter, and a Grask are arguing over whose work matters most. The Mender says, 'Mine — I keep the whole world from coming apart at the seams; were it not for me you would all go about in rags.' The Crafter says, 'Mine — I *make* the world to begin with; were it not for me you would have no seams to come apart, and nothing to go about in, rags or otherwise.' And they argue. Mending against making. Making against mending. The length of a long night, each entirely certain the world would stop turning without him. And at last, having settled nothing, they turn to put it to the third one — the Grask, who has sat the whole time and said not one word. 'And you,' they say. 'What is it that *you* do, that matters?'"
+"A Mender and a Crafter started arguing over whose work matters most, and because of the local children's festival, they decide to settle it the way children settle things: hide and seek. Whoever is found last matters most. They both run for an old bridge, because it is the only good hiding place for a mile, and there is room for one under it, and so they crouch together in the dark, elbow to elbow. 'Who's counting?' whispers the Mender. 'I thought you were,' whispers the Crafter. 'Counting is mending. You put the numbers back in order.' 'Counting is making. You make each number out of the last.' And they are off again, in hisses, mending against making, making against mending, so absorbed that neither of them notices that somewhere a long way down, slow and patient, a count has been going on. Ninety-eight. Ninety-nine. A hundred."
 
 Third paused, exactly the length Dorn must have paused.
 
-"But there is only a hole in the ground, where the Grask had been sitting. And from somewhere beneath their own two feet, a voice says: 'There you are.'"
+"And from somewhere else in the dark, a Grask says: 'Ready or not.'"
 
 There was a beat of nothing — and then Roan barked a real laugh, the first true one I'd heard out of him since the tor, the kind that surprises its owner, and Mathen laughed properly, head back, and even I felt the thing crack open in my chest that a good joke cracks, the relief of it, in that awful place, under that drinking cliff.
 
-"Oh, that's *good,*" Mathen said, wiping his eye. "That's properly good. The two trades so busy being important they don't notice the world's already eating them. Your Dorn had timing, Third, you can hear it even through you, no offence. I'll have to remember that one." He was still smiling. "A Mender, a Crafter, and a Grask. I'll get a tenday's drinks off that, easy."
+"Oh, that's *good,*" Mathen said, wiping his eye. "That's properly good. Ha ha! Your Dorn had timing, Third, you can hear it even through you, no offence. I'll have to remember that one." He was still smiling. "A Mender, a Crafter, and a Grask. I'll get a tenday's drinks off that, easy."
 
 "He would have liked that you laughed," Third said. "He measured a day by how many he could make laugh. He would have counted tonight a good day, this far from anywhere, with the world the way it is."
 

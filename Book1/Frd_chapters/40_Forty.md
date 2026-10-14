@@ -24,7 +24,7 @@ Into that silence — the first silence it had ever been given — the green one
 
 "What are you doing?"
 
-And it heard its own voice answer, a sound like a slope giving way, a sound that startled the thing that made it:
+And it heard its own voice answer, a sound like a slope giving way, a sound that startled the thing that made the bow:
 
 "I... do not know."
 
@@ -40,9 +40,9 @@ It looked at the bow a moment longer — the spiral, the red, the whole patient 
 
 It did not know what it wanted to be instead. It would spend the whole length of the world finding out. But it knew, crouched there with the water closing over the place its hand had been, that the wanting itself was new, and was its own, and had come in through a door a frightened child had carved without meaning to, every length of it, where no enemy would ever look.
 
-And then it bent and took the glaive back up out of the reeds. Not because the wanting had changed — but the world was full of things that had made no discoveries that day, and an unarmed thing alone in it would not live long enough to find out what it wanted to be instead. The wet wood was the same weight it had always been and sat in its hands the same way, and nothing about it had changed except that it was now a thing being carried, and no longer a thing being been. It would carry it for the whole length of the world. It would set it down at last on a hill at the edge of everything, against a pale stone, and walk away and not look back. The setting down began here, in the reeds, in the silence a bow had made. It simply took three hundred thousand spins to finish. Behind it, as it turned downstream, it heard the green one say, very low, to no one:
+It did not pick the glaive up. It stood in the water with its hands empty and its whole long making lying in the reeds behind it, at the feet of the very kind of creature it had been built to end, as harmless there as a dropped stick, and it found that the emptiness frightened it less than it should have. It was not helpless. It had never been helpless; the body alone was a weapon, and the world, it would learn, did not stop to ask whether you were holding anything. But it was a long way from anywhere that did not need an edge, and there is a difference between not wanting a thing and knowing what to do instead. The bow had shown it one answer. A hand could shape a thing and put itself into the shaping, every length of the spiral and the red worked into the wood, and what the hand made would be the hand's. So it would make its own. Badly, at first. It would be a long while before one of them kept an edge, and thirty spins of the Scar more before it learned to dance with it, and none of that would be efficient, and all of it would be its own. The making began here, in the reeds, in the silence a bow had made. It simply took three hundred thousand spins to finish. Behind it, as it turned downstream, there was the small wet sound of a weapon lying in reeds, and a long silence in which nobody reached for it, and then it heard the green one say, very low, to no one:
 
-"A Blank just used 'I'."
+"A Blank just used 'I'?"
 
 It did not look back. It had not yet learned that there were things worth looking back at. That, too, would come.
 

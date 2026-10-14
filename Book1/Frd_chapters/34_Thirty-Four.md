@@ -1,10 +1,10 @@
 # Thirty Four
 
-The first thing he did was set down the glaive.
+The first thing he did was check his hands.
 
-He did it carefully, the way you set down something that has a history of being mishandled. He leaned it against the foot of the spine, upright, the wide pale blade he had carried since the day he was made — since before he was anyone, when he was only the thing the Titan had wrapped a purpose around and called finished — and he stepped back from it and left it standing there against the pale stone like a tool returned to a shed. He kept the Falkas. The two curved blades he'd spent thirty spins of the Scar learning to dance with, the weapons that were his choosing and not his making, those he checked at his hips with the small unconscious touch of a man making sure of his hands.
+He did it the way he did everything that mattered, without hurry and without any sign that it mattered: a palm laid over each Falka at his hips, the two curved blades he'd spent thirty spins of the Scar learning to dance with, the only weapons he had ever carried that were his choosing and not his making. The small unconscious touch of a man making sure of his hands. There was nothing else on him to set down. He had done that a very long time ago, by a river, in front of a boy with a bow, and he had never gone back for it.
 
-I understood it without being told, which is a thing that happens between people who have walked far enough together. He was not going to meet the end of the world as the instrument someone had built. He was going to meet it as the thing that instrument had decided, against every line of its making, to become. The glaive could stand there and watch. It had never been his anyway.
+I understood it without being told, which is a thing that happens between people who have walked far enough together. Other people come to the end of the world carrying what they were given. He was coming to it carrying only what he had chosen, as he had for three hundred thousand spins, and there was nothing left to put down that he hadn't already.
 
 "Tasha," he said. "The last of it. The part I have not told you."
 
@@ -28,11 +28,11 @@ Something in the make of him that was not quite the bellows let go, a small mech
 
 And then he reached around to his back, with that wrong boneless ease that still put a flutter in my chest after all this time, and he brought out the Boltcaster.
 
-Dorn's Boltcaster. I knew it the moment I saw it because he'd shown it to me once, early, at a fire, and told me whose it had been and how he had died — a tendril through the chest from below, before Third had finished standing up — and told me he had never once loaded it, having carried it a very long time and never fired it, because it was not a weapon to him. It was a person. It was the last weight of a man he had failed to save by the width of a single breath.
+Dorn's Boltcaster. He told me he had never once loaded it, having carried it a very long time and never fired it, because it was not a weapon to him. It was a person. It was the last weight of a man he had failed to save by the width of a single breath.
 
 He held it a moment longer before he gave it over — and then, with the same wrong boneless economy, he brought a single magefire shot up from somewhere on him, a little vial of caged lightning, and he loaded it. I watched him do it and felt the floor go out from under me a second time, because at the fire, the night he told us about Dorn, he had said it plain to the whole table: *I do not carry it to use.* He had carried it unloaded across more road than I could imagine, kept it the way you keep a grave tidy, and now, here, he was thumbing a shot into it with his own two-fingered hands.
 
-"I have never loaded it," he said, as if he'd heard the thought. "Not once. Loading it would have made it a weapon again, and it stopped being a weapon the day it became Dorn. I am loading it now, because this is the one thing left in the world he would forgive me for aiming it at." Then he put it in my hands. It was heavier than it looked, and warm where his grip had been.
+"I have never loaded it," he said, as if he'd heard the thought. "Not once. Loading it would have made it a weapon again, and it stopped being a weapon the day it became Dorn. I am loading it now, because this is the one thing left in the world he would forgive me for aiming it at." Then he put it in my hands. It was heavier than it looked, but cold where his grip had been.
 
 "There is a seam down the centre of my chest. You have seen the lights through it. Those lights are the whole of what keeps the door a door — they are what the wall wants, the same as the cold man carries, the same make, the same dying glow. If you put one of Dorn's shots into that seam, into the lights, the door stops being a door. Permanently. There is no repairing it; I have repaired everything I am, a hundred times over, and I could not repair that. It would be the one wound I have ever taken that I could not stand up from."
 
@@ -56,7 +56,7 @@ I looked down at the Boltcaster in my hands. The whole stupid weight of it. The 
 
 He looked, for a moment, at the cold man coming, and then back at me, and he said the thing under the thing, the thing he had been walking toward saying since the slab field, since the geysers, since the inn:
 
-"I am afraid I am going to want it. The opening. The price. I have been alone inside this make of mine for three hundred thousand spins and it is going to offer me everyone, all at once, warm, and I am afraid — I, who am not built to be afraid of much — that I am going to want it more than I have ever wanted anything, more than I will want the world. So I am giving you the thing that means my wanting it will not be enough. I am putting the size of my own longing into your hands and I am asking you to be bigger than it. That is the whole of what I have ever asked anyone. I am sorry it is so large."
+"I am afraid I am going to want it. The opening. The price. I have been alone inside this wood and glass for three hundred thousand spins and it is going to offer me everyone, all at once, warm, and I am afraid — I, who am not built to be afraid of much — that I am going to want it more than I have ever wanted anything, more than I will want the world. So I am giving you the thing that means my wanting it will not be enough. I am putting the size of my own longing into your hands and I am asking you to be bigger than it. That is the whole of what I have ever asked anyone. I am sorry it is so large."
 
 I did not say *I can't.* I had already used my no, and he had thanked me for it, and we both understood it had been the last one I was allowed.
 

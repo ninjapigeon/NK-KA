@@ -14,7 +14,7 @@ And in the warm, a few steps downcurrent — close, so close — was Mathen.
 
 He was sitting the way he sat at a fire, one knee up, easy, and he was *talking,* of course he was talking, telling some story to no one with his hands going, and when he saw Third his whole face did the thing it did, the lighting-up, the pleasure at company, undimmed.
 
-"There he is," Mathen said — warm, glad, and the words went through Third like a blade because they were nearly the other words, the wet-gravel words, *there you are,* and here they were turned back into kindness in the mouth of the man the other mouth had killed. "I wondered if you'd come. I hoped you wouldn't, and I hoped you would, which is the usual way of hoping, I find."
+"Found you," Mathen said — warm, glad, and the words went through Third like a blade because they were the other words, the wet-gravel words, *found you,* and here they were turned back into kindness in the mouth of the man the other mouth had killed. "Or you found me — I never could keep the score in that game. I wondered if you'd come. I hoped you wouldn't, and I hoped you would, which is the usual way of hoping, I find."
 
 "You are here," Third said. The avalanche of his voice came strange in the grey, muffled, near.
 
