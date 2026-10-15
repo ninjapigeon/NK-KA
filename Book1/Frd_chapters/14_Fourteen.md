@@ -98,7 +98,7 @@ Then he turned Third's over in his hands, and went still, the way people went st
 
 "And who repaired it? Since."
 
-"The same. I learned a thing or two on mu travels."
+"The same. I learned a thing or two on my travels."
 
 Mathen laughed, the easy laugh of a man waiting for the rest of a joke. Then he didn't. He looked at the blade, and at Third's forearm where I'd watched the seam close, and at the single off-centre eye of him, the body visibly mended a hundred times over and the weapon nearly as old.
 
@@ -122,7 +122,7 @@ He helped us refill our water, because he knew the clean seeps at the field's ed
 
 It was Third who said it, finally, in the flat way he said the things that mattered.
 
-"We are going anti-spinward, to stop a man who is gathering the tools of the Titans, with which i believe he intends to call one back. It is dangerous, and most who hear it do not believe the danger, and of those who believe it, most very sensibly decline to come. You should know what you would be following, before you follow it any further."
+"We are going anti-spinward, to stop a man who is gathering the tools of the Titans, with which I believe he intends to call one back. It is dangerous, and most who hear it do not believe the danger, and of those who believe it, most very sensibly decline to come. You should know what you would be following, before you follow it any further."
 
 Mathen was quiet a moment. The geysers breathed their red breath behind us.
 

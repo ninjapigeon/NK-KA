@@ -60,7 +60,7 @@ Klar arrived for his shift just then, which was its own small mercy, because Kla
 
 "Customer brought us a trophy," I said. "Think you can do something with it?"
 
-Klar's whole face changed. He had not yet looked up enough to register the Forged Titanspawn sitting in the corner under a tablecloth, because he was only 5,100 spins and a Shredder head was the most interesting thing that had happened to him in a tenday.
+Klar's whole face changed. He had not yet looked up enough to register the Titanspawn Forged sitting in the corner under a tablecloth, because he was only 5,100 spins and a Shredder head was the most interesting thing that had happened to him in a tenday.
 
 "A Shredder head? You don't even—" He was already turning toward the kitchen, already planning. "Let me get a skewer."
 

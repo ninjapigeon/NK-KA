@@ -8,7 +8,7 @@ When she came back down, the inn had emptied of its few midday customers. It was
 
 The bellows drew. Once. Then he began.
 
-"I have been following this for some time," Third said. "Long enough to be certain it is not chance. Towns along the trails — small ones, mostly, the kind that do not appear on a trader's map and are not missed when they cease to appear anywhere at all. Each one struck. Each one to the same end result. Ravagers in numbers they do not naturally gather in, directed against the settlement all at once; rivers with no history of flooding, overflow their banks only on the village-side; giant creatures attacking a town when normally they wander the woods.  And then, after, something walking, or floating, through the wreckage. Searching. Taking one thing and leaving everything else, including the survivors and wealth, untouched."
+"I have been following this for some time," Third said. "Long enough to be certain it is not chance. Towns along the trails — small ones, mostly, the kind that do not appear on a trader's map and are not missed when they cease to appear anywhere at all. Each one struck. Each one to the same end result. Ravagers in numbers they do not naturally gather in, directed against the settlement all at once; rivers with no history of flooding, overflow their banks only on the village-side; giant creatures attacking a town when normally they wander the woods. And then, after, something walking, or floating, through the wreckage. Searching. Taking one thing and leaving everything else, including the survivors and wealth, untouched."
 
 "The thing the traveller saw," Roan said, from the door.
 

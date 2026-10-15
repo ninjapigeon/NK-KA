@@ -16,7 +16,7 @@ It wasn't the bog.
 
 Roan didn't say anything at all. He'd gone the colour of old porridge and was looking at the gate ahead of us with the fixed attention of a man who has realised that the stories and the thing the stories are about are not the same size.
 
-"If anyone lived," Third said, "they've moved on. The only thing moving in there now are scavengers." He tilted his head — not toward the town, but at the angle I'd learned meant he was running several thoughts at once. "This was within the last spin. Two at most."
+"If anyone lived," Third said, "they've moved on. The only things moving in there now are scavengers." He tilted his head — not toward the town, but at the angle I'd learned meant he was running several thoughts at once. "This was within the last spin. Two at most."
 
 As if to make his point, an Axe Beak strode out from between the spikes with something in its mouth that I chose not to identify — a squat armour-plated thing about a humin and a half of bulk, most of it beak and teeth, the little wing-stumps twitching at its sides as it moved. It wove between the sharpened logs like they were saplings, unhurried, fed and unbothered, and vanished around the side of the nearest building without sparing us a glance.
 
@@ -132,7 +132,7 @@ Mathen and Roan were waiting by the gap in the wall when we came out, Roan stead
 
 "My favourite kind of nothing." Mathen fell into step. "Lead on, then. Away from the smell, ideally."
 
-I took one last look back at the lockbox lid through the broken wall, lying where I'd set it. hexwood, unmarked but for the torn hinges. Made to last generations. Opened in seconds, and left behind because it was not interesting.
+I took one last look back at the lockbox lid through the broken wall, lying where I'd set it. Hexwood, unmarked but for the torn hinges. Made to last generations. Opened in seconds, and left behind because it was not interesting.
 
 "Let's go," I said.
 

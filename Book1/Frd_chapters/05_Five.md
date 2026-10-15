@@ -2,7 +2,7 @@
 
 The day did what days do. Customers came for the stew and left having eaten it; the Scar crawled its slow arc overhead; Tondi mended and grumbled and eventually went up to rest; and through all of it the thing in the corner sat under its tablecloth and did not move, except to adjust the Falkas on its back, until the light began to fail and the inn emptied to nothing and I found that I had run out of reasons not to go and sit with him.
 
-So I brought my stew, just in case. The tablecloth had done a passable job of hiding the worst of it, but up close, where I was sitting, there was no pretending the thing across the corner table from me was anything other than what it was.  The wooden hand with its too-many joints resting on the table's edge. The faint sound, every so often, of something mechanical inside a chest that didn't move. And the eye — one blue eye, set slightly off-centre in a smooth featureless face, which had not so much looked at me as found me, the glow of it fixing in place with a weight I could almost feel.
+So I brought my stew, just in case. The tablecloth had done a passable job of hiding the worst of it, but up close, where I was sitting, there was no pretending the thing across the corner table from me was anything other than what it was. The wooden hand with its too-many joints resting on the table's edge. The faint sound, every so often, of something mechanical inside a chest that didn't move. And the eye — one blue eye, set slightly off-centre in a smooth featureless face, which had not so much looked at me as found me, the glow of it fixing in place with a weight I could almost feel.
 
 I'd served stranger, maybe. Tondi, for one.
 
@@ -84,7 +84,7 @@ A long beat. "The militia member who found me at the gate."
 
 "I had noted that," Third said. "Yes. People like Roan." The bellows-sound again — slower this time, something gathering itself. "People like you, if you are willing."
 
-I looked at my cold stew. I looked at the shuttered window. I thought about the pillar outside, knee-high, the town's whole history in a dozen names, and I thought about the fact that Third had stood in the dark reading it before the sun came up, before I'd even opened the inn, already deciding whether we were worth asking.
+I looked at my cold stew. I looked at the shuttered window. I thought about the pillar outside, knee-high, the town's whole history in a dozen names, and I thought about the fact that Third had stood in the dark reading it before the scar went past, before I'd even opened the inn, already deciding whether we were worth asking.
 
 "You said whoever's doing this already cost one town everything," I said.
 

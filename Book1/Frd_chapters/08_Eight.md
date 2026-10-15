@@ -2,7 +2,7 @@
 
 I closed the inn that night the way I'd closed it a thousand times, except that I was aware of doing it, which was the difference between a thing you do and a thing you are doing for the last time.
 
-I wiped the tables that did not need wiping, feeling their time worn smooth tops for possibly the last time. I straightened the chairs, brushing the marks off the packed earth floor as I went. I checked the lockbox in the floor, the day's Black inside it — combination set, lever down, lid secured — and I thought about the traveller upstairs, and the town two days spinward that had a lockbox and a memorial pillar and a militia and a closing routine just like this one, right up until it didn't have anything at all. And then I made myself stop thinking about it, because that was a skill I had and there was no sense owning a tool you refused to use.
+I wiped the tables that did not need wiping, feeling their time-worn, smooth tops for possibly the last time. I straightened the chairs, brushing the marks off the packed earth floor as I went. I checked the lockbox in the floor, the day's Black inside it — combination set, lever down, lid secured — and I thought about the traveller upstairs, and the town two days spinward that had a lockbox and a memorial pillar and a militia and a closing routine just like this one, right up until it didn't have anything at all. And then I made myself stop thinking about it, because that was a skill I had and there was no sense owning a tool you refused to use.
 
 Tondi was in her corner. She had not gone up to bed, which she always did before I finished, which meant she was staying down on purpose, which meant she had something to say and was working her way around to the angle she wanted to say it from. I let her work. You did not hurry Tondi. Hurrying Tondi was how you got the short version, and the short version was always worse.
 
@@ -80,4 +80,4 @@ They were.
 
 <p align="center">&#42; &#42; &#42;</p>
 
-We left at first light — the Scar's edge going from black to charcoal to the flat grey that passes for morning; creeping across the sky like water darkening a dirt floor, without any particular moment you could point to and call the start of the day.
+We left at first light — the Scar's edge going from black to charcoal to the flat grey that passes for morning, creeping across the sky like water darkening a dirt floor, without any particular moment you could point to and call the start of the day.

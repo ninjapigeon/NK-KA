@@ -2,7 +2,7 @@
 
 The first thing he did was check his hands.
 
-He did it the way he did everything that mattered, without hurry and without any sign that it mattered: a palm laid over each Falka at his hips, the two curved blades he'd spent thirty spins of the Scar learning to dance with, the only weapons he had ever carried that were his choosing and not his making. The small unconscious touch of a man making sure of his hands. There was nothing else on him to set down. He had done that a very long time ago, by a river, in front of a boy with a bow, and he had never gone back for it.
+He did it the way he did everything that mattered, without hurry and without any sign that it mattered: a palm laid over each Falka at his hips, the two curved blades he'd spent thirty spins of the Scar learning to dance with, the only weapons he had ever carried that were his choosing and not his making. The small unconscious touch of a man making sure of his hands. There was nothing else on him to set down. He had done that a very long time ago, by a brook, in front of a boy with a bow, and he had never gone back for it.
 
 I understood it without being told, which is a thing that happens between people who have walked far enough together. Other people come to the end of the world carrying what they were given. He was coming to it carrying only what he had chosen, as he had for three hundred thousand spins, and there was nothing left to put down that he hadn't already.
 

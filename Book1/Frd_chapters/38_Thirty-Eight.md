@@ -18,7 +18,7 @@ I could not hear an answer. There was no answer to hear; she was in the place I 
 
 I felt it through the rope before I understood it. The arm under my hand — slack since the going-still took him — came back. Not pulling toward the wall. Not pulling anywhere. Just *his* again, weight in it, a man inhabiting his own limb.
 
-"You taught me this," Third said, and I knew, this time, it was not to Liwon, and not to me; it was to a woman who had died old in a bed a long way from here, who had lost everything and gone on anyway. "You said going on was the only way to call the loss what it was. I did not understand you. I thought you meant *endure.* You meant *refuse.* You meant that to take the bargain, is to let them tell you it was never really a loss at all — and that the loss is the last of the love you get to keep. I am keeping it. I am keeping all of it. Thank you. I am sorry it took me until the end of the world."
+"You taught me this," Third said, and I knew, this time, it was not to Liwon, and not to me; it was to a woman who had died old in a bed a long way from here, who had lost everything and gone on anyway. "You said going on was the only way to call the loss what it was. I did not understand you. I thought you meant *endure.* You meant *refuse.* You meant that to take the bargain is to let them tell you it was never really a loss at all — and that the loss is the last of the love you get to keep. I am keeping it. I am keeping all of it. Thank you. I am sorry it took me until the end of the world."
 
 And then, to the grey, to the small reaching shape in it, the worst sentence I have ever heard a person say, said gently, said like tucking someone in:
 

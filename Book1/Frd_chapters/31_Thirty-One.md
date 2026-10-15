@@ -14,7 +14,7 @@ He didn't look at me. "Don't."
 
 "I mean it. I'm not — this isn't a test, it's not me checking are-you-brave. You've nothing left to prove to me; I watched you stand still on that field with a Grinding Teeth cloud an arm's length off your face, I know what you've got." I kept my voice level, which took some doing. "But this is going to get worse, and it's not your fight. You came out because a Forged needed a head brought back and it turned into something nobody could have signed up for. Mathen would skin me if I let you die here without telling you, out loud, that you are allowed to walk away. You go home. You guard a gate. You get old. Nobody — not me, not Third, not him, wherever he is — nobody thinks one thing less of you. That's true and I need you to have it."
 
-He was quiet a long while. The Scar's dark edge was coming up over the field. Out in it a far slab went over with a crash, and neither of us flinched, which tells you something about what a tenday at the Graveyard does to a person.
+He was quiet a long while. The Scar's dark edge was coming up over the field. Out in it a far slab went over with a crash, and neither of us flinched, which tells you something about what half a tenday at the Graveyard does to a person.
 
 "Is it worse than you're saying," he asked. "What's coming."
 

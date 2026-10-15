@@ -20,7 +20,7 @@ I did not trust my voice for a second. Then I said, "You want me to nag you back
 
 "Third, I have been told my whole life that's my worst quality. You're saying it's a rescue technique."
 
-"I am saying," he said, with enormous gravity, "that tonight it may be the most useful thing in the world, and I would take it as a kindness if you did not stop, no matter how little I appear to be listening, and that if I tell you to stop, you must understand that the part of me asking you to stop is the part you are saving me from." The eye held me. "Will you?`"
+"I am saying," he said, with enormous gravity, "that tonight it may be the most useful thing in the world, and I would take it as a kindness if you did not stop, no matter how little I appear to be listening, and that if I tell you to stop, you must understand that the part of me asking you to stop is the part you are saving me from." The eye held me. "Will you?"
 
 "Yeah," I said. "Talk you back. I can do that. I'm good at that."
 
@@ -32,7 +32,7 @@ And then he set himself against it — not leaving, though leaving was the word 
 
 I don't remember the half of what I said. That's the truth of it. You don't, after; it isn't speech you're making, it's rope. I talked about the inn. I talked about Tondi and her water cup and the way she never touched a coin, and the stupid sign that said *Only*, and Klar's first attempt at Shredder stew that he'd been so proud of, and the way the militia drank their courage before patrol and Roan was the one who didn't, and the smell of the place in the morning before the stew went on. I talked about my father telling me never to let them see my fear. I talked about the road, every dull stretch of it, the bog and the blizzard and the field of stinging glass, all the things that had nearly killed us made small and ours and *survived,* because that was the point, I understood that even while I was doing it — I wasn't telling him true things, I was telling him *ongoing* things, things with more of them still to come, a world that was not finished and therefore worth the difficulty of returning to.
 
-His eye stayed almost-out. The cold got worse. Out in the field the great book turned a page with a crack that I felt in the fallen slab under me, and I did not stop talking. A while into it — I don't know how long, time goes strange when you're being a rope — the red wire of his eye began, very slightly, to *drift,* the way a moored boat drifts when the line goes slack, his whole still shape leaning a hair toward the cliff, toward the black mass and the pull behind it, and something in me that wasn't thinking said his name instead of all the other words, just his name, *Third, Third, you've got stew to complain about, Third, I'm not done telling you about the sign* — and the drift stopped. Held. Hung there at the end of the slack line that was apparently my idiot voice. And then, slowly, came back.
+His eye stayed almost-out. The cold got worse. Out in the field the great book turned a page with a crack that I felt in the fallen slab under me, and I did not stop talking. A while into it — I don't know how long, time goes strange when you're being a rope — the blue of his eye began, very slightly, to *drift,* the way a moored boat drifts when the line goes slack, his whole still shape leaning a hair toward the cliff, toward the black mass and the pull behind it, and something in me that wasn't thinking said his name instead of all the other words, just his name, *Third, Third, you've got stew to complain about, Third, I'm not done telling you about the sign* — and the drift stopped. Held. Hung there at the end of the slack line that was apparently my idiot voice. And then, slowly, came back.
 
 The eye came up. Not all the way. But up, and toward me, and the rest of him came back into one place, the hoof testing the slab, the deck-in-a-swell carefulness, and I shut up at last because he'd opened the eye and that was the deal, and I was shaking, and I hadn't noticed I'd taken hold of his wooden forearm with both hands at some point and was gripping it like the rail of a thing going down.
 
@@ -56,7 +56,7 @@ The eye went to the cliff again, but it didn't drift this time; he had it on a s
 
 I kept hold of his forearm. The fire had burned down and neither of us fed it.
 
-"Then I'll keep the rope," I said. "However many nights it takes. You don't look into that thing without me on the other end of you. That's the deal now. You don't get to be known to death by something in the dark while I'm asleep ten feet away."
+"Then I'll keep the rope," I said. "However many nights it takes. You don't look into that thing without me on the other end of you. That's the deal now. You don't get to be known to death by something in the dark while I'm asleep ten steps away."
 
 He looked at me for a long moment, the eye steadying toward something like its proper light.
 

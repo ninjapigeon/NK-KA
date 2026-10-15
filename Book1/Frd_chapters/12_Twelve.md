@@ -38,7 +38,7 @@ I don't know how long he'd been walking with that in him before it came out. It 
 
 "You shut yours. You've wanted to say it too. I've watched you—"
 
-"I have known you four days and every one of them you've needed someone to tell you you're brave—"
+"I have known you since we were children and every day of it you've needed someone to tell you you're brave—"
 
 I heard it land. I watched it land on him, the exact cruel place I'd aimed it without deciding to aim anywhere, and the small hot satisfaction of having hurt him curdled even as it arrived, and that was the thing, that was the whole horror of the place laid bare in a sentence: it did not invent anything. It had nothing to put in us that we had not brought in ourselves. It only reached in, and found the unkindest true thing, and helped us say it.
 
