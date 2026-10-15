@@ -1,5 +1,49 @@
-THIRD — WORLD BIBLE v.15
+FRD — WORLD BIBLE v.15.1
 ========================
+v.15.1 — POST-MANUSCRIPT ALIGNMENT (October 2026)
+-------------------------------------------------
+The finished Book 1 chapters (Book1/Frd_chapters, 41 chapters) are now
+canon. Where this document disagreed with them, the chapters win.
+Applied in this pass:
+
+  TITLE     The book is FRD (the Titanspeech abjad rendering of Third;
+            TH -> F). "Third" remains the character's name everywhere.
+  NAMES     The weapon is the BOLTCASTER (v.14-15 said Buhar; earlier drafts,
+            Bolter — both retired). Third's blades are FALKAS (was
+            "falcatas"). The sundered peoples are KRO and ORK (was Kr / Rk).
+            "Causeway" (short for the Emperor's Causeway) and "Titan" are
+            always capitalised.
+  GLAIVE    Third leaves the Glaive in the reeds at the brook, beside the
+            Virek boy with the bow, on the day he first speaks (ch16, ch40),
+            and never goes back for it. He does NOT carry it through the ages
+            and does NOT set it down at the Graveyard; from then on his
+            weapons are the self-made Falkas. [BOOK 2 CONFLICT: any Era-2
+            scene with Third wielding the Glaive (Part Three "ARC"; the Book 2
+            Scene 1 draft) contradicts Book 1 and needs a decision.]
+  GRAVEYARD What Third leaves at the foot of the spine is Dorn's Boltcaster
+            (bolt removed), not the Glaive (ch39). He keeps the Falkas.
+            Scale: cliff ~100 m high; the field of slabs runs ~5 km from the
+            cliff face to the last fallen slab and is ~300 m wide; each slab a
+            tall narrow leaf 10-20 m across and up to ~100 m high (ten
+            Causeway arches; "sixty men"); fallen slabs lie ~100 m long.
+  CAUSEWAY  Corkscrew ramps every TWO thousand paces (ch10), not one.
+  GRASK     Dorn's joke is a hide-and-seek joke: a Mender and a Crafter play
+  JOKE      to settle whose work matters most; the Grask is "It" and counts;
+            its punchline is "Ready or not" (a warning). The real Grask says
+            "Found you." ("There you are" is Lujian's line only.)
+  AKNA      Third is still the only being known to step into the grey at will,
+            with no word and no cost. But sorcerers can reach it with the
+            right spell, at a price, usually for one crossing; ordinary people
+            stumble in at thin places; and Sougad crosses by saying an old
+            word (a different one for each direction) yet is not spent by it
+            (ch19, ch20, ch28, ch36, ch38).
+  CHIPWOOD  Small settlement two days spinward of Dunarth; home of the
+            traveller in ch6; destroyed off-page. Not the town of ch17.
+  NAMING    Sougad is first named in ch36; the Anvil in ch35. "The cold man"
+            means Sougad from ch33 on (never Third).
+  TIME      Minutes, seconds and hours are fine in-world (the Scar's fuzzy
+            edge takes about five minutes).
+
 Developed in collaboration with Claude · May–June 2026
 Consolidates: v.13 → v.14 → v.14 patch 2 → v.14 session patch (June 2026)
 This is a FULL FOLD-IN. All prior patches are now retired as
@@ -10,13 +54,9 @@ written below; nothing has been silently dropped.
 EDITORIAL NOTE ON THIS CONSOLIDATION:
 Two terminology fixes were applied while merging, both restoring
 already-locked canon that drifted during drafting conversation:
-  - "Bolter" -> BUHAR. The weapon's in-world name was already
-    settled in v.14 ("Buhar -> Buhar global rename, incl. the
-    'THE BOLTER NEVER FIRES' beat" — i.e. Bolter was the old
-    working title, retired). Recent conversation drifted back to
-    "Bolter" colloquially; this document corrects it throughout.
-    The climax beat keeps its title, "THE BOLTER NEVER FIRES," as
-    a holdover label only — never as in-prose terminology.
+  - (v.15) "Boltcaster" -> BOLTCASTER; (v.15.1) BOLTCASTER -> BOLTCASTER, the final in-world
+    name — see the v.15.1 note above. The climax beat is titled
+    "THE BOLTCASTER NEVER FIRES."
   - "Scalykind" -> KETH where the substance is the in-world
     institution/people themselves. Per patch 2, "Scalykind" is
     RETAINED only as an old, blunt Humin folk term — usable in
@@ -28,8 +68,8 @@ already-locked canon that drifted during drafting conversation:
 below for traceability but no longer indicate "apply this" — this
 document IS the applied result.
 
-Companion document: Third — Novel Outline v.6 (Book 1, separate
-file). Third Book 2 (Adura's narration, Era 2) is now far enough
+Companion document: FRD — Novel Outline v.6 (Book 1, separate
+file). FRD Book 2 (Adura's narration, Era 2) is now far enough
 developed that its structural summary is included in Part Twelve
 below, but it remains a separate drafting document.
 
@@ -100,15 +140,15 @@ Loses Liwon. Wally fades. Third goes into torpor.
 | Spin | Event |
 |---|---|
 | ~1,220 | Liwon's loss / the Transformation. Torpor begins. |
-| ~1,220–100,000 | Torpor (~99,000 spins / ~330 Earth years). Third sits overgrown and winding down. The Kro/Rk split, the Pale and Green War, the rise and decline of Luek — all of it happens while he sits. His batteries — Titan-original containment vessels — slowly exhaust. He does not replenish them; the will that kept him replenishing them has failed along with everything else. |
+| ~1,220–100,000 | Torpor (~99,000 spins / ~330 Earth years). Third sits overgrown and winding down. The Kro/Ork split, the Pale and Green War, the rise and decline of Luek — all of it happens while he sits. His batteries — Titan-original containment vessels — slowly exhaust. He does not replenish them; the will that kept him replenishing them has failed along with everything else. |
 | ~100,000 | THE WAKING, two phases. An UNNAMED MINOR SPELLCASTER, scavenging ruins or ruin-adjacent territory, accidentally speaks a Titanspawn word near Third's location. The word gives him barely enough to open his eye — not to speak, not to move, only to see. The spellcaster is frightened and leaves immediately, never knowing what they did. LUJIAN, who has already been sitting with the overgrown statue long enough to have learned its shape, notices the eye is now open and oriented on her. She does not run. She says: *"There you are."* Then she goes to find magefire. |
 | ~100,000 | Lujian returns with magefire jars, sourced through pre-Charter Keth trade routes at considerable personal cost. Third drains them into his own system — the closest approximation available; energy is energy. Enough power returns for speech. His first words ask for more magefire. His second words, once he can sustain a conversation, are about Liwon. Era 2 properly begins. |
 | ~100,000–103,000 | Third travels with Lujian (~3,000 spins / ~10 Earth years). She dies of old age — an old woman's ordinary end, Third sitting the watch he knows how to sit this time, the kind with an end in it. |
-| ~103,000–268,000 | **THE BLANK YEARS** (~165,000 spins / ~550 Earth years). Third alone. No name, no companions, no strong sense of self — the name is part of what makes him *there*, and he does not have it yet. Time passes without much purchase on him; he does not count carefully. He culls Titanspawn across Anka — not for anyone, not as a mission, but because standing still agrees with the liar and this is the work available. Indirectly protects Kr and Humin settlements by removing what would otherwise kill them. Generates at least three separate folk legends (different regions, different names, none of them accurate, none of them Third); he never stays long enough to hear himself talked about. At least once he fails to protect something, and files it under *the cost of the work* rather than *the cost of caring* — a distinction he doesn't yet have vocabulary for. Buhars become established technology during this period; by its end, Buhar bolts begin piercing his hide in ways pre-Titansfall weapons never did. He starts looking for his armor. |
+| ~103,000–268,000 | **THE BLANK YEARS** (~165,000 spins / ~550 Earth years). Third alone. No name, no companions, no strong sense of self — the name is part of what makes him *there*, and he does not have it yet. Time passes without much purchase on him; he does not count carefully. He culls Titanspawn across Anka — not for anyone, not as a mission, but because standing still agrees with the liar and this is the work available. Indirectly protects Kro and Humin settlements by removing what would otherwise kill them. Generates at least three separate folk legends (different regions, different names, none of them accurate, none of them Third); he never stays long enough to hear himself talked about. At least once he fails to protect something, and files it under *the cost of the work* rather than *the cost of caring* — a distinction he doesn't yet have vocabulary for. Boltcasters become established technology during this period; by its end, Boltcaster bolts begin piercing his hide in ways pre-Titansfall weapons never did. He starts looking for his armor. |
 | ~268,000 | Clears an Ork incursion. Finds the sole survivor of a destroyed village — armed, self-rescued, refusing to be left behind. She names him Third (see Characters). He answers to it from that moment without being asked twice. |
 | ~268,000–293,000 | Episodic companionship with Adura across her adult life (~25,000 spins / ~83 Earth years). She drifts toward settled humin towns; Third visits from the road. Once settled, she brokers his contracts — locals still run at the sight of him; meets always happen outside of town. She begins writing his accounts into the slat-book he gives her. He tells them flat; she translates them into something livable. He does not yet know this is something you can ask someone to do. |
 | ~293,000 | DORN joins. The three travel actively together. |
-| ~296,000 | Dorn dies — Subsurface Shredder, camp ambush from below, before Third had finished standing up. Tells the Mender/Crafter/Grask joke at some point before this. Third keeps Dorn's Buhar. |
+| ~296,000 | Dorn dies — Subsurface Shredder, camp ambush from below, before Third had finished standing up. Tells the Mender/Crafter/Grask joke at some point before this. Third keeps Dorn's Boltcaster. |
 | ~296,000–299,000 | Adura and Third continue alone. Her illness begins. |
 | ~299,000 | Adura dies of illness — consistent with Humin lifespan benchmark. |
 | ~299,000–300,000 | Third alone. Era 3 begins. |
@@ -121,7 +161,7 @@ know Sougad exists. Sougad does not yet know Third is the key.
 
 **ERA 3 — After Adura to meeting Tasha (Book 1)**
 
-Third alone, carrying Dorn's Buhar. Dorn's death is now ~4,000
+Third alone, carrying Dorn's Boltcaster. Dorn's death is now ~4,000
 spins before Book 1's present — fresh enough that Third still
 carries it without having filed it. Adura's death is ~1,000 spins
 before Book 1. Third is aware someone is collecting Titan
@@ -254,7 +294,7 @@ ground. His soul-stone by accident. Not his by right.
 
 The Graveyard's cause: the cliff is the mountain's root, embedded
 half in Anka, half in Akna. Anvil resonance causes all anomalous
-behaviour there (Buhars unreliable, Third's side-step turbulent).
+behaviour there (Boltcasters unreliable, Third's side-step turbulent).
 
 **Why Sougad needs Third (door vs. passenger; the consent
 mechanism) — locked:**
@@ -290,7 +330,7 @@ the lure (the dead). The consent is the entire mechanism.
 
 Failsafe rationale: a seam that is TORN does not open a lasting
 door — it snaps shut, unmakes the door (wall again). So destroying
-the living seam (Dorn's Buhar through the chest seam / the
+the living seam (Dorn's Boltcaster through the chest seam / the
 magefire lights) unmakes the door permanently. Killing Third = no
 door = the Titan stays out.
 
@@ -331,9 +371,9 @@ distinction.
 
 ACCESS IS SCARCE: Almost no one crosses deliberately. Most who end
 up in Akna did not choose it — Sougad was BANISHED there; rifts
-near villages are involuntary and random. Third is UNIQUE: the
-only Forged (only being) known to side-step at will. The ability
-unsettles people; he explains it rarely.
+near villages are involuntary and random. Third is UNIQUE: the only Forged (only being) known to side-step at will. The ability unsettles people; he explains it rarely.
+
+OTHER ROUTES IN (Book 1 ch19, ch20, ch28, ch36, ch38): sorcerers can reach Akna with the right spell, paying in blood, time or sense, usually for a single crossing; ordinary people stumble in at thin places by accident and, if lucky, come out again changed; and Sougad, banished there, crosses by saying an old word (a different word for each direction — never written out) and, unlike any other sorcerer, is not spent by it. Third alone needs no word and pays no price. "Akna" is the formal word, "the grey" the everyday one.
 
 SOURCE: Akna is the wellspring of elemental energies and "strange
 things." It is where the Titan partly retreated (fragmented, not
@@ -423,9 +463,9 @@ Abjad, no written vowels.
 
 # PART TWO — KEY DECISIONS & CLIMAX RULINGS (BOOK 1)
 
-Third's weapon: Falkas (Falcatas) — each slightly different, each
+Third's weapon: Falkas — each slightly different, each
 self-made across the centuries. The original Glaive was
-a symbol of office. Leaves it in the stream near the Virek boy with the bow. THE GLAIVE IS BONE-COLORED (pale ivory, close to white)
+a symbol of office. Leaves it in the reeds at the brook beside the Virek boy with the bow, on the day he first speaks (Book 1 ch16, ch40), and never goes back for it. THE GLAIVE IS BONE-COLORED (pale ivory, close to white)
 — Titan-made, never anointed with Titan blood, therefore never
 mahogany-red. [FLAG: any existing Book 1 prose that describes
 the Glaive as dark, wood-toned, or Hexwood-like in color
@@ -449,7 +489,7 @@ Magefire bottles (six, grafted to his back) are life support.
 
 The Graveyard: climax location. Cliff is the Anvil's mountain
 root, half in Anka, half in Akna. Anomalous behaviour caused by
-Anvil resonance. Buhars unreliable inside. Third's side-step
+Anvil resonance. Boltcasters unreliable inside. Third's side-step
 turbulent.
 
 The Spire: verisimilitude only. Symbolic north. Does nothing.
@@ -514,16 +554,16 @@ very long time for one of you to wake."
 - INTERIOR VICTORY ONLY. The world is saved by THIRD'S CHOICE, not
   by any act of the party. Only Third can deny the door; no
   external act can win it.
-- THE BUHAR NEVER FIRES. Loaded at last (Third Goes Still) and
+- THE BOLTCASTER NEVER FIRES. Loaded at last (Third Goes Still) and
   still never used — Dorn's memento honored by inversion. Tasha's
   failure to fire is the RIGHT failure; screaming Roan's name
   instead is love refusing the terms, and that refusal is what
   reaches Third where the dead cannot.
 - SOUGAD IS UNKILLABLE until he rejoins the Anvil. No killing him,
-  no firing the Buhar at him, nothing external "wins." The only
+  no firing the Boltcaster at him, nothing external "wins." The only
   victory is DENIAL — shutting the door so he is never reunited.
   [How Sougad ends after denial: TBD in "After."]
-- ROAN MOVES = bodily INTERPOSITION, not the Buhar. He throws
+- ROAN MOVES = bodily INTERPOSITION, not the Boltcaster. He throws
   himself in to buy the breath. He is HURT doing it; his fate
   stays in doubt through the climax; he comes through BROKEN BUT
   ALIVE.
@@ -599,8 +639,7 @@ hooves. Pneumatic bellows — sparse, maximum two instances per
 scene, at moments of genuine weight only. Voice like stone on
 stone, "...felt through the feet or chest, before registering as heard in the ears."
 
-Carries Falcatas as weapons. Carries Glaive as symbol of former
-office. Keeps Dorn's Buhar as a memento (Book 1). Does NOT use
+Carries Falkas as weapons (the Glaive was left at the brook on his first day — see Part Two). Keeps Dorn's Boltcaster as a memento until he leaves it at the foot of the spine (Book 1, ch39). Does NOT use
 spellfire. Can side-step into Akna. "Istvan" — retired name, all
 instances replaced with Third.
 
@@ -619,17 +658,13 @@ The forearms are concealed by default. In ordinary movement the
 arms read as arms; the split is visible only as seams at the
 elbows — an odd joint most people register briefly and file away.
 Full bifurcation is revealed only in three circumstances:
-  1. WIELDING A TWO-HANDED WEAPON ONE-ARMED: the Glaive (and later
-     configurations requiring extended reach) is held in both
-     forearms of one arm simultaneously.
+  1. WIELDING A TWO-HANDED WEAPON ONE-ARMED: a polearm such as the Glaive (which he left at the brook on his first day — see Part Two), or later configurations requiring extended reach, is held in both forearms of one arm simultaneously.
   2. GRAPPLING A LARGE TARGET: anything approximately Tusker-sized
      or larger where a single-armed grip is insufficient.
   3. CLIMBING: terrain requiring four independent grip points.
-In Book 2's Scene 1, Third is using the Glaive — one arm's
-forearms are extended on the weapon. Adura sees the seams, can't
-name them, files them away for later.
+In Book 2's Scene 1, Third is using the Glaive — one arm's forearms are extended on the weapon. Adura sees the seams, can't name them, files them away for later. [BOOK 2 CONFLICT: Book 1 has him leave the Glaive at the brook on his first day, so this scene needs a different extended-reach weapon, or the Falkas.]
 
-**THE GLAIVE — APPEARANCE AND ARC [NEW]:**
+**THE GLAIVE — APPEARANCE AND HISTORY [REVISED per Book 1]:**
 The Glaive is Titan-made, not Hexwood. Titan-made weapons and
 items are bone-colored — pale ivory, close to white — because they
 were never anointed with Titan blood. They are Titan will expressed
@@ -642,25 +677,9 @@ It cuts through Hexwood-anointed items. Hexwood is Titan blood
 dried into wood by craft; the Glaive is Titan will expressed
 directly. The copy does not stop the original.
 
-ARC: In Book 2 (Era 2) Third uses the Glaive as a weapon and it is
-too effective — hexwood swords go through it like reeds. Adura
-describes it as ribbon-dancing: wide arcs, nothing tangling,
-always exactly where it means to be. The description is accurate.
-It is also the description of something that isn't quite a fight.
-Third doesn't register this as a problem at first. Adura's presence
-is what makes the question occur to him, over time, without her
-ever raising it directly — the same mechanism as the bartering.
-With bartering the question is what does value mean if you pay
-whatever someone asks; with the Glaive it is what does a fight
-mean if the outcome was never in doubt. Both are the same problem:
-he was built to do something, and she makes him wonder whether
-built-to-do is the same as should.
+HISTORY (Book 1 canon): the Glaive is left in the reeds at the brook on Third's first day and never retrieved; the Falkas he makes afterward are the whole of his self-made kit (ch16, ch40). In Book 1 it is never the instrument of the climax — what he leaves at the foot of the spine is Dorn's Boltcaster (ch39).
 
-By the Blank Years, after Adura is gone, he has switched to
-self-made Falcatas — each slightly different, each chosen or made
-rather than given. He carries the Glaive as symbol of former
-office. It is set down at the Graveyard climax (Book 1). The
-switch was never announced.
+ARC [BOOK 2 CONFLICT — author decision needed]: the earlier plan had Third wield the Glaive through Era 2 (Adura sees ribbon-dancing arcs; hexwood swords go through it like reeds), with the question 'what does a fight mean if the outcome was never in doubt' growing in him alongside the bartering question, and the Glaive carried as a symbol of office until the Graveyard. None of that survives Book 1 as written. If the Era-2 'too effective' beat is kept it needs a different carrier (the Falkas he has made by then, or his own four-armed grip).
 
 **THIRD'S ARMOR — HISTORY [REVISED]:**
 
@@ -716,15 +735,13 @@ moment is deliberately quieter than the Glaive moment with the
 Virek boy — less symbolic, more practical-feeling on the surface.
 His body was sufficient. The armor was a statement of what he was
 made to be, and he had just started to understand that he didn't
-know yet what he *was*. He kept the Glaive because it carried
-something of office, something he still had a complicated
-relationship with. The armor was just equipment. He set it down
+know yet what he *was*. The Glaive he had already left at the brook; this was the quieter letting-go. The armor was just equipment. He set it down
 somewhere — a cache, a ruin, a location he may or may not remember
 — and walked away.
 
 He does not have it by the time he meets Adura. He does not have
 it by Book 1. The Era_2.md line "he started looking for his armor"
-refers to the Blank Years, when Buhar bolts began piercing his
+refers to the Blank Years, when Boltcaster bolts began piercing his
 hide in ways pre-Titansfall weapons never did — but by that point
 he had been without it long enough that going back felt like a
 retreat into something he had already walked away from. He looked
@@ -759,7 +776,7 @@ What this means practically:
   - He CAN drain Charter-standard magefire jars into his own
     system. The energy is compatible even if the vessel is not —
     close enough approximation that it sustains him, the way a
-    Buhar bolt's Ptah charge can jump-start something that runs on
+    Boltcaster bolt's Ptah charge can jump-start something that runs on
     Titan essence. Not efficient, not elegant. It works. The
     image: he holds a jar to his chest or forearm, and his body 'adjusts' a bit to connect, then
     drains it. No high. No surge. Just the lights staying on. He
@@ -827,7 +844,7 @@ TITAN FOOTPRINTS: great gouged scars/troughs and shield-rock
 cuttings across the country — smooth-walled rock canyons, dragged
 furrows, knuckled bedrock swept bare, as though something colossal
 was hauled (or walked, or thrown) across the world. Roads and
-trails thread THROUGH them. In-world name: "titan footprints" / "the knuckles." Treated as ordinary travel terrain
+trails thread THROUGH them. In-world name: "Titan footprints" / "the knuckles." Treated as ordinary travel terrain
 by locals; lands on the reader as awe + unease. (Distinct from the
 Giant's Graveyard splinters and the black Ptah cracks.)
 
@@ -880,7 +897,7 @@ of the split. Elves and Orks share a deep, mutual hatred everyone
 is aware of and almost no one can explain — the truth (two halves
 of the same severed whole) is not common knowledge.
 
-**Goblins, Orks & Ogres (Rk):** Goblins are small, vicious, green
+**Goblins, Orks & Ogres (Ork):** Goblins are small, vicious, green
 nuisances — pack hunters who hate dogs, believe writing steals the
 soul, love fire and sing terrible songs (rhyming, often off-key). Left to mature, a goblin
 becomes an Ork; Orks who live long enough become Ogres, who tend
@@ -920,9 +937,7 @@ Glaives x 24 (one Glaive + 23 Swords) = 576 = 24 squared. Fits the
 "obsessive repetition" convention: a hierarchy of counts that look
 designed, because they were.
 
-THE GLAIVE (weapon): the rank's namesake and its insignia. Third
-carries it as "symbol of former office" (Part Three). This entry
-explains that phrase; it does not change it.
+THE GLAIVE (weapon): the rank's namesake and its insignia. Third put his down at the brook on his first day (Book 1 ch16, ch40) and never retrieved it; "symbol of former office" now describes what he set down. This entry explains the phrase; it does not change it.
 
 STYLE RULE: capitalise the rank, lowercase the object. "He was a
 Sword" (rank) vs. "he drew his sword" (weapon). Same for Shield
@@ -992,7 +1007,7 @@ devoted to mastering magic wherever they can get access to it.
 What's less known: Keth crafters hold the only working knowledge
 of how raw Ptah becomes magefire — a closely guarded secret that,
 over centuries, has made them quietly indispensable to nearly
-everything on Anka that flies, fires a Buhar, or lights a battery.
+everything on Anka that flies, fires a Boltcaster, or lights a battery.
 Few outside the caste structure ever see how that knowledge is
 actually used, or how far it reaches.
 
@@ -1046,7 +1061,7 @@ something. This is the first name Third is ever given, predating
 Adura's by roughly 267,000 spins.
 
 At the Transformation — Liwon's sundering into two dying children,
-a pale Kro on the floor and a green Rk killed outside — one of the
+a pale Kro on the floor and a green Ork killed outside — one of the
 split children asks or says "Bada?" This single word is how Third
 knows, beyond doubt, that what's in front of him is still her,
 despite what she's become. It recurs once more, at Book 1's
@@ -1081,8 +1096,8 @@ genuine self-test ("I need to find out if I am [brave]").
 
 **Mathen:** ~10,000–12,000 spins. Gleeman type. Met Third
 organically at the Blood Geysers (~1,500–3,000 spins together).
-Dies to a Grask. In a future volume Third may keep Mathen's Buhar;
-in Book 1 the Buhar Third carries is Dorn's.
+Dies to a Grask. In a future volume Third may keep Mathen's Boltcaster;
+in Book 1 the Boltcaster Third carries is Dorn's.
 
 **Dorn:** Joins Third and Adura late in her life (~spin 293,000),
 not from the start. First encounter: a shared hunt. Third is a
@@ -1101,18 +1116,18 @@ scratch, knows this about himself and doesn't mind. Tells the
 Mender/Crafter/Grask joke at some point during their time
 together; it surfaces in Book 1's campfire scene.
 
-Carries a Buhar from first appearance. By this era (~293,000
-spins) Buhars are established and unremarkable as objects — what's
+Carries a Boltcaster from first appearance. By this era (~293,000
+spins) Boltcasters are established and unremarkable as objects — what's
 notable is Dorn's skill with it, the placement, the timing, the
 calm. Third notices the competence, not the weapon.
 
 Killed by a Subsurface Shredder that came up through their camp,
 before Third had finished standing up (~spin 296,000). Third keeps
-his Buhar — no rounds, unfired, kept because "putting it down
+his Boltcaster — no rounds, unfired, kept because "putting it down
 would mean something." This is the buried reason Third hunts
 Shredders; surfaced in Book 1's Act Two campfire memory, which
 recontextualises the Tondi's-test beheading as revenge. It is the
-Buhar Third carries through Book 1.
+Boltcaster Third carries through Book 1.
 
 **Adura:** Sole survivor of a village destroyed by Ork raiders
 (~spin 268,000, when Adura is young — ~3,000–5,000 spins old).
@@ -1144,7 +1159,7 @@ its edge are for the next one she didn't make. Her last gift to
 Third: the finished slat-book, left with a note (or via will),
 delivered by a nervous villager at their usual meeting spot
 outside of town. Third carries it on the road afterward — putting
-it down would mean something, the same as Dorn's Buhar.
+it down would mean something, the same as Dorn's Boltcaster.
 
 Distinct from Tasha in register: warmer, more direct, less
 guarded. Her voice is established in *Era_2.md* and *take.md*.
@@ -1256,8 +1271,7 @@ obvious marker — defer to her voice without question. Recognizes
 what Third is carrying before he articulates it himself: not a
 hostage, a daughter. Talks the archers down, invites Third into
 the village, and is instrumental in his being informally accepted
-as a "gate warden," eventually trusted to walk the perimeter with
-his Glaive unsupervised.
+as a "gate warden," eventually trusted to walk the perimeter with his own blades unsupervised.
 
 Liwon grows closer to the village — and to Zala specifically —
 over the following spins, which Third registers as correct and
@@ -1266,7 +1280,7 @@ Third finds the dying, sundered Liwon during the Transformation —
 implying Liwon had been staying with or near her by that point.
 Zala's own fate during the Transformation is unconfirmed in the
 source material; all Virek present vanish and reappear as split
-Kro/Rk, and whether Zala is among them, killed, or elsewhere is an
+Kro/Ork, and whether Zala is among them, killed, or elsewhere is an
 open question for Era 1's eventual drafting.
 
 **Waj Hool:** Owner/operator of The Porter. Pragmatist. Their
@@ -1305,23 +1319,19 @@ away to the *next town*. Referred to as 'he', likely same age as Adura.
 # PART SEVEN — LOCATIONS
 
 **The Giant's Graveyard:** Climax location. Cliff = the Anvil's
-mountain root, half in Anka, half in Akna. A sheer salt-white CLIFF (the
-"spine") with broad, flat, thin SHEETS/SLABS of the same stone
-peeling away from its face and canting over at angles — the image
+mountain root, half in Anka, half in Akna. A sheer salt-white CLIFF (the "spine"), about 100 m high, with tall, narrow, thin SLABS (the "leaves"), each 10-20 m across, of the same stone peeling away from its face and canting over at angles — the image
 is a HARDCOVER BOOK laid open on its back: cliff = standing spine,
 slabs = falling pages. Near the face the slabs crowd close and
 upright; further out they lean further; further still they lie
-fallen flat. Each slab is enormous (causeway-scale). The slabs
-"crawl" / shift position when unobserved. On approach the cliff
-resolves GRADUALLY, like a true horizon, not as a sudden wall.
-Anomalous behaviour = Anvil resonance: Buhars unreliable, side-step
-turbulent. Glaive left here. UNRELATED to the Gnawing Fields
+fallen flat. Each slab stands up to the cliff's own height (~100 m: ten Causeway arches, "sixty men"); fallen slabs lie ~100 m long. The field runs ~5 km from the cliff face to the last fallen slab and is ~300 m wide. The slabs
+"crawl" / shift position when unobserved. On approach across open country, or from inside the field, the cliff resolves GRADUALLY, like a true horizon, not as a sudden wall; approached through the scrub beyond the greywillows (ch25) it stays hidden until the tree line ends, then arrives all at once, announced by the thunder-crack of a new slab standing up.
+Anomalous behaviour = Anvil resonance: Boltcasters unreliable, side-step
+turbulent. Third leaves Dorn's Boltcaster at the foot of the spine here (ch39). UNRELATED to the Gnawing Fields
 despite both being stone country.
 
 **The Emperor's Causeway:** Titan-built. A roadway wide enough for
 fifteen Humins to walk shoulder to shoulder, carried on arches
-averaging six Humins high. Every thousand paces, a corkscrew ramp
-leads down — the only way on or off. No convincing military
+averaging six Humins high. Every two thousand paces, a corkscrew ramp leads down — the only way on or off. No convincing military
 explanation for its existence; most conclude it's a Titan creation
 built the way the Titan built everything, because it could, not
 because it needed to. For some unexplained reason, no flora taller than grass grows within a stone's throw of it;
@@ -1465,7 +1475,7 @@ upstream half** — the part of the operation that actually knows
 where the blood is going.
 
 Formal name: **The Powder Charter** (unchanged — the legal/
-commercial entity, the one that licenses Buhar ammunition and
+commercial entity, the one that licenses Boltcaster ammunition and
 battery supply rim-wide).
 
 Colloquial name: **The Dusties.** Used for the operational arm
@@ -1549,7 +1559,7 @@ institution — prospecting and toll, not consumption. The buyer of
 the finished product is the Powder Charter's **separate
 distribution and licensing arm** — the part of the institution
 that sets prices and controls rim-wide supply of batteries and
-Buhar bolts. The Dusties are only one arm of that same overall
+Boltcaster bolts. The Dusties are only one arm of that same overall
 Charter — the upstream, extraction-and-claims arm.
 
 This means the institution is, without realizing it, paying twice
@@ -1683,11 +1693,11 @@ parallel: the thing they found first was fireworks; the thing
 history remembers is cannon. The Keth found a power source and
 built a weapons industry.
 
-They hid the manufacture of both batteries and Buhars the way the
-Chinese hid silk — knowledge as monopoly. Buhars, however, are
+They hid the manufacture of both batteries and Boltcasters the way the
+Chinese hid silk — knowledge as monopoly. Boltcasters, however, are
 mechanically simple: a sealed tube, a water chamber, a trigger.
 Once enough people had seen one, reverse engineering was
-inevitable. The Buhar proliferated. The powder did not. The Keth
+inevitable. The Boltcaster proliferated. The powder did not. The Keth
 retained the powder monopoly; the Charter later licensed and
 consolidated it.
 
@@ -1697,13 +1707,13 @@ Anka has no iron metallurgy. There is no steel, and no iron to
 make it from. The world's tagline holds literally: "no gold
 pieces, no dragons, no gods and no steel." Two materials fill the
 role steel plays elsewhere:
-  - HEXWOOD — wood carved then anointed with titan blood, harder
+  - HEXWOOD — wood carved then anointed with Titan blood, harder
     than stone. Premium hard material: weapons, tools,
     heirloom-grade needles, lock-boxes. Bone is the cheap
     substitute it's contrasted against. After roughly a thousand
     spins, the anointing fades and the item needs re-anointing.
     Before the Titans fell, their own minions carried something
-    that looked like Hexwood but was actually titan-reinforced
+    that looked like Hexwood but was actually Titan-reinforced
     Jade. When the Titans died, that reinforcement died with them.
     The handful of cases since where someone managed to magically
     reinforce such an item again are where the word "artifact"
@@ -1713,7 +1723,7 @@ role steel plays elsewhere:
     maintenance. Not copper, and does not behave like it
     chemically or metallurgically — resemblance is color and
     workability only.
-    Anointed with titan blood it becomes poisonous GREENSTEEL
+    Anointed with Titan blood it becomes poisonous GREENSTEEL
     (a NAME, not actual steel) — a paralytic with no known
     antidote, no harder than the jade it was carved from. The
     popular belief that anointing ALSO hardens jade (or copper) is
@@ -1726,43 +1736,43 @@ references to "steel," "stars," or "moons" as absences. They name
 what IS. "Steel" may appear only in the compound name
 "Greensteel."
 
-## MAGEFIRE, BUHARS, AND BATTERIES
+## MAGEFIRE, BOLTCASTERS, AND BATTERIES
 
 Magefire: the refined product Keth make from raw Ptah — process
-unknown to outsiders. Feeds Buhars and (for Third
+unknown to outsiders. Feeds Boltcasters and (for Third
 specifically) is drained as approximation fuel, though his own
 containment is Titan-original, not Charter technology (see Part
 Three). SECRET: both what Ptah is (dried Titan blood) and the Keth
 process, guarded by the guild/Charter and Keth separately.
 
-Buhars: the weapon itself (sealed tube + water chamber) is simple
+Boltcasters: the weapon itself (sealed tube + water chamber) is simple
 to make. The bolt — magefire + water -> steam-and-lightning burst,
 no projectile — is the real secret: Keth manufacture only, sold
 through the Powder Charter, which sets prices and supply.
 
-**BUHARS — TIMELINE (locked):** Buhars are NOT new technology at
+**BOLTCASTERS — TIMELINE (locked):** Boltcasters are NOT new technology at
 the time of Book 2. They began appearing during Third's torpor
 (~1,220 spins onward) and are well-established by the time he
 meets Adura (~268,000 spins). By the Dorn era (~293,000), they are
-ubiquitous — unremarkable as objects. Dorn's Buhar is not notable
+ubiquitous — unremarkable as objects. Dorn's Boltcaster is not notable
 as a weapon type; what's notable is the shot. [FLAG: remove any
-implication in Book 1 or Book 2 drafts that Buhars are new or
+implication in Book 1 or Book 2 drafts that Boltcasters are new or
 remarkable as a category. The weapon is ordinary; skill with it is
 not.]
 
 The "new arrows" that begin hurting Third in the late Blank years
-are Buhar bolts or Buhar-adjacent projectiles — they carry a
+are Boltcaster bolts or Boltcaster-adjacent projectiles — they carry a
 magefire discharge that interacts badly with Third's wooden body
 in ways stone or even Hexwood-tipped arrows never did. Pre-
-Titansfall materials hurt him the way they always did. Post-Buhar
+Titansfall materials hurt him the way they always did. Post-Boltcaster
 materials hurt him differently. He started looking for his armor.
 
-**KERN'S BOW (Book 1 — flag):** If Buhars proliferated from
+**KERN'S BOW (Book 1 — flag):** If Boltcasters proliferated from
 ~1,220 spins onward and became dominant by ~50,000–100,000 spins,
 then by Book 1's present day (~300,000 spins), traditional archery
-is an archaism — ~200,000 spins out of common use. A Kr elf
+is an archaism — ~200,000 spins out of common use. A Kro elf
 maintaining traditional bowcraft is a deliberate cultural or
-political statement: a Kr identity marker (we do not depend on
+political statement: a Kro identity marker (we do not depend on
 Charter powder), a rejection of Charter-dependent technology, or
 both. Kern's bow surviving 300,000 spins and still carrying
 meaning is stranger and more earned than previously framed — not
@@ -1874,7 +1884,7 @@ Charter dependency: **water mills** (baseline, free, no Charter
 relationship — river towns are quietly more independent for this
 reason); **vertical windmills**, clockwork style, not the broad
 canvas-sailed variety — gear-and-ratchet vertical-axis rotors in
-the same register as Buhars and Dusty geyser mathematics, the
+the same register as Boltcasters and Dusty geyser mathematics, the
 inland standard; **arcane battery mills**, expensive, used where
 water/wind are unreliable, requiring a standing Charter resupply
 contract the Charter knowingly prices as leverage.
@@ -1928,7 +1938,7 @@ stranger than banking a hearth.
 The Ptah sliver is a consumable, needing regular replacement —
 making every fog-wick household a small, unwitting customer of the
 Ptah trade, the first point where an ordinary Humin household
-touches the same supply chain feeding Buhars and batteries. Dusties
+touches the same supply chain feeding Boltcasters and batteries. Dusties
 sell graded "Prime"/"Choice" slivers at a premium, marketed as more
 effective; any raw sliver actually works identically — a
 street-level echo of the Dusties' institutional-scale reputation-
@@ -1951,8 +1961,8 @@ controls. Towns that can't afford Skybarge rates are still
 building Charter-spec containers because nothing else fits the
 loading frames.
 
-**Buhar caliber standardization:** one ammunition size, one jar
-format, one licensed supplier per region. Every Buhar-owner is on
+**Boltcaster caliber standardization:** one ammunition size, one jar
+format, one licensed supplier per region. Every Boltcaster-owner is on
 a permanent powder dependency. Exception: Skybarge batteries,
 which require a larger format the Charter maintains through a
 separate, less-publicized supply chain — never standardized
@@ -2026,7 +2036,7 @@ is the press and a supply of blank slats: the whole system.
 For reference, the standing set of political entities on Anka:
 
   - **The Powder Charter / the Dustkeepers** — rim-wide commercial
-    and regulatory institution; controls Buhar ammunition
+    and regulatory institution; controls Boltcaster ammunition
     standards, cargo dimensions, cartography, town plinths.
   - **The Dusties** — the Charter's operational/prospecting arm;
     clockwork-mathematics-driven geyser prediction, claim, toll,
@@ -2109,9 +2119,7 @@ Herdukii / Ravagers: see Peoples.
 Axe Beaks: large flightless. Armour plates.
 Grask: burrowing worm, eyes in throat. Kills Mathen (changed from
   Shredder). Dorn's Mender/Crafter/Grask joke pays off here. Two
-  lines, canon: folk/joke version of a Grask's last words is
-  "There you are" (light, a greeting — kept in Dorn's campfire
-  joke); the REAL Grask says "Found you" (flat, final, cold). The
+  lines, canon: folk/joke version of a Grask's last words is "Ready or not" (sing-song, a warning — the punchline of Dorn's hide-and-seek campfire joke, in which the Grask is "It" and counts to a hundred); the REAL Grask says "Found you" (flat, final, cold). The
   divergence is deliberate and thematic (true vs accurate): the
   comforting story softens the horror; the accurate version is
   silent because it kills its witnesses. The Grask's whispers are
@@ -2152,11 +2160,11 @@ Flailing Dreadnoughts: floating metallic. Titan-made weapons of
 ## THE PALE AND GREEN WAR
 
 The formal name for what folk call by various regional terms. A
-protracted, multi-decade conflict between Kro and Rk — the
+protracted, multi-decade conflict between Kro and Ork — the
 sundered peoples, two halves of the Virek who do not know they are
 two halves. Neither side would use the other's name for the war;
 Humins named it after what they saw: pale-skinned Kro and
-green-skinned Rk marching through their fields.
+green-skinned Ork marching through their fields.
 
 Folk names:
   - *The Long Grief* — generational suffering without naming
@@ -2170,7 +2178,7 @@ Folk names:
 
 What most Humins don't know: the two sides are the same people.
 The "deep enmity" nobody can explain is the echo of a
-self-sundering. Third knows. Sougad knows. The Kro and Rk
+self-sundering. Third knows. Sougad knows. The Kro and Ork
 themselves do not, or will not.
 
 The war begins before Third's torpor and continues during it
@@ -2430,8 +2438,7 @@ subsequent patches):**
     Third ~3,000 spins, dies of old age.
   - Sougad after the climax: not Book 1's question. Does not die
     dramatically.
-  - The Glaive: left in the Graveyard. Ending or beginning —
-    author's call.
+  - The Glaive: RESOLVED (Book 1) — left at the brook with the Virek boy on Third's first day; the Boltcaster is what stays at the Graveyard.
   - Roan's injury: determines the walk-out's emotional register.
   - ~~Standards Guild / Spellfire Union~~ RESOLVED: Standards Guild
     (historical) -> Powder Charter (current); "Spellfire Union"

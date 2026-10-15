@@ -1,4 +1,4 @@
-# THIRD — BOOK 2
+# FRD — BOOK 2
 ## Scene 1 Draft (Scenes 1 & 2 combined)
 *June 2026 · First draft*
 
@@ -116,4 +116,4 @@ It turned and kept walking. I kept pace. Behind us the forest closed over the cl
 
 *Draft status: First draft, unrevised.*
 *Next: Scene 3 — The Naming.*
-*Canon notes: Third's height (~5'9", average Humin) and bifurcating forearms (concealed by default, seams visible at elbows) are established here. The Glaive's effectiveness — through hexwood swords like reeds — plants the arc that ends with Third switching to self-made falcatas. Adura does not yet know what she is witnessing.*
+*Canon notes: Third's height (~5'9", average Humin) and bifurcating forearms (concealed by default, seams visible at elbows) are established here. The Glaive's effectiveness — through hexwood swords like reeds — plants the arc that ends with Third switching to self-made Falkas. Adura does not yet know what she is witnessing.*

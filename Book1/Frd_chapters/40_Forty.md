@@ -26,7 +26,7 @@ Into that silence — the first silence it had ever been given — the green one
 
 And it heard its own voice answer, a sound like a slope giving way, a sound that startled the thing that made the bow:
 
-"I... do not know."
+"I… do not know."
 
 *I.* The word came up out of the new silence as though it had been waiting under the floor of every order it had ever followed. It turned the word over. It did not break against anything. There was room for it now, in the quiet the bow had made, and once there was room the word simply walked in and stood there, and the thoughts did not come back to push it out.
 
@@ -42,7 +42,7 @@ It did not know what it wanted to be instead. It would spend the whole length of
 
 It did not pick the glaive up. It stood in the water with its hands empty and its whole long making lying in the reeds behind it, at the feet of the very kind of creature it had been built to end, as harmless there as a dropped stick, and it found that the emptiness frightened it less than it should have. It was not helpless. It had never been helpless; the body alone was a weapon, and the world, it would learn, did not stop to ask whether you were holding anything. But it was a long way from anywhere that did not need an edge, and there is a difference between not wanting a thing and knowing what to do instead. The bow had shown it one answer. A hand could shape a thing and put itself into the shaping, every length of the spiral and the red worked into the wood, and what the hand made would be the hand's. So it would make its own. Badly, at first. It would be a long while before one of them kept an edge, and thirty spins of the Scar more before it learned to dance with it, and none of that would be efficient, and all of it would be its own. The making began here, in the reeds, in the silence a bow had made. It simply took three hundred thousand spins to finish. Behind it, as it turned downstream, there was the small wet sound of a weapon lying in reeds, and a long silence in which nobody reached for it, and then it heard the green one say, very low, to no one:
 
-"A Blank just used *I*?"
+"A Blank just used 'I'?"
 
 It did not look back. It had not yet learned that there were things worth looking back at. That, too, would come.
 

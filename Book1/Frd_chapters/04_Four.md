@@ -38,7 +38,7 @@ There was a silence then that I would not wish on anyone. Tondi standing very st
 
 The stony had passed. Tondi closed her eyes for a breath. I watched her hands, which had balled into fists at her sides, slowly uncurl. When she opened her eyes again, she had decided something, and Tondi deciding something was a force roughly equivalent to weather.
 
-"Thank you," she said, "for ridding us of that beast." A pause, during which she was clearly choosing her next words with the care of someone disarming a trap. "I can see you're a reasonable... being."
+"Thank you," she said, "for ridding us of that beast." A pause, during which she was clearly choosing her next words with the care of someone disarming a trap. "I can see you're a reasonable… being."
 
 The word being cost her something. I could hear it. But she said it, which was Tondi all over — she would give you the truth even when the truth was inconvenient to her own prejudices, because the alternative was being wrong, and Tondi would rather do almost anything than be wrong.
 

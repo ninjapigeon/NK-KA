@@ -10,7 +10,7 @@ It stood where two trails crossed: a waist-high cairn with a flat stone set into
 
 "Why, though," Roan said. He was looking at the two scratched figures. "What did they actually do to each other, at the start of it?"
 
-"Ah." Mathen settled back, the storyteller's pleasure coming over him. "Now, the one I like best — and I make no claim it's true, mind, I make a claim it's *good* — goes that they were one people once, and a great sorcerer offered to make them perfect, and they said yes, the fools, because everyone says yes to that, and..." He spread his hands. "Two peoples woke where one lay down. Each one looked at the other and saw everything it had just thrown away, walking around wearing its face. And you can forgive a stranger anything. But you can't forgive your own discarded half. That's the version I tell. It's almost certainly wrong." He glanced, the way he'd taken to glancing, across the trail. "Ser? You'd know better than the stone-cutters. Were they one people, once?"
+"Ah." Mathen settled back, the storyteller's pleasure coming over him. "Now, the one I like best — and I make no claim it's true, mind, I make a claim it's *good* — goes that they were one people once, and a great sorcerer offered to make them perfect, and they said yes, the fools, because everyone says yes to that, and…" He spread his hands. "Two peoples woke where one lay down. Each one looked at the other and saw everything it had just thrown away, walking around wearing its face. And you can forgive a stranger anything. But you can't forgive your own discarded half. That's the version I tell. It's almost certainly wrong." He glanced, the way he'd taken to glancing, across the trail. "Ser? You'd know better than the stone-cutters. Were they one people, once?"
 
 Third did not answer.
 
@@ -18,7 +18,7 @@ I had learned his stillnesses by then, and I watched the first one arrive — th
 
 It didn't come. Instead the second stillness came over him, the one that went *down* — the glow guttering low, the attention turning to a place that was not our place — and he rose, without a word, and stepped, at an angle my eye slid off of, and was gone from the fire before Roan had finished waiting for his answer.
 
-"...did I say something?" Roan asked.
+"…did I say something?" Roan asked.
 
 "No," I said. But I sat very still, and watched the empty dark where Third had been, and understood for the first time that there were stories Third would correct and stories Third would walk into the grey to get away from, and that we had just, without meaning to, asked for one of the second kind.
 
@@ -70,7 +70,7 @@ The green one broke first. It scrambled up the wreck of Zala's furniture and wen
 
 He turned back to the one on the floor.
 
-He crossed the room. Two paces. He had crossed worse rooms in two paces and not felt them; he felt this one. He knelt, and his hands, which could mend any part of himself, which would mend every part of himself at least once, hung over the torn pale body and could do nothing, because she was not made of wood and titan-blood, she was made of the thing the green ones and pale ones were all made of, the soft mendable-only-by-time thing, and there was no time, there was the opposite of time.
+He crossed the room. Two paces. He had crossed worse rooms in two paces and not felt them; he felt this one. He knelt, and his hands, which could mend any part of himself, which would mend every part of himself at least once, hung over the torn pale body and could do nothing, because she was not made of wood and Titan-blood, she was made of the thing the green ones and pale ones were all made of, the soft mendable-only-by-time thing, and there was no time, there was the opposite of time.
 
 "Bada?"
 

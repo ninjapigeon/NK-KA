@@ -12,7 +12,7 @@ There was a pile of them, hand-carts of the kind the Hin trader had, overturned 
 
 There was no blood, which somehow was worse than blood would have been; blood at least tells you a story with an ending. This just told you people had been here, and had been afraid enough to throw their whole livelihood into a wall across the road, and then were not here anymore, and the carts had stayed to think about it for a few hundred spins.
 
-The wall of them was too high and tangled to climb cleanly with packs, and the cleared margin on either side dropped off the edge of the causeway into the held-back forest six men below. Roan and I stood there working out the puzzle of it — over, or down and around, or unstack the topmost cart and risk the whole rotten heap coming down — the ordinary arithmetic of an obstacle, the kind of problem I'd have welcomed an hour earlier for being a problem I could actually solve.
+The wall of them was too high and tangled to climb cleanly with packs, and the cleared margin on either side dropped off the edge of the Causeway into the held-back forest six men below. Roan and I stood there working out the puzzle of it — over, or down and around, or unstack the topmost cart and risk the whole rotten heap coming down — the ordinary arithmetic of an obstacle, the kind of problem I'd have welcomed an hour earlier for being a problem I could actually solve.
 
 Third had gone quiet beside me. I noticed it the way you notice a sound stopping. He was looking at the wall of carts and not, I thought, really seeing it — the glow of his eye had gone soft and far-off, the way a person's eyes go when they're doing sums in their head or remembering a road, and he had begun, very slightly, to drift. Not toward the carts. Past them, somehow, at an angle I couldn't have drawn. He took a step like a man stepping off a kerb he'd walked a thousand times without looking.
 
@@ -30,7 +30,7 @@ Roan made a sound. I don't think he knew he made it.
 
 Sideways was grey.
 
-It was always grey, and it was always quiet in the particular way that is not the absence of sound but its opposite, a pressure, a held breath the size of a world. Third had stepped this way more times than he could have counted if counting had mattered here, and it never mattered here. The causeway hung beside him as a smear of pale light, the carts a darker smudge in it, the held-back forest a green rumour far below. He had only to walk a little way along the grey and step back into the world past the obstruction. Seconds, on the other side. It was, as he would tell the Humin girl when he stepped back, faster.
+It was always grey, and it was always quiet in the particular way that is not the absence of sound but its opposite, a pressure, a held breath the size of a world. Third had stepped this way more times than he could have counted if counting had mattered here, and it never mattered here. The Causeway hung beside him as a smear of pale light, the carts a darker smudge in it, the held-back forest a green rumour far below. He had only to walk a little way along the grey and step back into the world past the obstruction. Seconds, on the other side. It was, as he would tell the Humin girl when he stepped back, faster.
 
 But the grey did not only carry him forward. It had never only carried him forward. The grey was where the things he did not look at directly went to wait for him, and it was patient, and it was very old, and when he walked through it the old things rose up to walk beside him whether he had asked them to or not.
 

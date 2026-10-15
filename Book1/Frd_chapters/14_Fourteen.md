@@ -1,6 +1,6 @@
 # Fourteen
 
-You smell the geysers before you see them, and the smell is the first argument the place makes that you should not be there - like a butcher's block after a day's work, with the feel of jade dust and salt at the back of your throat.
+You smell the geysers before you see them, and the smell is the first argument the place makes that you should not be there — like a butcher's block after a day's work, with the feel of jade dust and salt at the back of your throat.
 
 Then you come over the rise and there they are: a field of chimneys. Not built ones — grown ones, tapering spires of pale mineral four and five humins high, hollow, rough-sided, the spit and image of the great termite towers you sometimes find in dry country, except that these wept. From the open tops of the living ones a fine continuous spray went up, on no schedule and from no pump anyone could name, and fell back red, and ran down the outsides, and dried as it went to something else entirely — a crust the colour of nothing I had a word for, a blue-white that was almost clear, glassy, catching the grey light and throwing it back cold. The red ran. The blue-white stayed.
 

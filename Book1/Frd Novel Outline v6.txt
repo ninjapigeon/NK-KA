@@ -1,11 +1,11 @@
-THIRD — NOVEL OUTLINE v.6
+FRD — NOVEL OUTLINE v.6
 =========================
 Developed in collaboration with Claude · May 2026
 
 Companion document: Third — World Bible v.13 (separate file)
 Structure key:
   [PRESENT] — Tasha's present-day POV.
-  [NETHER]  — Third's memory, accessed during a side-step.
+  [GREY]  — Third's memory, accessed during a side-step.
               Anka-time cost: seconds.
   ✓ = drafted    TO DRAFT = not yet written
 
@@ -13,14 +13,14 @@ NOVEL OUTLINE — ACT ONE
 ========================
 
 [PRESENT] The town winds down — DRAFTED ✓
-[NETHER] The Awakening — DRAFTED ✓ (campfire frame)
+[GREY] The Awakening — DRAFTED ✓ (campfire frame)
   NOTE: This IS Titansfall. Third is its witness.
   Era_1.md forest figure is NOT Lujian — unnamed.
 [PRESENT] Roan brings something to the door — DRAFTED ✓
 [PRESENT] Third waits — DRAFTED ✓
 [PRESENT] Tondi's test, passed — DRAFTED ✓ (new)
 [PRESENT] The corner table — DRAFTED ✓
-  Bolter hook → Dorn (Shredder death, the joke) + Adura (illness).
+  Boltcaster hook → Dorn (Shredder death, the joke) + Adura (illness).
   NO Mathen in Act One. Buried Shredder-revenge setup.
 [PRESENT] News arrives — DRAFTED ✓
   Wounded traveller. Settlement gone — Herdukii. The searching
@@ -39,7 +39,7 @@ NOVEL OUTLINE — ACT ONE
   (errand-as-farewell, rhymes with Tondi's needles). Spire
   established on horizon. Tasha does NOT look back (earned);
   Roan DOES (launches his arc). Callback to "nothing changes in
-  a quiet town" — inverted. Four days to the causeway.
+  a quiet town" — inverted. Four days to the Causeway.
 
 ---
 NOVEL OUTLINE — ACT TWO
@@ -52,8 +52,8 @@ NOVEL OUTLINE — ACT TWO
   held back, gates left to rot — something keeps the high road,
   doesn't descend, swept it recently, going anti-spin like them.
   Hin trader resupply (warm beat) + independent corroboration.
-[NETHER] Liwon, Part One — DRAFTED ✓
-  Reader's FIRST immersive Nether memory (Awakening comes later,
+[GREY] Liwon, Part One — DRAFTED ✓
+  Reader's FIRST immersive grey memory (Awakening comes later,
   after Mathen joins). Trigger: overturned carts (failed
   barricade) rhyming with the wrecked Virek village. Side-step =
   private memory, close-third, Tasha has NO access — she sees a
@@ -71,7 +71,7 @@ NOVEL OUTLINE — ACT TWO
   doesn't reach his mind the same way). UNBIDDEN-THOUGHTS thread
   enters present day ("an old conversation"). Roan firelight
   confession advances arc. Eerie "Mathen" slip seeds the Geysers.
-[NETHER] Liwon, Part Two — DRAFTED ✓
+[GREY] Liwon, Part Two — DRAFTED ✓
   THE RAISING (the love the tragedy rests on). Access: deliberate
   side-step on watch (Shard-tree trigger; 100x time = loses only
   seconds). Tasha half-wakes, learning to read his absences
@@ -116,14 +116,14 @@ NOVEL OUTLINE — ACT TWO
   believe you in the stomach now"). Collector walked a STRAIGHT
   LINE here (vs building-to-building in the traveller's town):
   being TOLD where to look. Scavenger = Axe Beak (canon).
-[NETHER] The Transformation — DRAFTED ✓
+[GREY] The Transformation — DRAFTED ✓
   THE HEAVIEST SCENE. Liwon's loss = the SUNDERING of the Virek
-  into Kro + Rk (world-historical event and personal catastrophe
+  into Kro + Ork (world-historical event and personal catastrophe
   are ONE). Trigger: Mathen's innocent myth-question about Kro/Ork
   hatred; Third side-steps rather than speak it (vs correcting the
   war aloud). Virek self-sundering ritual (flicker + RED VEINS).
   Liwon split into two dying children (pale Kro on the floor;
-  green Rk killed outside). "Bada?" = how he knows. WALLY untouched
+  green Ork killed outside). "Bada?" = how he knows. WALLY untouched
   (Hin), closes her eyes, FADE BEGINS ("I got to be in the good
   part"). TITAN'S VOICE: "like a seed, it must die... before it
   blossoms" — monstrous serenity, no cruelty (the horror); SEEDS
@@ -155,7 +155,7 @@ NOVEL OUTLINE — ACT TWO
   SHAPE (he goes somewhere real; it costs him; the enemy is his
   kind; there is "someone" under it), NOT the content (Liwon, the
   collector's identity). The collector forced the question: Third
-  finally EXPLAINS the side-step/Nether (mechanics) + admits the
+  finally EXPLAINS the side-step/Akna (mechanics) + admits the
   COST ("the grey keeps things... they walk beside me") + the
   kinship that terrifies him ("the man half-knew me; I don't know
   him"). Tasha intuits the grief's shape; Third gives ONE word —
@@ -164,10 +164,10 @@ NOVEL OUTLINE — ACT TWO
   Mathen payoff ("you make more than one carry the weight... I
   thought I'd have to do it"). Chest-lights ("two cold lights")
   fold into her assembled picture. Toward the Graveyard.
-[NETHER] Lujian — DRAFTED ✓
+[GREY] Lujian — DRAFTED ✓
   The TORPOR after Liwon + the WAKING. Third stopped (wound down,
   overgrown, time blurring); LUJIAN — Era-2 wanderer/ex-scholar
-  who lost her family in the Kro/Rk wars — wakes him relationally,
+  who lost her family in the Kro/Ork wars — wakes him relationally,
   treating his silence as grief. LUJIAN = THE ANTI-TITAN: where
   the Titan said Liwon was a "seed"/"a beginning," Lujian says she
   was HERS, that stopping agrees with the liar, that going on is
@@ -196,7 +196,7 @@ NOVEL OUTLINE — ACT TWO
   into view — cliff + splinter-field too big for the word; "that's
   where he's going. The last one." Threshold to Act-Two endgame.
 [PRESENT] Giant's Graveyard reconnaissance — DRAFTED ✓
-  Arrival in the open book of stone (causeway-scale pale SHEETS;
+  Arrival in the open book of stone (Causeway-scale pale SHEETS;
   upright/crowded at the cliff-spine, leaning out, fallen flat at
   the rim; life-cycle = born at the spine, migrate out unseen,
   fall at the rim). THE CRAWLING: moves only when UNOBSERVED
@@ -233,14 +233,14 @@ NOVEL OUTLINE — ACT TWO
   Tasha is what stands between him and going to it.
 [PRESENT FRAME] Dorn campfire memory — DRAFTED ✓
   (Told ALOUD at the Graveyard fire — Tasha's frame, not close-
-  third.) Pays off the Act One Bolter hook (the NAME -> the MAN)
+  third.) Pays off the Act One Boltcaster hook (the NAME -> the MAN)
   and reveals the buried reason Third hunts Shredders: Dorn,
   killed by a Subsurface Shredder (limb from below, "before I had
   finished standing up"). Third hunts them ever since, refuses
   payment — "the one piece of grief that has somewhere useful to
   go"; ties to Tondi's-bounty Shredder. PRIMES THE GRASK: Dorn's
   signature joke "A Mender, a Crafter, and a Grask" (rule of
-  threes) ends on the Grask's canonical "There you are" — funny
+  threes) is a hide-and-seek joke that ends on the Grask's "Ready or not" (a warning) — funny
   now, unbearable when Mathen dies to a Grask; Mathen laughs,
   "I'll have to remember that one." Mathen's thesis pays off (he
   draws the story out; Third tells it to spread the load). Roan's
@@ -257,7 +257,7 @@ NOVEL OUTLINE — ACT TWO
   her to ARM HIS ANCHOR before the collector arrives. (1) LIWON
   told compressed (reader lived it) — resolves the "Her." from
   "begins to see"; village/infant/the voice/the raising/"little
-  one"->Liwon/the sundering (Virek->Kro+Rk, "one event wearing two
+  one"->Liwon/the sundering (Virek->Kro+Ork, "one event wearing two
   sizes")/"Bada." (2) THE RITUAL: the grey-thing that "knew him
   entirely" = his MAKER, the Titan (heard twice — the smile at
   Titansfall; "a seed" over Liwon); its lifelong gentleness =
@@ -282,8 +282,7 @@ NOVEL OUTLINE — ACT TWO
   JOKE PAYS OFF (revised): the whispers PARALYSE them all (frozen,
   aware) — which the joke never warned of; even Mathen, the best
   blade, can't move; THIRD is immune (Titan-stuff mind) but ONE
-  STEP TOO FAR. The real Grask says "Found you" (cold/final), NOT
-  the joke's "There you are" (light/greeting); Tasha registers the
+  STEP TOO FAR. The real Grask says "Found you" (cold/final), NOT the joke's "Ready or not" (sing-song warning); Tasha registers the
   divergence + why the joke lies ("the people who learn that part
   do not come back to put it in") = TRUE vs ACCURATE paid in blood.
   Mathen still "told you it was a good one" (affirms the joke even
@@ -365,7 +364,7 @@ NOVEL OUTLINE — ACT THREE
   naming/confirming. [OPEN: collector = V19's Sougad / deep
   history? — decide at the confrontation.] Ends at the spine;
   hands to "Tasha tells him" (the door that only opens inward).
-  Glaive still carried; cloak dropped.
+  Falkas and Dorn's Boltcaster carried; cloak not put on.
 [PRESENT] Tasha tells him — DRAFTED ✓
   At the spine, under the clock of Sougad's approach. MIRROR of
   Tasha Knows — she gives Roan what Third gave her ("set a broken
@@ -384,12 +383,10 @@ NOVEL OUTLINE — ACT THREE
   "Third goes still — tells her" (Third turns his whole attention
   to Tasha alone). Name "Sougad" still unspoken (the asymmetry).
 [PRESENT] Third goes still — tells her — DRAFTED ✓
-  The final private Third<->Tasha word, under the clock. SYMBOL:
-  Glaive (the made-self / Titan's instrument) SET DOWN against the
-  spine; FALCATAS (the self he chose/learned) KEPT. THE FAILSAFE
+  The final private Third<->Tasha word, under the clock. SYMBOL: no glaive to set down — he left it at the brook on his first day (ch16/ch40); he checks his hands, and the FALKAS (the self he chose) are the only blades he carries. THE FAILSAFE
   (worst turn of the ask): if the rope fails and he begins to OPEN,
   Tasha must END him -- 'unmake a door; that the door is also me is
-  the cruelty.' MEANS = DORN'S BOLTER (canon: never loaded, 'I do
+  the cruelty.' MEANS = DORN'S BOLTCASTER (canon: never loaded, 'I do
   not carry it to use') -- Third LOADS IT NOW for the first time
   (reversing his fireside words, which Tasha heard); aimed at the
   chest SEAM / the two magefire lights (same make as Sougad's six;
@@ -402,14 +399,13 @@ NOVEL OUTLINE — ACT THREE
   the most precise instrument.' ADMISSION: 'I am afraid I am going
   to want it... so I am giving you the thing that means my wanting
   it will not be enough.' Tasha spends her one 'no' (he thanks
-  her), takes the Bolter, weaponises the trigger ('beg loud... if
+  her), takes the Boltcaster, weaponises the trigger ('beg loud... if
   you go quiet one second before you have to, I will never forgive
-  you'). Two-front climax set (external: falcatas vs the cold man,
-  Roan interposes; internal: will + rope vs the lure, Bolter as
+  you'). Two-front climax set (external: Falkas vs the cold man,
+  Roan interposes; internal: will + rope vs the lure, Boltcaster as
   failsafe). Ends as the cold man stops walking; hands to 'Sougad
   at the cliff face'.
-  Sets Glaive against a slab/page (re-termed from 'stone
-  splinter'). Keeps falcatas.
+  Gives Tasha Dorn's Boltcaster, loaded, as the failsafe. Keeps the Falkas.
 [PRESENT] Sougad at the cliff face — DRAFTED ✓
   The confrontation OPENS. Sougad established: cold as a weather;
   old past use ("being-a-person worn off like paint"); nothing
@@ -450,7 +446,7 @@ NOVEL OUTLINE — ACT THREE
   never stopped anyone from being lonely" (logic necessary, not
   sufficient). TRIGGER FIRES: Third goes SILENT (the going-still),
   hand slides free, steps toward the wall — and TASHA CANNOT FIRE
-  the Bolter ("my hand would not go to it"); she screams for ROAN
+  the Boltcaster ("my hand would not go to it"); she screams for ROAN
   ("the opposite of the plan"). Cliffhanger -> "Roan moves."
   [Liwon age fix: "small," not a number.]
 [PRESENT] Roan moves — DRAFTED ✓ (REVISED: Titanspeech fling)
@@ -481,7 +477,7 @@ NOVEL OUTLINE — ACT THREE
   thing he ever paid): buried her once with no choice; gives her
   up AGAIN with every choice, hands her back to the dark himself.
   THE DOOR SHUT FROM WITHIN (interior victory, Path A): the grey
-  'went out the way a held breath goes out.' BOLTER found in her
+  'went out the way a held breath goes out.' BOLTCASTER found in her
   hand, NEVER DRAWN. SOUGAD DENIED not killed: no rage, only
   patience 'with nothing left to be patient toward'; states the
   rules (unkillable; back to the Anvil; 'another door will wake;
@@ -502,19 +498,16 @@ NOVEL OUTLINE — ACT THREE
   + its TURN: Tasha confesses she couldn't fire; Third reveals 'I
   was not choosing a blade... a person whose hand would not open on
   me... The reason you could not use it is the same reason it
-  worked. You did not let go of me.' Takes Dorn's Bolter back
-  (memento again, UNFIRED). GLAIVE LEFT at the spine (renunciation
-  completed; 'It was never mine... let them make of it whatever
+  worked. You did not let go of me.' Takes Dorn's Boltcaster back (memento again, UNFIRED; he draws the bolt). The BOLTCASTER is LEFT at the foot of the spine (Dorn let go; 'It was never mine... let them make of it whatever
   story... Mathen would like that'). Third carries Roan 'as easily
   as he'd once lifted an infant' (Liwon-echo). Ends on the long
   impossible walk home -> hands to [grey] 'The bow' then the
   walk-out.
-[NETHER] The bow — Final Memory — TO DRAFT
+[GREY] The bow — Final Memory — TO DRAFT
   Unprompted. The boy. Same bow, ~300,000 spins later,
   in Kro hands. Unrecognisable is not the same as gone.
 [PRESENT] The walk out — Waj Hool & the skybarge 'Porter' — TO DRAFT
-  The relief beat after the interior climax. Just BEFORE Third sets
-  his Glaive down (against a slab), the skybarge PORTER rises into
+  The relief beat after the interior climax. Just BEFORE Third leaves Dorn's Boltcaster against the spine, the skybarge PORTER rises into
   view behind a canting 'page' of the cliff. WAJ HOOL aboard.
   WAJ = an INNKEEPER who happens to steer — the Porter is a literal
   travelling inn (the only roving skybarge that sells food, drink,
@@ -630,8 +623,7 @@ moment is undecided.
 Sougad after the climax:
 Not this book's question. Does not die dramatically.
 
-The Glaive:
-Left in the Graveyard. Ending or beginning.
+The Glaive: RESOLVED (Book 1) — left at the brook with the Virek boy on Third's first day; the Boltcaster is what stays at the Graveyard.
 
 Roan's injury:
 Determines walk-out emotional register.

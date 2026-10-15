@@ -62,6 +62,6 @@ He looked, for a moment, the way she had learned meant he was choosing the true 
 
 "Him," Third said. "And all of them behind him. Kept. Warm. Forever." The ember sank to almost nothing. "And the worst of it, Tasha — the worst of it is that I could not tell, at the end, whether the Mathen who told me to go on was Mathen being kind, or the thing being clever. I will never be able to tell. It has taken even that. I went in to grieve my friend and I came out unable to be sure I have ever grieved anyone, or only ever been fished by something patient wearing the faces of my own dead."
 
-The fire had burned to coals. Out past it, unwatched, the great book turned a page. And the three of them sat in the cold lived world that was loud and unfinished and *true,* and none of them slept, and Third did not go into the grey again, though I think — I came to think, after — that the notgoing was its own slow kind of starving, and that he did it for us, and that it was one more thing he never once asked us to thank him for.
+The fire had burned to coals. Out past it, unwatched, the great book turned a page. And the three of them sat in the cold lived world that was loud and unfinished and *true,* and none of them slept, and Third did not go into the grey again, though I think — I came to think, after — that the not-going was its own slow kind of starving, and that he did it for us, and that it was one more thing he never once asked us to thank him for.
 
 <p align="center">&#9670; &#9670; &#9670;</p>

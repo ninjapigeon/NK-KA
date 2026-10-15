@@ -8,7 +8,7 @@ They were like plinths. That was the nearest I could come to it — squared-off 
 
 "Teeth," Mathen said, soft, because the field was the kind of place that takes your voice down whether you decide to or not. "The glutton's. They pulled them out of his head in the war — imagine the size of the thing that wore these — and they came down all over the world and stuck where they landed, and grass grew up around them, and here we are walking through the dropped teeth of a god, calling it a field." He looked almost happy, in the way Mathen got happy at a thing that was too big to be anything but a story. "You can't make this up. You wouldn't dare."
 
-I put my hand on the nearest one as we passed, the way I'd touched the causeway pillar, because apparently that's the kind of fool I am, I have to touch the impossible thing to believe it real. It was warm. Not hearth-warm. Warm like a thing that had been alive once and hadn't entirely got the message. I took my hand back.
+I put my hand on the nearest one as we passed, the way I'd touched the Causeway pillar, because apparently that's the kind of fool I am, I have to touch the impossible thing to believe it real. It was warm. Not hearth-warm. Warm like a thing that had been alive once and hadn't entirely got the message. I took my hand back.
 
 And then I saw the rocks that floated.
 

@@ -1,4 +1,4 @@
-# THIRD — BOOK 2
+# FRD — BOOK 2
 ## Writer's Outline v.1
 *Developed in collaboration with Claude · June 2026*
 *Companion document: Third — World Bible v.15*
@@ -223,13 +223,13 @@ She doesn't know why she flagged it. She just did.
 
 **What happens:** Woven into the episodic entries — Third's observations about the Guild's early shape, delivered flat in his accounts and translated by Adura.
 
-**The information:** The local Standards Guild is tightening control over Buhar ammunition. A site Third had been keeping free for poor harvesters has been claimed and tolled. Buhars are everywhere now — unremarkable. What's changing is who controls the powder.
+**The information:** The local Standards Guild is tightening control over Boltcaster ammunition. A site Third had been keeping free for poor harvesters has been claimed and tolled. Boltcasters are everywhere now — unremarkable. What's changing is who controls the powder.
 
 **Third's account:** Flat, observational. He notes the Guild's behavior the way he notes geological change — as a slow process he's watching, not alarmed by, not resisting. He has outlasted every institution he's watched form so far.
 
 **Adura's translation:** She is more irritated by this than he is, which she notes. She has practical experience with the toll system. She finds his long-view equanimity maddening in a way she recognizes as affectionate.
 
-**Small worldbuilding texture:** The Buhar-caliber standardization. The cargo dimension rules. The plinth requirement for new towns. She mentions one of these in passing as a town she knows gets its founding plinth — she finds the ceremony slightly absurd; Third has been watching towns rise and fall since before the Guild existed and doesn't find the ceremony absurd so much as young.
+**Small worldbuilding texture:** The Boltcaster-caliber standardization. The cargo dimension rules. The plinth requirement for new towns. She mentions one of these in passing as a town she knows gets its founding plinth — she finds the ceremony slightly absurd; Third has been watching towns rise and fall since before the Guild existed and doesn't find the ceremony absurd so much as young.
 
 **Close on:** She notes: *"He has watched more things become institutions than I will ever watch become ruins. I don't know what to do with that. I wrote it down."*
 
@@ -243,7 +243,7 @@ She doesn't know why she flagged it. She just did.
 
 **The ambiguity:** Possibly both had the same contract. Possibly Dorn hesitated because he wasn't entirely sure which creature was the greater threat. This ambiguity is the seed of his character — practical, watchful, not in a hurry to commit. He waits for information before acting. This time, acting without full information would have meant shooting Third.
 
-**Dorn's introduction (via Third's account):** Third's telling is flat as always. *"There was another hunter. He had a Bolter. The shot was well-placed."* Adura's translation reads the subtext correctly: *"What he means is he was glad someone else was there, which he will not say, and that the Bolter startled him a little, which he will also not say."*
+**Dorn's introduction (via Third's account):** Third's telling is flat as always. *"There was another hunter. He had a Boltcaster. The shot was well-placed."* Adura's translation reads the subtext correctly: *"What he means is he was glad someone else was there, which he will not say, and that the Boltcaster startled him a little, which he will also not say."*
 
 **The joke:** Third reports a joke Dorn told in the aftermath. Third reports it verbatim without indicating he understood it was a joke. Adura finds this funnier than anything Dorn actually said.
 
@@ -259,7 +259,7 @@ She doesn't know why she flagged it. She just did.
 
 **The joke dynamic:** He tells one. It lands. Third watches this process with what Adura interprets as scientific interest — he is observing how the joke functions socially, what it changes in the room, why it works. He does not tell a joke himself.
 
-**The Bolter:** Adura asks about it. He explains more warmly than Third would — practical, matter-of-fact, the tool of someone who's had it long enough to know its limits. By this era, Buhars are unremarkable as objects. What's notable is the care he takes with it.
+**The Boltcaster:** Adura asks about it. He explains more warmly than Third would — practical, matter-of-fact, the tool of someone who's had it long enough to know its limits. By this era, Boltcasters are unremarkable as objects. What's notable is the care he takes with it.
 
 **The three together:** A different texture than two-plus-one. She notes this without being able to name it yet. Something about a third person — particularly this third person, with his tool-jokes and his watchfulness — changes the shape of things. It's not warmer, exactly. It's more like a table with a third leg: it stops wobbling.
 
@@ -304,7 +304,7 @@ She doesn't know why she flagged it. She just did.
 
 **She closes the entry.** Starts another one. The second entry is very short. It contains the joke. She'd heard it from Dorn in Scene 14 — the Mender, the Crafter, the Grask. She writes it out in full because she doesn't want it to go unrecorded. She doesn't note why. The reader of Book 1 knows why.
 
-**Third keeps the Bolter:** He doesn't say he's keeping it. He just has it when he leaves, the same way she kept the sword and the cloak from her village. She doesn't comment on this either.
+**Third keeps the Boltcaster:** He doesn't say he's keeping it. He just has it when he leaves, the same way she kept the sword and the cloak from her village. She doesn't comment on this either.
 
 **Close on:** A short entry. She writes: *"The table has two legs again."*
 
@@ -359,7 +359,7 @@ He closes the slat-book.
 
 He walks.
 
-The Scar moves overhead. The road ahead is the same road it has always been — the same scale, the same wrongness, the same beauty that turns lethal at close range. He has walked it before. He will walk it again. He carries: Dorn's Bolter. The falcatas. The slat-book. The road.
+The Scar moves overhead. The road ahead is the same road it has always been — the same scale, the same wrongness, the same beauty that turns lethal at close range. He has walked it before. He will walk it again. He carries: Dorn's Boltcaster. The Falkas. The slat-book. The road.
 
 The camera pulls back. He gets smaller.
 

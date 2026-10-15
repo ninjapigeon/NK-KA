@@ -38,7 +38,7 @@ She set the mending down — which I had perhaps seen her do twice — and reach
 
 "Needles," she said. "Three. Hexwood, anointed proper — not the bone kind that snaps when you breathe on it. And thread, the waxed gut, it'll hold through wet. You'll tear something out there — a pack strap, a coat, your own skin, doesn't matter — and there won't be a mender, because the mender will be here, being the thing you come back to." She still hadn't looked up. "I'd rather you didn't bleed out because you lacked the tools to close a seam. It would reflect poorly on me."
 
-I picked up the roll. It weighed almost nothing. Hexwood needles were not nothing — anointing wood that fine took a Crafter's whole patience and a measure of titan-blood besides, and a mender's needles were the kind of thing that got named in wills, handed down, guarded like teeth. She would have had these longer than she'd employed me.
+I picked up the roll. It weighed almost nothing. Hexwood needles were not nothing — anointing wood that fine took a Crafter's whole patience and a measure of Titan-blood besides, and a mender's needles were the kind of thing that got named in wills, handed down, guarded like teeth. She would have had these longer than she'd employed me.
 
 "Tondi—"
 

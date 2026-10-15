@@ -15,7 +15,7 @@ Once in the reeds, what looked like a field becomes a slow, exhausting wade thro
 
 ## Bone Moss
 
-A pale, chalky moss that grows almost exclusively on titan-bone debris — the alabaster rubble scattered across the Gnawing Fields and similar sites. It gives off a faint white glow during the dark phase, bright enough that experienced foragers can spot fresh bone deposits from a distance just by watching for new patches. Chewed raw, it numbs the mouth and gums — useful for travelers without a Mender nearby — but regular use leaves a permanent grey stain on the teeth, a telltale sign of someone who’s spent too long scavenging the Fields.
+A pale, chalky moss that grows almost exclusively on Titan-bone debris — the alabaster rubble scattered across the Gnawing Fields and similar sites. It gives off a faint white glow during the dark phase, bright enough that experienced foragers can spot fresh bone deposits from a distance just by watching for new patches. Chewed raw, it numbs the mouth and gums — useful for travelers without a Mender nearby — but regular use leaves a permanent grey stain on the teeth, a telltale sign of someone who’s spent too long scavenging the Fields.
 
 ## Cinder Bramble
 
@@ -23,7 +23,7 @@ A blackened, heavily thorned bramble that thrives at the edges of geyser fields 
 
 ## Driftcane
 
-A bamboo-like cane that colonizes the loose, wind-scoured soil along causeway embankments. Its roots stay shallow and wide rather than deep, which works well enough most of the time — but during the sustained high winds the causeways tend to funnel, entire stands can tear free and go tumbling down the road like a loose haystack, startling travelers and spooking pack animals. Once it’s been cut, dried, and anchored down, though, driftcane is light, strong, and a favorite for quick repairs and travel gear.
+A bamboo-like cane that colonizes the loose, wind-scoured soil along Causeway embankments. Its roots stay shallow and wide rather than deep, which works well enough most of the time — but during the sustained high winds the causeways tend to funnel, entire stands can tear free and go tumbling down the road like a loose haystack, startling travelers and spooking pack animals. Once it’s been cut, dried, and anchored down, though, driftcane is light, strong, and a favorite for quick repairs and travel gear.
 
 ## Emberleaf
 
@@ -47,7 +47,7 @@ A drooping, pale-barked tree that grows near the “thin” places where Akna pr
 
 ## Hollow Cane
 
-A reedy plant whose stems grow in long, naturally hollow, segmented lengths — practically pre-made piping. Refiners working geyser sites prize it for distilling and diluting titan blood, and it doesn’t react with or corrode from contact with the stuff. Alchemists further inland use it for much the same reason, running it through their stills and tinctures while saving money that may have been spent on jade or hexwood tubing.
+A reedy plant whose stems grow in long, naturally hollow, segmented lengths — practically pre-made piping. Refiners working geyser sites prize it for distilling and diluting Titan blood, and it doesn’t react with or corrode from contact with the stuff. Alchemists further inland use it for much the same reason, running it through their stills and tinctures while saving money that may have been spent on jade or hexwood tubing.
 
 ## Jadevine
 
@@ -99,7 +99,7 @@ Their real claim to fame, though, is what’s inside the trunk: a clear, sap-lik
 
 ## Stoneroot
 
-A slow, gnarled tree that sinks its roots deep into soil long soaked with titan blood, drawing up minerals until its heartwood becomes dense and stone-hard with age. With so little metal able to survive long in air thick with magefire dust, stoneroot timber has become one of the most reliable substitutes going — used for axles, tool heads, hinges, and anything else that needs to take a beating without wearing away to nothing. A mature stoneroot takes generations to reach its best wood, so old-growth stands are valuable and closely managed.
+A slow, gnarled tree that sinks its roots deep into soil long soaked with Titan blood, drawing up minerals until its heartwood becomes dense and stone-hard with age. With so little metal able to survive long in air thick with magefire dust, stoneroot timber has become one of the most reliable substitutes going — used for axles, tool heads, hinges, and anything else that needs to take a beating without wearing away to nothing. A mature stoneroot takes generations to reach its best wood, so old-growth stands are valuable and closely managed.
 
 ## Whipwood
 

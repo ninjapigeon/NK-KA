@@ -14,7 +14,7 @@ So the cold man did the other thing. The thing that told me, finally and complet
 
 Sougad sighed. Actually sighed — the dust-dry ghost of a man put to a small tedious chore — and he said one word.
 
-I did not know it. It was Titanspeech, the old inversion-tongue, the one the greybeards say carries no vowels of its own and borrows whatever ones you lend it, and though I could not read it I felt the shape of it go past me like a draught under a door: a word built backwards, *take* turned cleanly inside out, the old, old word for casting a thing forever out of your keeping. He did not point. He did not so much as lift a hand. He said the word, and the space between Roan and Third simply declined to go on holding him — and Roan was torn off Third's back as though the world had tilted under him alone, flung up and back and down, spear and limbs clattering across the bare stone, and he came to rest a dozen paces off in a heap that did not move.
+I did not know it. It was Titanspeech, the old inversion-tongue, the one the greybeards say carries no vowels of its own and borrows whatever ones you lend it, and though I could not read it I felt the shape of it go past me like a draught under a door: a word built backward, *take* turned cleanly inside out, the old, old word for casting a thing forever out of your keeping. He did not point. He did not so much as lift a hand. He said the word, and the space between Roan and Third simply declined to go on holding him — and Roan was torn off Third's back as though the world had tilted under him alone, flung up and back and down, spear and limbs clattering across the bare stone, and he came to rest a dozen paces off in a heap that did not move.
 
 He did not get up. I could not let myself look long enough to learn whether he *would* — whether the chest rose, whether there was breath left in him at all — because I had a door to hold and only the one pair of eyes to hold it with. I have had to live, since, with not knowing in that moment. It is its own small permanent wound.
 
@@ -40,7 +40,7 @@ He did not turn around. He was not back; the silence still held the most of him,
 
 And into the stolen breath where that step should have finished, Third said the first word he had spoken since the going-still closed over him — not to Sougad, not to the dead, not even to me, but low, over his shoulder, toward the heap of a boy a dozen paces off on the stone:
 
-"...Roan."
+"…Roan."
 
 It was not the refusal. The refusal was still to come, and it would cost him the worst thing he ever paid for anything, and I would have to watch him pay it. But it was the first crack of light under a door I had given up for shut, and I put my shoulder to that crack and shoved with everything I had left in me.
 

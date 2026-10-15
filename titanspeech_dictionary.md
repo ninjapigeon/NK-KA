@@ -207,7 +207,7 @@ memorized 1000-line list. Below is a worked sample so the pattern is visible bef
 | VH | weapon |
 | VDG | blade |
 | VDF | the Glaive (specific weapon, pale/bone) |
-| VDB | falcata (Third's weapon-type) |
+| VDB | Falka (Third's weapon-type) |
 | VDL | spear |
 | VDN | bow |
 | VDT | arrow |
@@ -418,13 +418,13 @@ memorized 1000-line list. Below is a worked sample so the pattern is visible bef
 | WD | thunder |
 | WGH | fire |
 | WGR | earthquake |
-| WGN | titan footprint |
+| WGN | Titan footprint |
 | WJ | canyon |
 | WGB | plain |
 | WGVF | field |
 | WGPZ | bog |
 | WM | ruin |
-| WGJF | causeway |
+| WGJF | Causeway |
 | WGHB | the deep cold |
 
 ## Feeling & the Unseen Mind

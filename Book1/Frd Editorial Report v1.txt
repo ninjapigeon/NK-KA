@@ -1,5 +1,5 @@
 ======================================================================
-THIRD — FULL EDITORIAL PASS (manuscript PDF, 158 pp, ~84,300 words)
+FRD — FULL EDITORIAL PASS (manuscript PDF, 158 pp, ~84,300 words)
 Method: word-level diff against assembled acts + mechanical sweeps +
 targeted full-context reads. Find-strings match the manuscript text
 (including curly quotes where present).

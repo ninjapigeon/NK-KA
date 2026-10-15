@@ -18,7 +18,7 @@ Enormous, flightless, carnivorous “chickens” standing about a humin and a ha
 
 ### Causeway Crab *(new)*
 
-A broad, flattened crab-like scavenger that wedges itself into the gaps and undersides of the Emperor’s Causeway’s arches, its mottled shell an uncanny match for the weathered stone. It feeds mostly on whatever falls or is thrown from the roadway above — refuse, carrion, the odd unlucky animal — but during the dark phase, anything that lingers too close to the edge of an arch may find a causeway crab isn’t picky about whether its meal is already dead. Travelers who’ve heard the stories tend not to rest directly beneath the arches after dark.
+A broad, flattened crab-like scavenger that wedges itself into the gaps and undersides of the Emperor’s Causeway’s arches, its mottled shell an uncanny match for the weathered stone. It feeds mostly on whatever falls or is thrown from the roadway above — refuse, carrion, the odd unlucky animal — but during the dark phase, anything that lingers too close to the edge of an arch may find a Causeway crab isn’t picky about whether its meal is already dead. Travelers who’ve heard the stories tend not to rest directly beneath the arches after dark.
 
 ### Chestnut Bugs
 
@@ -39,7 +39,7 @@ An experienced traveler in Dreadnought territory eats cold, carries dried and se
 Between fights, the serpent-scale plates shift and part just enough to reveal chains tipped with hooks and clubs, which a dreadnought can fling out to drag a target closer. Against a group of enemies, it sometimes opens every plate at once and lashes out with all its chains in every direction — a devastating attack, but one that leaves the creature’s plating wide open afterward. Most things it hits don’t survive long enough to take advantage of that.
 ### Geyser Moth *(new)*
 
-Pale, broad-winged moths that gather in clouds around active titan-blood geysers, where their wings slowly soak up the diluted vapor rising from the spray. The moths themselves are harmless — but a wing crushed against bare skin, or a moth swallowed by an animal hunting them, delivers a brief jolt of the same effect that drinking refined titan blood does: a short-lived surge of strength followed by an equally short fit of temper. Geyser-moth season (such as it is, on a world without seasons — really just whenever the local geyser is most active) is notorious for unusually short tempers in nearby settlements.
+Pale, broad-winged moths that gather in clouds around active Titan-blood geysers, where their wings slowly soak up the diluted vapor rising from the spray. The moths themselves are harmless — but a wing crushed against bare skin, or a moth swallowed by an animal hunting them, delivers a brief jolt of the same effect that drinking refined Titan blood does: a short-lived surge of strength followed by an equally short fit of temper. Geyser-moth season (such as it is, on a world without seasons — really just whenever the local geyser is most active) is notorious for unusually short tempers in nearby settlements.
 
 ### Giant Hornbug
 
@@ -113,7 +113,7 @@ Some varieties mimic Shard Trees convincingly; none, so far, have been found mim
 
 *(Reference only — not counted toward the Bestiary total. Fuller treatments exist elsewhere in the World Bible.)*
 
-### Elves (Kr)
+### Elves (Kro)
 
 Born from the Virek’s final, self-inflicted ritual, Elves emerged pale-skinned — the “light” half of what the Virek chose to become. They carry their ancestors’ memories forward, and are the keepers and guardians of that knowledge, sharing little of it with other races. Elves and Orks share a deep, mutual hatred that everyone is aware of and almost no one can explain — though the truth, that they’re two halves of the same severed whole, is not exactly common knowledge.
 
@@ -127,7 +127,7 @@ When the last Titan fell and its dust touched the battlefield, many Forged “aw
 
 The first race the Titans made — immortal, but sterile, and the creators of the Virek in turn. After the Titans fell, the Giants vanished into hiding so thoroughly that even the Forged regard them as little more than rumor and legend.
 
-### Goblins, Orks & Ogres (Rk)
+### Goblins, Orks & Ogres (Ork)
 
 Goblins are small, vicious, green nuisances — pack hunters with poor odds alone, who hate dogs, believe writing steals the soul, and love both fire and terrible songs in roughly equal measure. Left to mature, a goblin becomes an Ork, who typically seeks out others of its kind and settles into a tribe. Orks who live long enough become Ogres — and Ogres, often feeling pushed out by their old tribes, tend to wander off alone. Very occasionally, age mellows an Ogre just enough that it ends up leading a band of Orks after all; when word of that gets around, Elven hunting parties tend to form almost immediately, treating the whole arrangement as something close to an insult that demands correcting.
 
@@ -143,7 +143,7 @@ What’s less known: Hin aren’t a creation of the Giants or the Titans at all.
 
 Reptilian, near-serpentine folk with humanoid upper bodies and snake-like lower halves — most assume the shaper Titan made them from a mix of Humins and serpents, though the Keth themselves rarely confirm or deny it. Keth society is rigidly caste-based: each city is led by a Daimyo, served by life-loyal soldier-retainers in the Samurai mold, and Keth craftspeople are renowned for weapons and armor of exceptional, almost ceremonial quality. Among the adult population, “witch” druids are common, and the larger settlements support sorcerers as well — among the Keth, magical talent and political power tend to go hand in hand. They are famously, almost obsessively devoted to mastering magic wherever they can get access to it.
 
-What’s less known: Keth crafters hold the only working knowledge of how raw Ptah becomes magefire — a closely guarded secret that, over centuries, has made them quietly indispensable to nearly everything on Anka that flies, fires a Buhar, or lights a battery. Few outside the caste structure ever see how that knowledge is actually used, or how far it reaches. “Scalykind” persists as an old Humin field term — blunt, and not what the Keth call themselves.
+What’s less known: Keth crafters hold the only working knowledge of how raw Ptah becomes magefire — a closely guarded secret that, over centuries, has made them quietly indispensable to nearly everything on Anka that flies, fires a Boltcaster, or lights a battery. Few outside the caste structure ever see how that knowledge is actually used, or how far it reaches. “Scalykind” persists as an old Humin field term — blunt, and not what the Keth call themselves.
 
 ### Humins
 

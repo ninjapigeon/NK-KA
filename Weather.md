@@ -18,7 +18,7 @@ On certain stretches, during the bright phase, the light seems to take a persona
 
 ## Bloodmist *(new)*
 
-A red-tinted fog that occasionally rolls out from an active geyser field, carrying faint traces of titan blood in the steam itself. Breathing it for any length of time doesn’t do any lasting harm, but it leaves people on edge — short-tempered, quick to take offense, prone to picking fights over nothing. Towns near a working geyser know a bloodmist day when they see one, and the smarter taverns simply close early until it passes.
+A red-tinted fog that occasionally rolls out from an active geyser field, carrying faint traces of Titan blood in the steam itself. Breathing it for any length of time doesn’t do any lasting harm, but it leaves people on edge — short-tempered, quick to take offense, prone to picking fights over nothing. Towns near a working geyser know a bloodmist day when they see one, and the smarter taverns simply close early until it passes.
 
 ## Crackling Calm *(new)*
 
@@ -26,7 +26,7 @@ A dead, total stillness — no breeze, no birdsong, just a faint smell of ozone 
 
 ## Driftfrost *(new)*
 
-For a world with no winter, certain low-lying spots — the underside of causeway arches, swamp hollows, the bottoms of old craters — sometimes wake up coated in frost that has no business being there. It never spreads beyond the hollow itself, and it’s usually gone again within an hour of the next bright phase. Greybeards blame it on cold air leaking through some thin spot between Anka and Akna. Whatever the cause, anyone who beds down in a driftfrost hollow overnight wakes up stiff, chilled to the bone, and unhappy about it.
+For a world with no winter, certain low-lying spots — the underside of Causeway arches, swamp hollows, the bottoms of old craters — sometimes wake up coated in frost that has no business being there. It never spreads beyond the hollow itself, and it’s usually gone again within an hour of the next bright phase. Greybeards blame it on cold air leaking through some thin spot between Anka and Akna. Whatever the cause, anyone who beds down in a driftfrost hollow overnight wakes up stiff, chilled to the bone, and unhappy about it.
 
 ## Emberfall *(new)*
 

@@ -22,7 +22,7 @@ Third was quiet long enough that I thought I'd hit the limit of him, the place w
 
 "Yes."
 
-"And the carts. At the causeway. You did that. You went there and came back on the other side."
+"And the carts. At the Causeway. You did that. You went there and came back on the other side."
 
 "Yes."
 
@@ -60,7 +60,7 @@ He did not say yes. He did not say no. He did the thing he had done in the inn w
 
 He hadn't meant to give me that, I think. Or he had, exactly that much and not a grain more — *her*, one word, a door opened the width of a finger and held there. I did not push it wider. I had pushed enough, and I found, to my surprise, that I didn't want the rest of it tonight, that knowing the shape of it was already almost more than I could stand, that the *content* would have buried me and I wasn't ready to be buried.
 
-So we stood the watch. The pieces stayed on the table. And the picture they made, now that I'd finally let them make it, was this: a thing older than the towns, who could step out of the world - which i had thought the loneliest thing about him until tonight; who carried a dead someone in a grey place and went back to her when the world got quiet enough; who ran on two cold lights he hadn't made and couldn't replace; and who was walking, with the three of us strung along behind him, straight toward a creature that wore his own impossible strangeness like a second skin, to stand between it and the last peg in the world.
+So we stood the watch. The pieces stayed on the table. And the picture they made, now that I'd finally let them make it, was this: a thing older than the towns, who could step out of the world — which I had thought the loneliest thing about him until tonight; who carried a dead someone in a grey place and went back to her when the world got quiet enough; who ran on two cold lights he hadn't made and couldn't replace; and who was walking, with the three of us strung along behind him, straight toward a creature that wore his own impossible strangeness like a second skin, to stand between it and the last peg in the world.
 
 I had followed him out of an inn because I was bored.
 

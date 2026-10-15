@@ -1,4 +1,4 @@
-# THIRD — BOOK 2
+# FRD — BOOK 2
 ## Scene 4 Draft — Learning the Terms
 *July 2026 · First draft*
 

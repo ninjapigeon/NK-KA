@@ -40,7 +40,7 @@ He made a sound then. Once. I won't try to spell it. It was not the bellows and 
 
 Sougad did not rage.
 
-I think, if he had raged, I could have hated him cleanly, and it would have been easier. Instead the worn old face simply... settled, the way water settles when you stop disturbing it, back into the patience it had worn coming across the field — except the patience had nothing left to be patient *toward,* now, and so it was just a face, very old, looking at a wall that had closed and a door that had chosen, with the six dead lights guttering on his stooped back.
+I think, if he had raged, I could have hated him cleanly, and it would have been easier. Instead the worn old face simply… settled, the way water settles when you stop disturbing it, back into the patience it had worn coming across the field — except the patience had nothing left to be patient *toward,* now, and so it was just a face, very old, looking at a wall that had closed and a door that had chosen, with the six dead lights guttering on his stooped back.
 
 "You understand what you have done," he said. Not a threat. Barely a question. "I cannot be killed. Not by you, not by anything that lives on this side. I will go back to the Anvil, because there is nowhere else a thing like me can go, and I will be fixed to it as I have been fixed to it since before your makers had names, and I will pull, because that is the only thing a fixed thing can do. And one day, made thing — long after the girl beside you is dust, long after the boy on the rock is a name no one says — another door will wake. They always do. I am very patient. I have just been taught how patient I am going to have to be."
 

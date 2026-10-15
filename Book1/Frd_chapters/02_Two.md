@@ -24,7 +24,7 @@ The voice arrived like the first stones of a rockslide — not loud, not sharp, 
 
 "All right," I said, mostly to buy a breath. Then, to Roan, because it was easier than talking to the thing: "What did Tondi tell you to do, exactly? Her words."
 
-He worked at it. "She said — because I explained it had already come yesterday, and asked, which she said meant it was reasonable - if it's reasonable, there's a condition. For letting it in. She said tell it to bring back the head of the Subsurface Shredder, the one that's been working the trail anti-spinward. Proof it's what it says it is." He glanced at it. "And bring the head to her. Not to take its word."
+He worked at it. "She said — because I explained it had already come yesterday, and asked, which she said meant it was reasonable — if it's reasonable, there's a condition. For letting it in. She said tell it to bring back the head of the Subsurface Shredder, the one that's been working the trail anti-spinward. Proof it's what it says it is." He glanced at it. "And bring the head to her. Not to take its word."
 
 "You heard her," I said to the thing. "Proof. Do you have the Shredder's head?"
 

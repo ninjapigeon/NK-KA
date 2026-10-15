@@ -1,6 +1,6 @@
 # Three
 
-I found out later what he did while I was asleep. I'm not exactly sure when it stopped being *it* in my head, I only noticed I'd already done it - the way you notice, well after the fact, that you've started calling someone by their first name.
+I found out later what he did while I was asleep. I'm not exactly sure when it stopped being *it* in my head, I only noticed I'd already done it — the way you notice, well after the fact, that you've started calling someone by their first name.
 
 When I came around the corner of the mill with my coat still half-buttoned and my eyes not fully decided about being open, he was there. Something about the way he was standing — not the stillness, which was always there, but the quality of it — made me stop walking about a dozen paces out.
 
