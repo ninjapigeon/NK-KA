@@ -36,7 +36,7 @@ Third paused, exactly the length Dorn must have paused.
 
 There was a beat of nothing — and then Roan barked a real laugh, the first true one I'd heard out of him since the tor, the kind that surprises its owner, and Mathen laughed properly, head back, and even I felt the thing crack open in my chest that a good joke cracks, the relief of it, in that awful place, under that drinking cliff.
 
-"Oh, that's *good,*" Mathen said, wiping his eye. "That's properly good. Ha ha! Your Dorn had timing, Third, you can hear it even through you, no offence. I'll have to remember that one." He was still smiling. "A Mender, a Crafter, and a Grask. I'll get a tenday's drinks off that, easy."
+"Oh, that's *good,*" Mathen said, wiping his eye. "That’s properly good. He made you wait for the hundred. Your Dorn had timing, Third, you can hear it even through you, no offence. I'll have to remember that one." He was still smiling. "A Mender, a Crafter, and a Grask. I'll get a tenday's drinks off that, easy."
 
 "He would have liked that you laughed," Third said. "He measured a day by how many he could make laugh. He would have counted tonight a good day, this far from anywhere, with the world the way it is."
 

@@ -4,13 +4,13 @@ The last customer left when the Scar had wheeled to a hand's-width from full dar
 
 "You don't have to stay," I told him — which was true, and also the thing you say when you'd rather not lock up alone.
 
-"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. The fire burning to ashes, the smell of the bricks and their hint of starch, always filled my nose with a touch of confusion. Was it morning or evening?
+"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. 
 
 Through the shutters came the militia's boots on the packed earth, the patrol heading out, a touch of wax scent in their wake from their yet-unlit torches.
 
 They'd been in an hour before, as they were every night: the whole watch at the bar for one measure each, which Tondi charged them half for and never explained. Courage, they called it, without embarrassment, because there was none to feel. Two of them drank fast and made faces. One held his under his nose a while first, like a man reading a letter whose contents he already knew. Roan took water. He always took water. He stood there with his cup while the rest of them warmed up, and laughed in the right places, and went out into the dark with nothing in him but water, the same as every other night.
 
-The Scar was almost across. Thirty minutes, maybe, before I'd want a locked door between me and the dark.
+The Scar was almost across. Thirty minutes, maybe, before I'd want a locked door between me and the dark.The banked fire and the warm bricks smelled, as they did every night, exactly like the start of a morning, and I had never found a way to talk my nose out of it.
 
 The greybeards call them Titanspawn. The militia call them problems. The rest of us don't call them anything — you don't name the thing that took the Pell family, you just get your ladder up before the Scar finishes crossing and you don't listen too hard to the sounds that come, some nights, off the far side of the wall. After long enough the not-thinking is a skill of its own. I'd had the practice.
 
