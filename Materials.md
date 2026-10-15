@@ -46,6 +46,14 @@ A thick, tar-like substance harvested from the deeper parts of swamps and bogs, 
 
 *A speculative longarm for Anka, from a parallel civilization that never developed conventional gunpowder.*
 
+For something with as much status attached to owning one, a Boltcaster is mechanically little more than a sealed tube: a magefire “bolt” loaded at the breech, and a small chamber of water just ahead of it. Squeeze the trigger at the top, and the bolt ignites — flash-heating the water to steam fast enough that the resulting burst drives down the tube and out the far end before the eye can follow it, carrying with it the same green-tinted lightning discharge seen in arcane batteries. There’s nothing solid in a Boltcaster’s shot — no ball, no dart, nothing left to dig out afterward — just superheated steam and a crackling charge, traveling in an unnaturally straight line. To anyone on the receiving end — armored or not — the impact gets described the same way, again and again: like being hit by a charging Tusker.
+
+A Boltcaster is meant to be braced against the shoulder and sighted down the barrel, in the manner of the heavier weapons the old war-era stories describe. Reloading means seating a fresh magefire bolt and topping up the water chamber — neither step is difficult, but neither is quick, and a spent bolt is genuinely spent: there’s nothing to recover from the ground afterward.
+
+Tri-Boltcasters also exist: three barrels arranged around a shared stock, each loaded independently, letting a single shooter put out up to three shots before reloading anything. The tradeoff is real, though — a Tri-Boltcaster takes roughly twice as long to reload as a single-barrel Boltcaster, and costs about twice as much to begin with, before factoring in the cost of keeping three bolts on hand instead of one.
+
+The name itself is plain — a thing that casts a bolt — which is most likely why it stuck, the way practical names tend to.
+
 ### Premise
 
 This civilization’s “gunpowder” is not a solid combustible propellant but a **binary reactive system** called **magefire**: a strange dry powder sealed in a glass vial, which reacts violently with water when the vial is shattered. There is no ignition, no spark, no flame — the trigger event is purely mechanical (a puncture), and the resulting pressure wave can be **100% directionally channeled**, eliminating the need for a heavy containment chamber. The discharge behaves less like a bullet pushed by expanding gas and more like a directed, lightning-like bolt — a coherent, violent pressure/energy release traveling down an open, fluted channel rather than a sealed bore.
@@ -93,16 +101,6 @@ Because the weapon has no ignition/combustion step, “fire” and “shoot” a
 - **“Crack”** — onomatopoeic option for the discharge’s sound, similar to thunder.
 
 If “fire”/“shoot” appear in-world at all, they’d read best as a fossilized borrowing from an earlier flame-weapon tradition, or as an outsider’s/mistranslator’s word choice — a useful detail for distinguishing POV or culture in dialogue.
-
-## Boltcaster
-
-For something with as much status attached to owning one, a Boltcaster is mechanically little more than a sealed tube: a magefire “bolt” loaded at the breech, and a small chamber of water just ahead of it. Squeeze the trigger at the top, and the bolt ignites — flash-heating the water to steam fast enough that the resulting burst drives down the tube and out the far end before the eye can follow it, carrying with it the same green-tinted lightning discharge seen in arcane batteries. There’s nothing solid in a Boltcaster’s shot — no ball, no dart, nothing left to dig out afterward — just superheated steam and a crackling charge, traveling in an unnaturally straight line. To anyone on the receiving end — armored or not — the impact gets described the same way, again and again: like being hit by a charging Tusker.
-
-A Boltcaster is meant to be braced against the shoulder and sighted down the barrel, in the manner of the heavier weapons the old war-era stories describe. Reloading means seating a fresh magefire bolt and topping up the water chamber — neither step is difficult, but neither is quick, and a spent bolt is genuinely spent: there’s nothing to recover from the ground afterward.
-
-Tri-Boltcasters also exist: three barrels arranged around a shared stock, each loaded independently, letting a single shooter put out up to three shots before reloading anything. The tradeoff is real, though — a Tri-Boltcaster takes roughly twice as long to reload as a single-barrel Boltcaster, and costs about twice as much to begin with, before factoring in the cost of keeping three bolts on hand instead of one.
-
-The name itself is plain — a thing that casts a bolt — which is most likely why it stuck, the way practical names tend to.
 
 ## Coinage
 

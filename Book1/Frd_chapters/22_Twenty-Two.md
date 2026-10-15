@@ -20,7 +20,7 @@ I turned. Third had stopped walking. He was a few paces back, where I'd left him
 
 "Third," I said. "Third, that's — the boy. From your story. The one by the water. The one who said—"
 
-"A Blank just used I." His voice came slow, the avalanche moving one stone at a time. "Yes."
+"A Blank just used *I*." His voice came slow, the avalanche moving one stone at a time. "Yes."
 
 "It can't be the same bow." But I said it the way you say a thing you already know is wrong.
 
