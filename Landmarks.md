@@ -9,7 +9,3 @@ The Scar’s rotation is also the reason Anka has no moons and no stars: whateve
 
 ## Titan Footprints -- texture note (locked): 
 Not uniform. Some stretches read as dragged and swept (furrows, knuckled stone, smooth walls); others — as established in Book 1, ch10 — read as violently broken: shattered, fractured, “a mouth full of broken teeth.” Whatever moved through left different marks in different places, possibly depending on what it was dragging, how it was moving, or how long ago the ground gave way. Do not standardize to one texture.
-
-## Chipwood (locked)
-
-A small settlement two days spinward of Dunarth — "the next notch down the line" from Tasha's town: smaller, further out, with a memorial pillar, a militia, a mill and a lockbox. Home of the traveller who staggers into Tondi's inn in Book 1 (ch6) with the news that it is gone. It is destroyed off-page, by the Ravager surge, before he reaches Tasha's town. It is **not** the settlement the party searches in ch17 (a separate place with its own memorial pillar). Its fate beyond that is open; flagged for possible foreshadowing in a future book.
