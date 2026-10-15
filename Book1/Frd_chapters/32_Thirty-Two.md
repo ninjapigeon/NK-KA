@@ -22,7 +22,7 @@ Because you cannot watch everything. That is the whole cruelty of it. You have a
 
 Roan said, once, very low, "It's like being watched by something that stops the moment you turn." And none of us answered, because he was exactly right and there was nothing to add to it except more fear.
 
-The pages stood taller as we went in. At the rim they had lain in the moss like fallen lanes; here they rose hillside-high, pale and thin and canted at angles that hurt to stand under, each one a leaf of a great book laid open and reading itself in the dark. And between them, in the low places, the grey had come up out of the ground. I had never seen it from the lived side — Third's country, not mine — but there it was, pooled in the troughs between the great stones like ground-fog that had forgotten to be white, a faint moving greyness with the wrongest light in it, all of it sliding, all of it pouring, the same direction we were walking. Toward the wall.
+The pages stood taller as we went in. At the rim they had lain in the moss like fallen lanes; here they rose higher, pale and thin and canted at angles that hurt to stand under, each one a leaf of a great book laid open and reading itself in the dark. And between them, in the low places, the grey had come up out of the ground. I had never seen it from the lived side — Third's country, not mine — but there it was, pooled in the troughs between the great stones like ground-fog that had forgotten to be white, a faint moving greyness with the wrongest light in it, all of it sliding, all of it pouring, the same direction we were walking. Toward the wall.
 
 <p align="center">&#42; &#42; &#42;</p>
 

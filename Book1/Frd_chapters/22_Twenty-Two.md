@@ -10,7 +10,7 @@ Third walked beside me and let me talk, which he was good at — better than any
 
 "Kern."
 
-"A Kro. A fixture. He'd been coming in longer than I'd been closing up, longer than Tondi'd had the place, maybe. Sat at the window table for one cup he'd make last the whole afternoon and never said three words you didn't dig for. I think I went my whole life finding him as much a part of the room as the window. You don't wonder about the window." I smiled at the scrub. "He had this bow. Always had it with him, leaned against the wall by his knee. A beautiful old thing — carved all the way down its length, its pattern too fine to really follow, worn pale and smooth where his shoulder rode it, and red worked down deep into the bindings, the way the Kro do their fine —"
+"A Kro. A fixture. He'd been coming in longer than I'd been closing up, longer than Tondi held the place, maybe. Sat at the window table for one cup he'd make last the whole afternoon and never said three words you didn't dig for. I think I went my whole life finding him as much a part of the room as the window. You don't wonder about the window." I smiled at the scrub. "He had this bow. Always had it with him, leaned against the wall by his knee. A beautiful old thing — carved all the way down its length, its pattern too fine to really follow, worn pale and smooth where his shoulder rode it, and red worked down deep into the bindings, the way the Kro do their fine —"
 
 I stopped.
 
