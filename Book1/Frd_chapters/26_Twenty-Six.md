@@ -20,7 +20,7 @@ I did not trust my voice for a second. Then I said, "You want me to nag you back
 
 "Third, I have been told my whole life that's my worst quality. You're saying it's a rescue technique."
 
-"I am saying," he said, with enormous gravity, "that tonight it may be the most useful thing in the world, and I would take it as a kindness if you did not stop, no matter how little I appear to be listening, and that if I tell you to stop, you must understand that the part of me asking you to stop is the part you are saving me from." The eye held me. "Will you?`"
+"I am saying," he said, with enormous gravity, "that tonight it may be the most useful thing in the world, and I would take it as a kindness if you did not stop, no matter how little I appear to be listening, and that if I tell you to stop, you must understand that the part of me asking you to stop is the part you are saving me from." The eye held me. "Will you?"
 
 "Yeah," I said. "Talk you back. I can do that. I'm good at that."
 
@@ -56,7 +56,7 @@ The eye went to the cliff again, but it didn't drift this time; he had it on a s
 
 I kept hold of his forearm. The fire had burned down and neither of us fed it.
 
-"Then I'll keep the rope," I said. "However many nights it takes. You don't look into that thing without me on the other end of you. That's the deal now. You don't get to be known to death by something in the dark while I'm asleep ten feet away."
+"Then I'll keep the rope," I said. "However many nights it takes. You don't look into that thing without me on the other end of you. That's the deal now. You don't get to be known to death by something in the dark while I'm asleep ten steps away."
 
 He looked at me for a long moment, the eye steadying toward something like its proper light.
 

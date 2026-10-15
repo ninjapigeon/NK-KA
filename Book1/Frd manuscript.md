@@ -15,13 +15,13 @@ The last customer left when the Scar had wheeled to a hand's-width from full dar
 
 "You don't have to stay," I told him — which was true, and also the thing you say when you'd rather not lock up alone.
 
-"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. The fire burning to ashes, the smell of the bricks and their hint of starch, always filled my nose with a touch of confusion. Was it morning or evening?
+"I'm not in a hurry." He kept stacking bowls, and didn't make anything of it, which was a kindness. Klar was five thousand spins old — barely grown, by the reckoning we keep, where the Scar turns over you once a day and even a long life runs out somewhere short of twenty thousand. He cooked like a man three lifetimes into it. On the nights I closed alone he always found a reason to still be there, and never said what it was, and I never made him. I wiped the tables. He dealt with the kitchen. 
 
 Through the shutters came the militia's boots on the packed earth, the patrol heading out, a touch of wax scent in their wake from their yet-unlit torches.
 
 They'd been in an hour before, as they were every night: the whole watch at the bar for one measure each, which Tondi charged them half for and never explained. Courage, they called it, without embarrassment, because there was none to feel. Two of them drank fast and made faces. One held his under his nose a while first, like a man reading a letter whose contents he already knew. Roan took water. He always took water. He stood there with his cup while the rest of them warmed up, and laughed in the right places, and went out into the dark with nothing in him but water, the same as every other night.
 
-The Scar was almost across. Thirty minutes, maybe, before I'd want a locked door between me and the dark.
+The Scar was almost across. Thirty minutes, maybe, before I'd want a locked door between me and the dark. The banked fire and the warm bricks smelled, as they did every night, exactly like the start of a morning, and I had never found a way to talk my nose out of it.
 
 The greybeards call them Titanspawn. The militia call them problems. The rest of us don't call them anything — you don't name the thing that took the Pell family, you just get your ladder up before the Scar finishes crossing and you don't listen too hard to the sounds that come, some nights, off the far side of the wall. After long enough the not-thinking is a skill of its own. I'd had the practice.
 
@@ -1457,7 +1457,7 @@ I turned and walked downstream. Behind me I heard the tension leave his bow — 
 
 I had not gone far when I heard him say, quietly, as though to himself:
 
-"A Blank just used I?"
+"A Blank just used *I*?"
 
 <p align="center">&#42; &#42; &#42;</p>
 
@@ -1485,7 +1485,7 @@ Third made a sound that was not quite a laugh, from somewhere inside the bellows
 
 We had come through the bog that morning, and the bog had nearly kept Roan, so the smell, when it found us in the afternoon, landed on people already shaken.
 
-It had looked, the bog, like the kindest thing the country had shown us in days — we came out of scrub onto a wide flat meadow of soft green reeds, knee-high, level as a swept floor, with berry-bushes scattered across it and the warmth of the not-Scar-sky coming down mild, and every part of me that was tired wanted to walk straight out into it and lie down. Third put his Falka across my chest before I'd taken three steps. "It is water," he said. "All of it. The reeds grow on the surface. They will hold a bird. They will not hold you." And then, because Roan was already six steps out past where Third's arm could reach, having seen the berries and not the warning — the green floor opened under him without a sound, no splash, just a swallowing, the reeds closing over the place he'd been like a mouth, and Mathen and I had him by an arm and a fistful of cloak before his head went under, and we hauled, and the bog hauled back, and for a long ugly moment the country was very calmly trying to drink a man in front of us while looking like a place you'd picnic. We got him out black to the waist and shaking. We went round the long way after that, along the firm edge, and the meadow lay there behind us soft and green and patient, beautiful as anything, waiting for the next tired thing that trusted its eyes.
+It had looked, the bog, like the kindest thing the country had shown us in days — we came out of scrub onto a wide flat meadow of soft green reeds, knee-high, level as a swept floor, with berry-bushes scattered across it and the Scar far off and the day's warmth coming down mild, and every part of me that was tired wanted to walk straight out into it and lie down. Third put his Falka across my chest before I'd taken three steps. "It is water," he said. "All of it. The reeds grow on the surface. They will hold a bird. They will not hold you." And then, because Roan was already six steps out past where Third's arm could reach, having seen the berries and not the warning — the green floor opened under him without a sound, no splash, just a swallowing, the reeds closing over the place he'd been like a mouth, and Mathen and I had him by an arm and a fistful of cloak before his head went under, and we hauled, and the bog hauled back, and for a long ugly moment the country was very calmly trying to drink a man in front of us while looking like a place you'd picnic. We got him out black to the waist and shaking. We went round the long way after that, along the firm edge, and the meadow lay there behind us soft and green and patient, beautiful as anything, waiting for the next tired thing that trusted its eyes.
 
 So when the smell hit — in the afternoon, which meant the wind was coming from anti-spinward, which meant we were downwind of whatever was left of the town, which meant we'd been smelling it for the last hour without knowing what it was — I'd thought, hoped, it was just the bog again, turned rank in the heat behind us.
 
@@ -2110,7 +2110,7 @@ I turned. Third had stopped walking. He was a few paces back, where I'd left him
 
 "Third," I said. "Third, that's — the boy. From your story. The one by the water. The one who said—"
 
-"A Blank just used I." His voice came slow, the avalanche moving one stone at a time. "Yes."
+"A Blank just used *I*." His voice came slow, the avalanche moving one stone at a time. "Yes."
 
 "It can't be the same bow." But I said it the way you say a thing you already know is wrong.
 
@@ -2380,11 +2380,11 @@ I did not trust my voice for a second. Then I said, "You want me to nag you back
 
 <p align="center">&#42; &#42; &#42;</p>
 
-And then he set himself against it — not leaving, though leaving was the word that came; more the way a swimmer sets against a current that wants him, half his weight going out of the lived world and the other half digging in to stay — the eye dimming down not to the grieving coal but to almost-out, the last red wire of it, the wooden shape of him gone rigid with the work of being in two places and surrendering to neither. And I started talking.
+And then he set himself against it — not leaving, though leaving was the word that came; more the way a swimmer sets against a current that wants him, half his weight going out of the lived world and the other half digging in to stay — the eye dimming down not to the grieving coal but to almost-out, the last wire of it, the wooden shape of him gone rigid with the work of being in two places and surrendering to neither. And I started talking.
 
 I don't remember the half of what I said. That's the truth of it. You don't, after; it isn't speech you're making, it's rope. I talked about the inn. I talked about Tondi and her water cup and the way she never touched a coin, and the stupid sign that said *Only*, and Klar's first attempt at Shredder stew that he'd been so proud of, and the way the militia drank their courage before patrol and Roan was the one who didn't, and the smell of the place in the morning before the stew went on. I talked about my father telling me never to let them see my fear. I talked about the road, every dull stretch of it, the bog and the blizzard and the field of stinging glass, all the things that had nearly killed us made small and ours and *survived,* because that was the point, I understood that even while I was doing it — I wasn't telling him true things, I was telling him *ongoing* things, things with more of them still to come, a world that was not finished and therefore worth the difficulty of returning to.
 
-His eye stayed almost-out. The cold got worse. Out in the field the great book turned a page with a crack that I felt in the fallen slab under me, and I did not stop talking. A while into it — I don't know how long, time goes strange when you're being a rope — the blue of his eye began, very slightly, to *drift,* the way a moored boat drifts when the line goes slack, his whole still shape leaning a hair toward the cliff, toward the black mass and the pull behind it, and something in me that wasn't thinking said his name instead of all the other words, just his name, *Third, Third, you've got stew to complain about, Third, I'm not done telling you about the sign* — and the drift stopped. Held. Hung there at the end of the slack line that was apparently my idiot voice. And then, slowly, came back.
+His eye stayed almost-out. The cold got worse. Out in the field the great book turned a page with a crack that I felt in the fallen slab under me, and I did not stop talking. A while into it — I don't know how long, time goes strange when you're being a rope — his eye began, very slightly, to *drift,* the way a moored boat drifts when the line goes slack, his whole still shape leaning a hair toward the cliff, toward the black mass and the pull behind it, and something in me that wasn't thinking said his name instead of all the other words, just his name, *Third, Third, you've got stew to complain about, Third, I'm not done telling you about the sign* — and the drift stopped. Held. Hung there at the end of the slack line that was apparently my idiot voice. And then, slowly, came back.
 
 The eye came up. Not all the way. But up, and toward me, and the rest of him came back into one place, the hoof testing the slab, the deck-in-a-swell carefulness, and I shut up at last because he'd opened the eye and that was the deal, and I was shaking, and I hadn't noticed I'd taken hold of his wooden forearm with both hands at some point and was gripping it like the rail of a thing going down.
 
@@ -2458,7 +2458,7 @@ Third paused, exactly the length Dorn must have paused.
 
 There was a beat of nothing — and then Roan barked a real laugh, the first true one I'd heard out of him since the tor, the kind that surprises its owner, and Mathen laughed properly, head back, and even I felt the thing crack open in my chest that a good joke cracks, the relief of it, in that awful place, under that drinking cliff.
 
-"Oh, that's *good,*" Mathen said, wiping his eye. "That's properly good. Ha ha! Your Dorn had timing, Third, you can hear it even through you, no offence. I'll have to remember that one." He was still smiling. "A Mender, a Crafter, and a Grask. I'll get a tenday's drinks off that, easy."
+"Oh, that's *good,*" Mathen said, wiping his eye. "That's properly good. He made you wait for the hundred. Your Dorn had timing, Third, you can hear it even through you, no offence. I'll have to remember that one." He was still smiling. "A Mender, a Crafter, and a Grask. I'll get a tenday's drinks off that, easy."
 
 "He would have liked that you laughed," Third said. "He measured a day by how many he could make laugh. He would have counted tonight a good day, this far from anywhere, with the world the way it is."
 
@@ -3300,7 +3300,7 @@ It did not know what it wanted to be instead. It would spend the whole length of
 
 It did not pick the glaive up. It stood in the water with its hands empty and its whole long making lying in the reeds behind it, at the feet of the very kind of creature it had been built to end, as harmless there as a dropped stick, and it found that the emptiness frightened it less than it should have. It was not helpless. It had never been helpless; the body alone was a weapon, and the world, it would learn, did not stop to ask whether you were holding anything. But it was a long way from anywhere that did not need an edge, and there is a difference between not wanting a thing and knowing what to do instead. The bow had shown it one answer. A hand could shape a thing and put itself into the shaping, every length of the spiral and the red worked into the wood, and what the hand made would be the hand's. So it would make its own. Badly, at first. It would be a long while before one of them kept an edge, and thirty spins of the Scar more before it learned to dance with it, and none of that would be efficient, and all of it would be its own. The making began here, in the reeds, in the silence a bow had made. It simply took three hundred thousand spins to finish. Behind it, as it turned downstream, there was the small wet sound of a weapon lying in reeds, and a long silence in which nobody reached for it, and then it heard the green one say, very low, to no one:
 
-"A Blank just used 'I'?"
+"A Blank just used *I*?"
 
 It did not look back. It had not yet learned that there were things worth looking back at. That, too, would come.
 
