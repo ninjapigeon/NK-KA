@@ -38,7 +38,7 @@ He said: someone willing to ask how soon.
 
 "Looks like it might get stony today," I said — the sky had that particular flat quality that usually meant falling rocks by mid-morning.
 
-I started the morning routine — shutters, stove, stew selection — and did not think about the fact that there was a Titanspawn Forged sitting in the corner of my inn wearing its worn cloak, and watching me with one blue eye.
+I started the morning routine — shutters, stove, stew selection — and did not think about the fact that there was a Titanspawn Forged — I didn't have that word for him yet — sitting in the corner of my inn wearing its worn cloak, and watching me with one blue eye.
 
 I was not thinking about it very hard.
 
