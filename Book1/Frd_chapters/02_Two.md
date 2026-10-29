@@ -50,6 +50,12 @@ The eye stayed on me, and the quality of its stillness shifted in a way I couldn
 
 "Then I will wait," it said, and stepped through the gate, and stood beside the door, and went, as far as I could tell, completely still.
 
+"What do I call you?" I said, because I had to call it something, and *it* was starting to feel rude to its face.
+
+"Third."
+
+That was all. Not a name so much as a place in a line, said the way you'd give a count.
+
 I looked at Roan. Roan looked at the thing.
 
 "You're the one who told it to come here," I said.

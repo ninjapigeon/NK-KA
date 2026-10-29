@@ -94,7 +94,7 @@ I had. That was the thing. I had just worked out exactly that.
 
 "No," Third agreed. "It is not better. But it is true, and you have lately preferred true, even when it is not better. I thought you should have this one accurately."
 
-Behind us the blizzard stood its patient ground over the grass, going nowhere, waiting for the next fools who needed the dirt beneath it. Ahead the trail ran on alongside the rim, toward the fields where the glutton's teeth lay scattered, toward the place all the lines pointed. And I walked it knowing, now, that I was the latest entry in a list a very old creature had been keeping for three hundred thousand spins, and that the list had only ever ended one way, and that I was going to keep walking it anyway — which was, I understood with a lurch, exactly the choice a woman named Lujian had once talked him into, in a different ruin, a long time ago.
+Behind us the blizzard stood its patient ground over the grass, going nowhere, waiting for the next fools who needed the dirt beneath it. Ahead the trail ran on alongside the rim, toward the fields where the glutton's teeth lay scattered, toward the place all the lines pointed. And I walked it knowing, now, that I was the latest entry in a list a very old creature had been keeping for three hundred thousand spins, and that the list had only ever ended one way, and that I was going to keep walking it anyway — and that choice, I'd learn when he finally told me about her, was exactly the one a woman named Lujian had once talked him into, in a different ruin, a long time ago.
 
 Going on was the only way to call it what it was.
 
