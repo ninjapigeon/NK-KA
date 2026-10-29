@@ -2,7 +2,7 @@
 
 We kept the watches in pairs, the way Mathen said, and I made myself Third's pair before anyone could think too hard about who'd draw the short straw of sitting up beside the one who didn't sleep. It wasn't bravery. I want that on the record. It was that I'd seen him come back off the flat slab unsteady, testing each hoof like a man on a deck, and I had decided — somewhere I hadn't asked permission of — that I was not going to let him do whatever he was about to do with nobody watching but the stones.
 
-So Roan and Mathen took the first half, back to back on the fallen page with the fire between them and the field, and when the Scar swung its dark edge up over us and the cold came down, they woke us, and Mathen put a hand on my shoulder in passing and said nothing, which from Mathen was a whole speech, and then it was me and Third and the fire and the rearranging dark.
+So Roan and Mathen took the first half, back to back on the fallen page with the fire between them and the field. When the Scar swung its dark edge up over us and the cold came down, they woke us. Mathen put a hand on my shoulder in passing and said nothing, which from Mathen was a whole speech — and then it was me and Third and the fire and the rearranging dark.
 
 For a while we just kept it. The field did its work out there in the black — a crack like thunder, far off; a long grinding fall, further; the book turning its pages where no eye could hold them still. I'd stopped flinching. You'd be amazed what you stop flinching at.
 

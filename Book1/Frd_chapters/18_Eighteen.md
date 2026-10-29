@@ -58,7 +58,7 @@ Zala's house was at the wall's foot, and the laminated reed of its door hung in 
 
 There were two children on the floor.
 
-One was pale. A small girl, fine-boned and new, with hair gone nearly clear and eyes a blue he had never seen because Liwon's eyes had been Virek-dark and these were not, these were a blue like the heart of the flicker, and they were open, and they found him, and her body was torn in a way that the small new pale body could not mend and would not survive, and she was looking at him.
+One was pale. A small girl, fine-boned and new, her hair gone nearly clear, her eyes a blue he had never seen — Liwon's eyes had been Virek-dark, and these were not; these were a blue like the heart of the flicker. They were open. They found him. Her body was torn in a way the small new pale body could not mend and would not survive, and she was looking at him.
 
 The other was green. Smaller-seeming, though they were the same, crouched over the pale one with blood on its fingers and its mouth, and it too looked at Third, and what came off it was rage and terror and a disgust so total it had no room left for anything that might have been love, and Third understood — in the flat fast way the old thoughts used to bring him things, except the thoughts were silent now, the thoughts had nothing — that these were not two children.
 
@@ -138,7 +138,7 @@ Third was quiet a while. The coals ticked.
 
 "They were one people once," he said, at last. The voice came from somewhere deeper than usual, the bellows dragging under it. "They chose to become perfect, and were offered the means, and took it. Two woke where one had lain down. Each kept what it could not bear to keep whole, and could not forgive the other for carrying the rest." A pause. "Your version is not wrong, master Mathen. It is only missing the part where it happened to specific people, in specific rooms, on a specific night, and someone watched, who had loved one of them." The ember held on the fire. "Tell yours. It is kinder. Kind is a fair trade for their coin."
 
-And that was all. Mathen didn't push, and I didn't, and we banked the fire and slept, and in the morning Third was Third again, watchful and dry and exact, and walked us anti-spinward under a sky that had a wound in it but no veins, and I thought — Scar help me, I actually thought — that it had only been a hard memory of a long war, the kind a soldier carries.
+And that was all. Mathen didn't push, and neither did I. We banked the fire and slept. In the morning Third was Third again, watchful and dry and exact, walking us anti-spinward under a sky that had a wound in it but no veins, and I thought — Scar help me, I actually thought — that it had only been a hard memory of a long war, the kind a soldier carries.
 
 I did not know there had been a child. I did not know there had been a friend made of stories. I did not know that the thing every town agreed on, the hate older than weather, had a night attached to it, and a name, and that the name was one Third had decided, long ago, not to correct toward accuracy.
 

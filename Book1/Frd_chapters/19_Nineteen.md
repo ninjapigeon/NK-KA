@@ -85,7 +85,7 @@ Then he said the other old word and stepped sideways again and the tower was onl
 
 <p align="center">&#42; &#42; &#42;</p>
 
-Nobody had touched him. That was the whole of it, and it took us all a while to be able to say it. Four of us, and the worn old keeper, and her hand-deep path, and her grandmother's grandmother's keeping — and he had walked up like a man and stepped out of the world twice and taken the peg and not troubled to harm a single one of us, because harming us would have required us to matter, and we hadn't.
+Nobody had touched him. That was the whole of it, and it took us all a while to be able to say it. Four of us, and the worn old keeper, and her hand-deep path, and her grandmother's grandmother's keeping — and he had walked up like a man, stepped out of the world twice, taken the peg, and not troubled to harm a single one of us. Harming us would have required us to matter. We hadn't.
 
 The keeper didn't weep. She knelt by the empty dish and put her hand in the worn hollow of it, the dish her people had worn smooth with checking, and she left it there, and she said, to no one, "well," in the voice of a person setting down a thing they have carried so long that the not-carrying is worse than the weight ever was.
 
