@@ -71,5 +71,3 @@ We were three. We were tired. One of us was running down where you could see it 
 I had followed a monster out of an inn because I was bored, and I had found, at the cold edge of the world, the only thing I have ever been certain was worth the whole terrible trip: three of us at a fire, with the end coming, choosing to stay.
 
 Let it come. We were ready. We were as ready as the unready ever get.
-
-<p align="center">&#42; &#42; &#42;</p>

@@ -43,5 +43,3 @@ Halfway home, past the dark bulk of the mill with its own smell of ground grains
 I turned. Roan was coming up the path at the pace that isn't quite running, because running would mean admitting something. And he wasn't alone. Beside him, keeping easy time with a stride that had nothing to do with Roan's hurry, came a shape I had no ready name for: thin, hooded, walking on something that didn't sound like feet on the packed dirt.
 
 I was bad at leaving things alone. It was either a failing or the one interesting thing about me — and with my hand drifting toward my blade, I had the brief, unwelcome feeling I was about to learn which.
-
-<p align="center">&#42; &#42; &#42;</p>

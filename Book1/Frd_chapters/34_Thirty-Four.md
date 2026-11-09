@@ -67,5 +67,3 @@ I said, "Then you'd better beg loud, you old fool. Because I am going to need to
 And behind him, at the foot of the spine, where the pale grey stood up out of the ground against the pale dead stone, the cold man stopped walking.
 
 We were out of breaths. He was here.
-
-<p align="center">&#42; &#42; &#42;</p>

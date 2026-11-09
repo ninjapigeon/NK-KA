@@ -71,5 +71,3 @@ I looked at Third, in his corner, under his tablecloth, with his one blue eye, w
 Then I went and lit the stove, because the stew was not going to make itself, and because I had apparently decided, somewhere in the last few hours, that this was simply how the morning was going to go.
 
 I did not examine that decision very closely either.
-
-<p align="center">&#42; &#42; &#42;</p>

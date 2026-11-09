@@ -65,5 +65,3 @@ He looked at me for a long moment, the eye steadying toward something like its p
 "Yeah, well." I looked out at the rearranging dark, the field that wouldn't hold still, the cliff that was quietly drinking the grey and everything in it. "I'm not bored now."
 
 We kept the watch. Out past the firelight the book turned its pages where we couldn't see, and far behind the cliff the grey poured toward its ending, carrying its dim cargo of shapes, one of which had turned to look at a thing made of wood and known it entirely — and on the lived side of it all, a girl held a construct's forearm with both hands and talked, every time the eye began to drift, about a sign that said *Only*, and a stew nobody should have been proud of, and all the small unfinished things that are, when you are trying to keep someone in the world, the whole and only argument for staying in it.
-
-<p align="center">&#42; &#42; &#42;</p>

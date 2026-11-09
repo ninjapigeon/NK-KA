@@ -53,5 +53,3 @@ He looked at me for a long moment, the coal of his eye steady.
 And we walked on, into the meaner country, toward the patient thing — and I found I was no longer thinking about how bored I had been at the inn. I was thinking that I had spent six thousand spins wiping a table beside the first beautiful thing a monster ever saw, and had called it handsome, and in my way, and had never once wondered how it came to be there.
 
 You only get to not-wonder for free the first time.
-
-<p align="center">&#42; &#42; &#42;</p>

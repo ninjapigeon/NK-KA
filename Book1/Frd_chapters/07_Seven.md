@@ -79,5 +79,3 @@ I looked at Roan, who did not drink for courage, and who had just talked himself
 Third's eye came to me, and the glow did the thing I would come to know as close as he came to gentleness.
 
 "That," he said, "is up to you. But I would leave at first light."
-
-<p align="center">&#42; &#42; &#42;</p>

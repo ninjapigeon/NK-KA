@@ -122,5 +122,3 @@ He didn't say that part. He didn't know to, or he knew and couldn't. But I think
 "The Graveyard," Mathen said quietly, from the fire.
 
 "The Graveyard," said Third.
-
-<p align="center">&#42; &#42; &#42;</p>

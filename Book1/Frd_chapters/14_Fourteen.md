@@ -137,5 +137,3 @@ I caught Third watching him go ahead with Roan, the two of them already arguing 
 "Nothing," he said. "I am only counting. It is a habit." He started walking. "I find I have acquired three of you. I had not expected to acquire any."
 
 He didn't say it like a complaint. He didn't quite say it like a gift, either. But it was the nearest to the second that I'd heard from him, and I walked the rest of that day with it warming a spot under my ribs that the Snake Forest had left cold.
-
-<p align="center">&#42; &#42; &#42;</p>

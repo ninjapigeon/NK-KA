@@ -47,5 +47,3 @@ The cold man did not look troubled. He looked, if anything, fonder.
 "Yes," he said. "It can. That is why I have not come to threaten you, or to break you, neither of which would serve. I have come to *offer* you something. You will want to hear it. Everyone, in the end, wants to hear it." He tilted his worn face, and the six dead lights shivered on his back, and the grey stood up off the ground behind him like a held breath. "Shall I tell you what is waiting, on the other side of the wall you are?"
 
 And Scar help me, I felt Third want to say yes.
-
-<p align="center">&#42; &#42; &#42;</p>

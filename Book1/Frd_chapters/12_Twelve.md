@@ -91,5 +91,3 @@ We made camp early, well clear of the last of the bent trees, and none of us sug
 Across the fire, Third sat with his eye on the dark, watching nothing, watching everything, keeping a door shut that I would not understand for a long time yet.
 
 In the morning the trail was clear and the trees were honest and we walked on toward the geysers, where everything would change again, though we didn't know that yet either.
-
-<p align="center">&#42; &#42; &#42;</p>

@@ -85,5 +85,3 @@ Nobody said anything. The fire ticked. Out in the dark field, unwitnessed, a pag
 "Then we don't sleep alone," Mathen said at last, practical, gathering us with it. "Watches in pairs. Eyes on the field and eyes on him." He looked at Third, gently. "Especially him."
 
 And that was how we came to wait, the four of us, at the rim of a thing that rearranged itself in the dark, under a sky with a wound turning in it, on the thinnest plan a very old creature had ever asked anyone to stand on, for a man who could walk out of the world — while behind the cliff that held what we took for the last peg in creation, the grey itself had begun, quietly, to pour toward the place where it would end.
-
-<p align="center">&#42; &#42; &#42;</p>

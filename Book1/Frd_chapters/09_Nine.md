@@ -57,5 +57,3 @@ It was just that I was no longer in it.
 Roan laughed — surprised out of him, the first real laugh since the gate — and Third's eye held on us a moment longer, bright in the grey light, before turning back to the trail.
 
 We walked on toward the Causeway, and the Spire, and the thing at the end of it that none of us yet understood, and behind us the town did not change at all.
-
-<p align="center">&#42; &#42; &#42;</p>

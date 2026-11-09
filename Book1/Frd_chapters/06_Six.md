@@ -79,5 +79,3 @@ I had. The evening before, at that very table, I had asked exactly that, and he 
 "Yes," I said. "I did."
 
 "Now," Third said. "It is now."
-
-<p align="center">&#42; &#42; &#42;</p>

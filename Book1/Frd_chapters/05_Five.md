@@ -95,5 +95,3 @@ I looked at my cold stew. I looked at the shuttered window. I thought about the 
 "No. I do not."
 
 I nodded slowly. Outside, the patrol's footsteps had faded. The Scar was almost fully across now — in another few minutes the light would go and the dark would come down. "How soon?" I asked.
-
-<p align="center">&#42; &#42; &#42;</p>

@@ -120,7 +120,8 @@ Anka is a flat plane with no sun, moon, stars, or seasons; the **Scar** (a rotat
 - **Quotation marks:** straight double quotes throughout the chapter files; thought and the intrusive voice use italics with **no** quotes (§2). Single quotes only for quotes-within-quotes and the occasional scare-quote (*‘icing on the cake’*).
 - **Scene break within a chapter:** centred `* * *`, written in the chapter files as `<p align="center">&#42; &#42; &#42;</p>`. Marks a time/POV shift inside a scene-cluster.
 - **Memory break:** centred `◆ ◆ ◆`, written as `<p align="center">&#9670; &#9670; &#9670;</p>`. Marks the boundary between Tasha’s present-tense narration and Third’s “grey” memory passages. **These two dividers are not interchangeable** — never swap one for the other, and don’t delete them (they carry the braided structure). Keep them as HTML entities; bare asterisks get mangled in round-trips.
-- **No chapter titles.** Chapters are numbered only (One … Forty One). The numbered scheme de-spoilers the table of contents; don’t reintroduce descriptive titles.
+- **Named acts, numbered chapters.** The book has three named acts — *The Quiet Town* (ch1–9), *Where the Lines Point* (ch10–31), *The Open Book* (ch32–41), listed in `Frd_chapters/acts.md` — each with its own title page and a place on the visible contents page. Chapters stay numbered only (One … Forty One); the numbered scheme keeps the contents page from spoiling anything, so don’t reintroduce descriptive chapter titles.
+- **Chapter endings:** a chapter never ends on `* * *` (the chapter break already does that job). The only divider allowed as the last thing in a chapter is `◆ ◆ ◆`, where the chapter hands over into or out of a grey memory (ch29, ch30, ch39, ch40).
 - **Dialogue** uses double quotes.
 
 -----

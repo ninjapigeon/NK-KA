@@ -91,5 +91,3 @@ He watched Mathen make us a company.
 And he let him.
 
 That was the thing, looking back — that was the bravest thing I watched Third do on that whole road, and I didn't even see it for what it was at the time. He let Mathen stitch us together, knowing what stitching costs when it tears. He stood a little apart, and counted, and let it happen anyway.
-
-<p align="center">&#42; &#42; &#42;</p>

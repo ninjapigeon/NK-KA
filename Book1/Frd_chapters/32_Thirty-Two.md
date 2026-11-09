@@ -63,5 +63,3 @@ The spine rose in front of us, and resolved, the way the cliff always resolved o
 I looked at Roan, who did not know yet all of what he had walked into.
 
 It was, I realised, my turn to hold a door open for someone — and this time, the cruel kind, the kind that only opens inward.
-
-<p align="center">&#42; &#42; &#42;</p>

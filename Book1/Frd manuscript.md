@@ -9,6 +9,8 @@
 
 ---
 
+# Act One: *The Quiet Town*
+
 # One
 
 The last customer left when the Scar had wheeled to a hand's-width from full dark, which gave Klar and me just long enough to close before the light went and we'd be finishing by firelight.
@@ -55,13 +57,11 @@ I turned. Roan was coming up the path at the pace that isn't quite running, beca
 
 I was bad at leaving things alone. It was either a failing or the one interesting thing about me — and with my hand drifting toward my blade, I had the brief, unwelcome feeling I was about to learn which.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Two
 
 They stopped a few paces short of me — far enough to let me look at the thing without it looming, and looming was clearly something it could do without trying.
 
-Wooden limbs, with just disturbingly too-long forearms, wrapped in something like leather, in the way of something built to suggest muscle without quite managing it. A cloak doing an earnest, unsuccessful job of concealing the wearer, mostly because the wearer had cloven hooves where feet should be, and the sole-less boots someone had pulled over them had long since worn through. And in the shadow of the hood, slightly off-centre, one eye: a hole in smooth wood, lit from somewhere inside, a steady blue. Not facing me — and then it was, the glow finding me, settling, brightening a fraction as it fixed in place.
+Wooden limbs, with just disturbingly too-long forearms, wrapped in something like leather, in the way of something built to suggest muscle without quite managing it. A cloak doing an earnest, unsuccessful job of concealing the wearer, mostly because the wearer had cloven hooves where feet should be, on legs that bent the wrong way like a dog's hind legs, and the sole-less boots someone had pulled over them had long since worn through. And in the shadow of the hood, slightly off-centre, one eye: a hole in smooth wood, lit from somewhere inside, a steady blue. Not facing me — and then it was, the glow finding me, settling, brightening a fraction as it fixed in place.
 
 Strapped across the back of its waist, only the leather-wrapped handles showing, were a pair of blades I'd later learn were Falkas. Each one as long as a forearm, delicately carved their entire length, leaf-shaped but angled slightly down, and weighted toward the tip. "Better for chopping" I was later told. The cloak hid the hooves badly, the hood didn't hide the eye at all, and the whole of it gave the impression of something that had learned how to be unalarming from a single description, once, and gotten every detail a little, and terribly, wrong. The way a large animal sitting still ans watching you, is worse than one already moving. Roan wore the scent of militia in old, barely used leather armor. His companion wore the scents of the world.
 
@@ -109,6 +109,12 @@ The eye stayed on me, and the quality of its stillness shifted in a way I couldn
 
 "Then I will wait," it said, and stepped through the gate, and stood beside the door, and went, as far as I could tell, completely still.
 
+"What do I call you?" I said, because I had to call it something, and *it* was starting to feel rude to its face.
+
+"Third."
+
+That was all. Not a name so much as a place in a line, said the way you'd give a count.
+
 I looked at Roan. Roan looked at the thing.
 
 "You're the one who told it to come here," I said.
@@ -134,8 +140,6 @@ The thing had spoken. It had been polite. It had the Shredder's head, which mean
 None of which was, technically, alarming.
 
 I took my coat off. Told myself I'd sleep, and was surprised, after a while, to find that I had.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Three
 
@@ -177,11 +181,9 @@ He said: someone willing to ask how soon.
 
 "Looks like it might get stony today," I said — the sky had that particular flat quality that usually meant falling rocks by mid-morning.
 
-I started the morning routine — shutters, stove, stew selection — and did not think about the fact that there was a Titanspawn Forged sitting in the corner of my inn wearing its worn cloak, and watching me with one blue eye.
+I started the morning routine — shutters, stove, stew selection — and did not think about the fact that there was a Titanspawn Forged — I didn't have that word for him yet — sitting in the corner of my inn wearing its worn cloak, and watching me with one blue eye.
 
 I was not thinking about it very hard.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Four
 
@@ -256,8 +258,6 @@ I looked at Third, in his corner, under his tablecloth, with his one blue eye, w
 Then I went and lit the stove, because the stew was not going to make itself, and because I had apparently decided, somewhere in the last few hours, that this was simply how the morning was going to go.
 
 I did not examine that decision very closely either.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Five
 
@@ -357,8 +357,6 @@ I looked at my cold stew. I looked at the shuttered window. I thought about the 
 
 I nodded slowly. Outside, the patrol's footsteps had faded. The Scar was almost fully across now — in another few minutes the light would go and the dark would come down. "How soon?" I asked.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Six
 
 "Soon," he'd said, which I took for a word chosen to avoid choosing a number. He kept his watch that night the same as every night, and if he learned anything more in the dark hours he didn't share it with me. The next morning came and went the way mornings did — shutters, stove, the regulars in for their bread — with nothing in any of it to suggest "soon" meant anything closer than it always had. It turned out to mean early afternoon, and it wasn't Third who set the date.
@@ -429,7 +427,7 @@ He was not the only one to make it. I had forgotten them the way you forget furn
 
 "That," she said, into the ringing after, and she did not so much as glance at the corner, "is the reason there's meat in your bowls and not a Shredder on your road. It came in off the dark and laid the head of the thing on my table — the Shredder that's been taking travellers off the anti-spinward trail, the trail half of you walk to market. I examined it myself. Klar's been feeding it to you since the pot got hot." She licked her thread and went looking for her needle.
 
-"It has sat in that corner behind a cloth, troubling no one, doing you the courtesy of not frightening the very people who are now frightening themselves over a tipped bench. So. Sit down and finish your bowls like grown folk, or take your fright out the door and leave the rest of us to hear the man — but either way you'll do it without the knife, Bevin, before you cut yourself and I'm obliged to stitch you for nothing." It was not kindness. Tondi had no use for kindness; she found it sentimental. It was the thing she kept instead, which was worth more — the flat, bottomless certainty of a woman who has decided a thing is true and will not be argued off it by anybody's heartbeat. Bevin looked at the knife as though it had got into his hand by witchcraft, and set it on the bar. Sem let the door swing to. The woman sat, because Tondi had said sit and there are people in every town who have been waiting their whole lives for someone to tell them what to do in exactly that voice. Nobody else quite managed it. But nobody ran, either, and I was starting to learn that nobody-running was the whole of what you got to ask of people the first time they met him. Through all of it Third had not moved. He had not turned his head, had not marked the knife or the door or the going-over of the bench; he had stood with his one bright eye fixed on the traveller and the traveller alone, as untroubled by a room deciding whether to kill him as the Scar is by the things it passes over. He had been waiting, I understood, for the noise to finish — not out of patience, but because the noise had nothing to do with the single thing he had stood up to learn. "Anti-spinward," Third said. The voice filled the room the way it always did, but there was something underneath it now, something I had no name for and was not sure Third did either. "You are certain. Anti-spinward."
+"It has sat in that corner behind a cloth, troubling no one, doing you the courtesy of not frightening the very people who are now frightening themselves over a tipped bench. So. Sit down and finish your bowls like grown folk, or take your fright out the door and leave the rest of us to hear the man — but either way you'll do it without the knife, Bevin, before you cut yourself and I'm obliged to stitch you for nothing." It was not kindness. Tondi had no use for kindness; she found it sentimental. It was the thing she kept instead, which was worth more — the flat, bottomless certainty of a woman who has decided a thing is true and will not be argued off it by anybody's heartbeat. Bevin looked at the knife as though it had got into his hand by witchcraft, and set it on the bar. Sem let the door swing to. The woman sat, because Tondi had said sit and there are people in every town who have been waiting their whole lives for someone to tell them what to do in exactly that voice. Nobody else quite managed it. But nobody ran, either, and I was starting to learn that nobody-running was the whole of what you got to ask of people the first time they met him. Through all of it Third had not moved. He had not turned his head, had not marked the knife or the door or the going-over of the bench; he had stood with his one bright eye fixed on the traveller and the traveller alone, as untroubled by a room deciding whether to kill him as the Scar is by the things it passes over. He had been waiting, I understood, for the noise to finish — not out of patience, but because the noise had nothing to do with the single thing he had stood up to learn. "Anti-spinward," Third said. The voice filled the room the way it always did, but something lay underneath it now, something I had no name for and was not sure Third did either. "You are certain. Anti-spinward."
 
 The traveller could only nod his frightened head. Third turned his head — the head, the whole head — toward me. The eye was very bright.
 
@@ -440,8 +438,6 @@ I had. The evening before, at that very table, I had asked exactly that, and he 
 "Yes," I said. "I did."
 
 "Now," Third said. "It is now."
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Seven
 
@@ -524,8 +520,6 @@ I looked at Roan, who did not drink for courage, and who had just talked himself
 Third's eye came to me, and the glow did the thing I would come to know as close as he came to gentleness.
 
 "That," he said, "is up to you. But I would leave at first light."
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Eight
 
@@ -671,7 +665,7 @@ Roan laughed — surprised out of him, the first real laugh since the gate — a
 
 We walked on toward the Causeway, and the Spire, and the thing at the end of it that none of us yet understood, and behind us the town did not change at all.
 
-<p align="center">&#42; &#42; &#42;</p>
+# Act Two: *Where the Lines Point*
 
 # Ten
 
@@ -707,7 +701,7 @@ Then, over the next half-day, it refused to behave like weather — it did not m
 
 We reached its foot near dark, and dark was the first time I understood it properly, because in the failing light I could no longer see the whole impossible length of it and was left with only the part directly above me, which was enough.
 
-It was a bridge. That was the simplest true thing to say about it, the way Third would have said it. A bridge wide enough that, I counted — out loud, like a child — twelve men could have walked it shoulder to shoulder, and there would have been room left over for their packs. It stood on arches that lifted the roadway six men high, and the arches marched away into the dark in both directions with the patience of something that had been marching since before there was anyone to watch. The stone was a single piece. I walked up and put my hand on the nearest pillar and there was no seam in it, no mortar, no mark of a tool. It was not built the way a wall is built, stone on stone. It was simply one stone, the size of a bridge that crossed the world, and someone had decided it should be that shape and it had agreed.
+It was a bridge. That was the simplest true thing to say about it, the way Third would have said it. A bridge wide enough that, I counted — out loud, like a child — twelve men could have walked it shoulder to shoulder, and there would have been room left over for their packs. It stood on arches that lifted the roadway six men high, and the arches marched away into the dark in both directions with the patience of something that had been marching since before there was anyone to watch. The stone was a single piece. I walked up and put my hand on the nearest pillar and found no seam in it, no mortar, no mark of a tool. It was not built the way a wall is built, stone on stone. It was simply one stone, the size of a bridge that crossed the world, and someone had decided it should be that shape and it had agreed.
 
 "It does not connect to anything," Third said, beside me, his eye moving along the dark span. "I have walked considerable lengths of it, in my time. It begins where it begins and ends where it ends and neither place is anywhere. There is a theory that it moved troops during the war. The theory does not survive contact with the route. No front it could have served lies along its line, and the kinds of things the Titans made for war did not march in tidy columns that required a road." The bellows drew, once, low. "I think it was made because making it was possible. I think a great deal of the world was made for that reason. It is the explanation that fits the evidence, and it is also the one that frightens people, which is perhaps why they prefer the emperor who never existed."
 
@@ -727,7 +721,7 @@ We did not make it under the arches, and Third was particular about that. The un
 
 The ramps were how you got up onto it. They corkscrewed around the pillars at intervals Third said ran two thousand paces apart, give or take, the whole length of the thing — gentle spirals a cart could have climbed, if there had been carts, or anything to pull them. The embankments where they met the ground were furred with driftcane, the one growing thing that seemed to want the Causeway's company: pale red jointed stalks rooted shallow and wide in the scoured soil, rattling at every gust. Twice on the climb a whole stand of it tore loose somewhere above and came bowling down the spiral past us, a tumbling haystack of red cane that made Roan flinch and swear and me laugh at him, which I needed. Third gathered an armful of the dry fallen stuff without breaking stride — cut and bound, he said, it was worth the carrying: light, and strong, and good for a splint or a tent-pole or a dozen other things the road would eventually ask for.
 
-In the morning I climbed one and got my first proper look at the road by daylight, and that was when the Causeway stopped being a wonder and started being a wrongness. Nothing grew on it. Not the way nothing grows on a swept floor — the way nothing grows on glass. The roadway ran out ahead of us, bare grey stone, and the moss and blown soil that should have found a seam to root in over an age had found none, because there were no seams; there was nothing for a root to take hold of, the same one impossible stone all the way down. Only at the very lip of the road, where grit and leaf-fall banked against the low parapet, did anything green get a start, and even that looked provisional, as if the road might shrug it off whenever it remembered to. And the trees. I have to describe the trees, because they were the part that made Roan go quiet, and Roan did not go quiet easily.
+In the morning I climbed one and got my first proper look at the road by daylight, and that was when the Causeway stopped being a wonder and started being a wrongness. Nothing grew on it. Not the way nothing grows on a swept floor — the way nothing grows on glass. The roadway ran out ahead of us, bare grey stone, and the moss and blown soil that should have found a seam to root in over an age had found none, because there were no seams — nothing for a root to take hold of, the same one impossible stone all the way down. Only at the very lip of the road, where grit and leaf-fall banked against the low parapet, did anything green get a start, and even that looked provisional, as if the road might shrug it off whenever it remembered to. And the trees. I have to describe the trees, because they were the part that made Roan go quiet, and Roan did not go quiet easily.
 
 On both sides of the Causeway, for more than a stone's throw out, there were no trees. The forest came up to that line — a hard, clean line, running the whole visible length of the road — and stopped as if it had been told to. Beyond the line the forest was ordinary, dense and green and getting on with its business. Inside it, nothing taller than grass. Not cut. Not burned. Just held, the way you'd hold a dog back by the collar, spin on spin on spin, without ever quite letting it forget it wanted to come forward.
 
@@ -778,8 +772,6 @@ He glanced up the long bare run of the road, and then — quickly, the way you t
 "He is wise," was all Third said. Then he shouldered back into his cloak, and we walked on, anti-spinward, down the centre of a road that held a whole forest at arm's length on either side, under a sky with a wound rotating slowly across it, surrounded at a distance by black mountains with clouds that were *not* feeding on the forests below them.
 
 Behind us the camp grew small — the carts, the smoke, the strung washing, the Hin lifting one broad hand without looking up from his weighing — and then the ramp grew small too, and then there was only the road, running straight as a drawn line toward the place none of us could see yet: bare and patient and wholly indifferent, holding the green world off its back as it had long before us, and meaning to long after.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Eleven
 
@@ -891,7 +883,7 @@ I watched it happen — watched the moment the habit let go of him and he rememb
 
 He came back — not sideways, and not over. He did not climb to our side and start the crossing again from where we stood. He stayed where his own habit had carried him, on the far side of the wreck, and he set his hands to the barricade from there, and began, without a word, to take it apart toward us.
 
-It was not the effortless thing a story would have given him. He was stronger than a man — stronger than Roan and me together, I'd have guessed — but he was not a windlass, and the carts were heavy and snarled and half-rotted into one another, and he worked them the way a patient person works a knot: a cart rocked up onto its edge and walked round on one corner, a wheel freed and rolled aside, a shaft lifted clear and laid down out of the path. What he had that we did not was not size. It was that he never strained against a thing and gave up, never stopped to breathe, never needed the small rests a body needs. He simply continued, at the same steady rate, until the stone showed through between us.
+It was not the effortless thing a story would have given him. He was stronger than a man — stronger than Roan and me together, I'd have guessed — but he was not a windlass. The carts were heavy, snarled, half-rotted into one another, and he worked them the way a patient person works a knot: a cart rocked up onto its edge and walked round on one corner, a wheel freed and rolled aside, a shaft lifted clear and laid down out of the path. What he had that we did not was not size. It was that he never strained against a thing and gave up, never stopped to breathe, never needed the small rests a body needs. He simply continued, at the same steady rate, until the stone showed through between us.
 
 "That one next," he said, when he reached the rotten cart at the top, the one Roan and I had been afraid to touch. "Take the wheel side. I will take the weight." And he eased it down clear of the path, the two of them, as gently as if it might still have had someone in it.
 
@@ -909,15 +901,13 @@ It was, I would understand much later — when I knew more than I wanted to and 
 
 He didn't say why. I didn't ask. We walked on anti-spinward down the swept and watched-over road, the three of us together, and I did not learn for a long time what he had carried across it, or that he had carried it at all.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Twelve
 
 We came off the Causeway after travelling it for two days, by one of the corkscrew ramps. The last of the high country had been more of the world insisting on itself — a stretch where the trail crossed a field of low sterile rings, perfect circles of bare grey dirt a few paces across with a sickly green tree dead-centre of each, no grass, no weed, nothing growing under them but the next identical sapling pushing up at the ring's edge to start its own circle of starvation. These I knew — occluding trees, the farmers near home called them, and hated them — and we walked between the rings the way you'd walk between graves, and nobody spoke, and the trees drank the life out of the dirt in their tidy obsessive circles and asked us for nothing. So when the ramp let us down into ordinary country that felt like a held breath let out, and for half a day the trail was just a trail and the trees were just trees, I believed in the world again — not because the world had earned it, but because I wanted it so badly that half a day of plain green was enough to buy me.
 
 Then the trees changed.
 
-It wasn't sudden. That was the first wrong thing about it — there was no edge to the place, no line like the held-back margin of the Causeway, no moment you could point to and say *here, it starts here.* The ordinary forest simply thinned and was replaced, tree by tree, the way one word in a sentence gets replaced until you look up and the sentence means something else, and by the time I understood what I was looking at we had been walking in it for some time already, which I did not like, because it meant the place had got in before I noticed the door.
+It wasn't sudden. That was the first wrong thing about it — the place had no edge, no line like the held-back margin of the Causeway, no moment you could point to and say *here, it starts here.* The ordinary forest simply thinned and was replaced, tree by tree, the way one word in a sentence gets replaced until you look up and the sentence means something else, and by the time I understood what I was looking at we had been walking in it for some time already, which I did not like, because it meant the place had got in before I noticed the door.
 
 Every tree was bent the same way.
 
@@ -935,7 +925,7 @@ The trees did not move. I want that on the record, because the whole long day wa
 
 It got into your head through that crack and then it widened the crack.
 
-The thing I have never been able to explain to anyone is how a place with no enemy in it can exhaust you more thoroughly than a fight. By midday — if it was midday; the Scar's light came down grey and even through the canopy and gave us nothing to steer by — Roan had stopped talking entirely and walked with his hand wrapped white-knuckled around the haft of his spear, turning, every few paces, to check the trees behind us. There was nothing behind us. He checked anyway. He could not stop checking, and the checking was eating him, and there was nothing I could say that the place did not immediately turn sour in my mouth before I could say it.
+The thing I have never been able to explain to anyone is how a place with no enemy in it can exhaust you more thoroughly than a fight. By midday — if it was midday; the Scar's light came down grey and even through the canopy and gave us nothing to steer by — Roan had stopped talking entirely and walked with his hand wrapped white-knuckled around the haft of his spear, turning, every few paces, to check the trees behind us. There was nothing behind us. He checked anyway. He could not stop checking, and the checking was eating him, and nothing I could say stayed sweet, because the place turned it sour in my mouth before I could say it.
 
 Because it was getting into me too, and it had found the door it wanted.
 
@@ -995,7 +985,7 @@ It was that he had had three hundred thousand spins of practice keeping the door
 
 We came out of it the way we'd gone in, with no edge to mark the leaving, the bent trunks giving way tree by tree to honest crooked ordinary ones, until I looked up and the forest behind us was just a forest and the thing in my head had let go its grip so gently I couldn't say when.
 
-We made camp early, well clear of the last of the bent trees, and none of us suggested going further though there was light left. Roan built the fire too big. I let him. We didn't talk about the things we'd said, but Roan took first watch without being asked, and when I woke in the dark he was sitting close to the coals with his spear across his knees, and he looked over at me, and in the firelight he looked like a child — younger than his spins, young enough that guarding anything seemed a cruel joke to have handed him.
+We made camp early, well clear of the last of the bent trees, and none of us suggested going further though light remained. Roan built the fire too big. I let him. We didn't talk about the things we'd said, but Roan took first watch without being asked, and when I woke in the dark he was sitting close to the coals with his spear across his knees, and he looked over at me, and in the firelight he looked like a child — younger than his spins, young enough that guarding anything seemed a cruel joke to have handed him.
 
 "It wasn't true," he said. "What you said. I mean — it was. But it wasn't the why of it. I don't need someone to tell me I'm brave." He poked the fire. "I need to find out if I am. They turn out to be different things, when you're actually out here. I didn't know that before."
 
@@ -1004,8 +994,6 @@ We made camp early, well clear of the last of the bent trees, and none of us sug
 Across the fire, Third sat with his eye on the dark, watching nothing, watching everything, keeping a door shut that I would not understand for a long time yet.
 
 In the morning the trail was clear and the trees were honest and we walked on toward the geysers, where everything would change again, though we didn't know that yet either.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Thirteen
 
@@ -1122,8 +1110,6 @@ Third was quiet for a long moment, the ember of his eye steady on the singing tr
 I slept. I did not know what geysers meant yet, or who we'd find there, or that the warm part of whatever Third had gone into had an end he hadn't shown me. I only knew that he had gone somewhere good and come back lessened, and that the two facts sitting together bothered me more than either would have alone, and I carried that small wrongness down into sleep and did not solve it.
 
 I wouldn't solve it for a long time.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Fourteen
 
@@ -1265,8 +1251,6 @@ I caught Third watching him go ahead with Roan, the two of them already arguing 
 
 He didn't say it like a complaint. He didn't quite say it like a gift, either. But it was the nearest to the second that I'd heard from him, and I walked the rest of that day with it warming a spot under my ribs that the Snake Forest had left cold.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Fifteen
 
 A party of three has a shape, and the shape is a line. We'd walked it for a tenday without my ever thinking about it: Third in front because Third was always in front, me behind him because his back was the safest place in the world to put your eyes, and Roan behind me with his spear and his checking. A line. You don't talk much in a line. You talk to the back of a head, or you don't, and mostly we hadn't.
@@ -1360,8 +1344,6 @@ He watched Mathen make us a company.
 And he let him.
 
 That was the thing, looking back — that was the bravest thing I watched Third do on that whole road, and I didn't even see it for what it was at the time. He let Mathen stitch us together, knowing what stitching costs when it tears. He stood a little apart, and counted, and let it happen anyway.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Sixteen
 
@@ -1479,13 +1461,11 @@ Third made a sound that was not quite a laugh, from somewhere inside the bellows
 
 "Yes," he said. "It was."
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Seventeen
 
 We had come through the bog that morning, and the bog had nearly kept Roan, so the smell, when it found us in the afternoon, landed on people already shaken.
 
-It had looked, the bog, like the kindest thing the country had shown us in days — we came out of scrub onto a wide flat meadow of soft green reeds, knee-high, level as a swept floor, with berry-bushes scattered across it and the Scar far off and the day's warmth coming down mild, and every part of me that was tired wanted to walk straight out into it and lie down. Third put his Falka across my chest before I'd taken three steps. "It is water," he said. "All of it. The reeds grow on the surface. They will hold a bird. They will not hold you." And then, because Roan was already six steps out past where Third's arm could reach, having seen the berries and not the warning — the green floor opened under him without a sound, no splash, just a swallowing, the reeds closing over the place he'd been like a mouth, and Mathen and I had him by an arm and a fistful of cloak before his head went under, and we hauled, and the bog hauled back, and for a long ugly moment the country was very calmly trying to drink a man in front of us while looking like a place you'd picnic. We got him out black to the waist and shaking. We went round the long way after that, along the firm edge, and the meadow lay there behind us soft and green and patient, beautiful as anything, waiting for the next tired thing that trusted its eyes.
+It had looked, the bog, like the kindest thing the country had shown us in days — we came out of scrub onto a wide flat meadow of soft green reeds, knee-high, level as a swept floor, with berry-bushes scattered across it and the Scar far off and the day's warmth coming down mild, and every part of me that was tired wanted to walk straight out into it and lie down. Third put his Falka across my chest before I'd taken three steps. "It is water," he said. "All of it. The reeds grow on the surface. They will hold a bird. They will not hold you." Roan was already six steps out, past where Third's arm could reach, having seen the berries and not the warning — and the green floor opened under him without a sound. No splash, just a swallowing, the reeds closing over the place he'd been like a mouth. Mathen and I had him by an arm and a fistful of cloak before his head went under. We hauled; the bog hauled back. For a long ugly moment the country was very calmly trying to drink a man in front of us while looking like a place you'd picnic. We got him out black to the waist and shaking. We went round the long way after that, along the firm edge, and the meadow lay there behind us soft and green and patient, beautiful as anything, waiting for the next tired thing that trusted its eyes.
 
 So when the smell hit — in the afternoon, which meant the wind was coming from anti-spinward, which meant we were downwind of whatever was left of the town, which meant we'd been smelling it for the last hour without knowing what it was — I'd thought, hoped, it was just the bog again, turned rank in the heat behind us.
 
@@ -1621,8 +1601,6 @@ I took one last look back at the lockbox lid through the broken wall, lying wher
 
 Third was already at the gate.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Eighteen
 
 We passed a marker that evening that I didn't understand, and Mathen did, and the explaining of it is what undid us.
@@ -1671,7 +1649,7 @@ Where the green ones had been — on the wall beside him, in the yards below, in
 
 For one held instant, the whole village stood and looked at itself, pale beside green, and saw.
 
-Then it began. Not a battle — there was no battle in it, no sides drawn, only the oldest recognition there is, every pale one seeing the green one that had been the rest of it and every green one seeing the pale, and the seeing being unbearable, and the unbearable becoming, in the space of a breath, hands and teeth and the wall-logs torn loose for clubs. It began everywhere at once. It began the way the veins had come, as if it had always been there under the skin of these people and the flash had only made it show.
+Then it began. Not a battle — no battle in it, no sides drawn, only the oldest recognition there is, every pale one seeing the green one that had been the rest of it and every green one seeing the pale, and the seeing being unbearable, and the unbearable becoming, in the space of a breath, hands and teeth and the wall-logs torn loose for clubs. It began everywhere at once. It began the way the veins had come, as if it had always been there under the skin of these people and the flash had only made it show.
 
 "Liwon," Third said.
 
@@ -1683,7 +1661,7 @@ Zala's house was at the wall's foot, and the laminated reed of its door hung in 
 
 There were two children on the floor.
 
-One was pale. A small girl, fine-boned and new, with hair gone nearly clear and eyes a blue he had never seen because Liwon's eyes had been Virek-dark and these were not, these were a blue like the heart of the flicker, and they were open, and they found him, and her body was torn in a way that the small new pale body could not mend and would not survive, and she was looking at him.
+One was pale. A small girl, fine-boned and new, her hair gone nearly clear, her eyes a blue he had never seen — Liwon's eyes had been Virek-dark, and these were not; these were a blue like the heart of the flicker. They were open. They found him. Her body was torn in a way the small new pale body could not mend and would not survive, and she was looking at him.
 
 The other was green. Smaller-seeming, though they were the same, crouched over the pale one with blood on its fingers and its mouth, and it too looked at Third, and what came off it was rage and terror and a disgust so total it had no room left for anything that might have been love, and Third understood — in the flat fast way the old thoughts used to bring him things, except the thoughts were silent now, the thoughts had nothing — that these were not two children.
 
@@ -1691,7 +1669,7 @@ They were one child. They were the halves of one child, sundered the way the woo
 
 The green one broke first. It scrambled up the wreck of Zala's furniture and went out the high window into the dark, fast, low, the way the thoughts had always told Third the green ones moved, and Third took one step after it —
 
-— and outside there was a shout, a bright triumphant boy's shout, and then a wet sound, and the shout turned to laughter, and Third knew without going to the window that one of the pale ones had found the green child in the dark and done to it what pale and green were going to be doing to each other from this night until the end of the world.
+— and outside a shout rang out, a bright triumphant boy's shout, and then a wet sound, and the shout turned to laughter, and Third knew without going to the window that one of the pale ones had found the green child in the dark and done to it what pale and green were going to be doing to each other from this night until the end of the world.
 
 He turned back to the one on the floor.
 
@@ -1709,7 +1687,7 @@ Something in Third broke that he did not have a part to replace.
 
 The blue eyes — the wrong eyes, her eyes — stayed on him a moment, and were uncertain, the way they were uncertain in strange surroundings, and these were the strangest surroundings, this new pale unasked-for self. And then they were not uncertain about anything anymore.
 
-There was a small sound behind him.
+A small sound came from behind him.
 
 Wally stood in the broken doorway. Wally, who had not changed — who could not change, who was not Virek, who was a story and stories do not sunder — Wally stood unchanged in a village where every single soul had been split in two, and he was looking at the pale child on the floor with an expression Third had never seen a Hin wear, because Hin do not, as a rule, have anything in their lives that a true thing can hurt.
 
@@ -1763,7 +1741,7 @@ Third was quiet a while. The coals ticked.
 
 "They were one people once," he said, at last. The voice came from somewhere deeper than usual, the bellows dragging under it. "They chose to become perfect, and were offered the means, and took it. Two woke where one had lain down. Each kept what it could not bear to keep whole, and could not forgive the other for carrying the rest." A pause. "Your version is not wrong, master Mathen. It is only missing the part where it happened to specific people, in specific rooms, on a specific night, and someone watched, who had loved one of them." The ember held on the fire. "Tell yours. It is kinder. Kind is a fair trade for their coin."
 
-And that was all. Mathen didn't push, and I didn't, and we banked the fire and slept, and in the morning Third was Third again, watchful and dry and exact, and walked us anti-spinward under a sky that had a wound in it but no veins, and I thought — Scar help me, I actually thought — that it had only been a hard memory of a long war, the kind a soldier carries.
+And that was all. Mathen didn't push, and neither did I. We banked the fire and slept. In the morning Third was Third again, watchful and dry and exact, walking us anti-spinward under a sky that had a wound in it but no veins, and I thought — Scar help me, I actually thought — that it had only been a hard memory of a long war, the kind a soldier carries.
 
 I did not know there had been a child. I did not know there had been a friend made of stories. I did not know that the thing every town agreed on, the hate older than weather, had a night attached to it, and a name, and that the name was one Third had decided, long ago, not to correct toward accuracy.
 
@@ -1772,8 +1750,6 @@ I know now. I am telling it. That is the only thing I can do with it — the thi
 You make more than one person carry the thing.
 
 So that it doesn't all rest on him.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Nineteen
 
@@ -1862,7 +1838,7 @@ Then he said the other old word and stepped sideways again and the tower was onl
 
 <p align="center">&#42; &#42; &#42;</p>
 
-Nobody had touched him. That was the whole of it, and it took us all a while to be able to say it. Four of us, and the worn old keeper, and her hand-deep path, and her grandmother's grandmother's keeping — and he had walked up like a man and stepped out of the world twice and taken the peg and not troubled to harm a single one of us, because harming us would have required us to matter, and we hadn't.
+Nobody had touched him. That was the whole of it, and it took us all a while to be able to say it. Four of us, and the worn old keeper, and her hand-deep path, and her grandmother's grandmother's keeping — and he had walked up like a man, stepped out of the world twice, taken the peg, and not troubled to harm a single one of us. Harming us would have required us to matter. We hadn't.
 
 The keeper didn't weep. She knelt by the empty dish and put her hand in the worn hollow of it, the dish her people had worn smooth with checking, and she left it there, and she said, to no one, "well," in the voice of a person setting down a thing they have carried so long that the not-carrying is worse than the weight ever was.
 
@@ -1899,8 +1875,6 @@ He didn't say that part. He didn't know to, or he knew and couldn't. But I think
 "The Graveyard," Mathen said quietly, from the fire.
 
 "The Graveyard," said Third.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Twenty
 
@@ -1983,8 +1957,6 @@ I looked at the side of his ruined patient ancient face, the coal of his eye wat
 I lay down. I did not sleep for a long while. Out past the fire, in the dark, Third stood his watch — and now and then, by signs I had only lately learned to read, he was not standing it at all: gone a breath beside the world, in the grey, with her, whoever she had been, and back before the fire could miss him. Getting the warm part while he still could.
 
 I'd begun to see him. That was the thing about that night. Not all of him. But I'd stopped looking away, and you only get to look away the first time for free.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Twenty One
 
@@ -2082,11 +2054,9 @@ I had. That was the thing. I had just worked out exactly that.
 
 "No," Third agreed. "It is not better. But it is true, and you have lately preferred true, even when it is not better. I thought you should have this one accurately."
 
-Behind us the blizzard stood its patient ground over the grass, going nowhere, waiting for the next fools who needed the dirt beneath it. Ahead the trail ran on alongside the rim, toward the fields where the glutton's teeth lay scattered, toward the place all the lines pointed. And I walked it knowing, now, that I was the latest entry in a list a very old creature had been keeping for three hundred thousand spins, and that the list had only ever ended one way, and that I was going to keep walking it anyway — which was, I understood with a lurch, exactly the choice a woman named Lujian had once talked him into, in a different ruin, a long time ago.
+Behind us the blizzard stood its patient ground over the grass, going nowhere, waiting for the next fools who needed the dirt beneath it. Ahead the trail ran on alongside the rim, toward the fields where the glutton's teeth lay scattered, toward the place all the lines pointed. And I walked it knowing, now, that I was the latest entry in a list a very old creature had been keeping for three hundred thousand spins, and that the list had only ever ended one way, and that I was going to keep walking it anyway — and that choice, I'd learn when he finally told me about her, was exactly the one a woman named Lujian had once talked him into, in a different ruin, a long time ago.
 
 Going on was the only way to call it what it was.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Twenty Two
 
@@ -2144,8 +2114,6 @@ And we walked on, into the meaner country, toward the patient thing — and I fo
 
 You only get to not-wonder for free the first time.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Twenty Three
 
 Mathen wanted a story. He always wanted a story — it was the engine that ran him, the way some men run on drink and some on grievance — but that night he wanted one badly enough to go after Third for it, which none of us had ever seen him do.
@@ -2188,15 +2156,13 @@ He had told it so that it would go on being told. So that whoever it was out pas
 
 "It is the good part," he said. And he put another piece of wood on the fire, though the fire did not need it, and we sat with it a while, the four of us and the maybe-fifth, in the singing nothing where the leaves would have been if there'd been a tree, before Mathen cleared his throat and started, very gently, on one of his own.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Twenty Four
 
 Mathen had told us about the fields while the stones were still falling, hunched under that overhang with the sky cracking outside, and I had pictured something terrible. I always do. The thing itself was worse and better than the picture, the way the real things on Anka always were: not terrible. Quiet. A quiet that had teeth in it, but you had to earn the teeth.
 
 We came up onto the fields near the middle of a Scar-light, and they ran away from us yellow and red to the rim of sight — heather, knee-high, the colour of an old bruise going gold, rippling in a wind that smelled of nothing at all. And standing up out of the heather, scattered across the whole vast gentle slope of it, were the stones.
 
-They were like plinths. That was the nearest I could come to it — squared-off blocks of white going to the grey of old bone, planted up out of the heather at all different heights, none of them taller than a person, some no higher than my knee, some that I'd have had to look up at a little, no two the same, each one standing alone with a space of grass around it as though the ground itself kept a polite distance. There was no pattern to where they stood, and no pattern to how tall, and that was somehow the worst of it — a field of pale blocks at every height between ankle and brow, scattered to the rim of sight with no more sense to the arrangement than a thing a child sets down and forgets.
+They were like plinths. That was the nearest I could come to it — squared-off blocks of white going to the grey of old bone, planted up out of the heather at all different heights, none of them taller than a person, some no higher than my knee, some that I'd have had to look up at a little, no two the same, each one standing alone with a space of grass around it as though the ground itself kept a polite distance. No pattern governed where they stood or how tall, and that was somehow the worst of it — a field of pale blocks at every height between ankle and brow, scattered to the rim of sight with no more sense to the arrangement than a thing a child sets down and forgets.
 
 "Teeth," Mathen said, soft, because the field was the kind of place that takes your voice down whether you decide to or not. "The glutton's. They pulled them out of his head in the war — imagine the size of the thing that wore these — and they came down all over the world and stuck where they landed, and grass grew up around them, and here we are walking through the dropped teeth of a god, calling it a field." He looked almost happy, in the way Mathen got happy at a thing that was too big to be anything but a story. "You can't make this up. You wouldn't dare."
 
@@ -2206,7 +2172,7 @@ And then I saw the rocks that floated.
 
 <p align="center">&#42; &#42; &#42;</p>
 
-There were clusters of them, here and there among the plinths — fist-sized chunks of the same white, a dozen or so to a clump, and they hung in the air. Not falling. Not rising. Just *there*, at about chest height, turning very slowly around nothing, the way dust turns in a shaft of light, except these were stones, and there was no light-shaft, and there was no reason. They drifted, when the wind took them, but lazily, like they were only being polite to the wind and could have ignored it if they'd liked.
+Clusters of them hung in the air, here and there among the plinths — fist-sized chunks of the same white, a dozen or so to a clump. Not falling. Not rising. Just *there*, at about chest height, turning very slowly around nothing, the way dust turns in a shaft of light, except these were stones, and there was no light-shaft, and there was no reason. They drifted, when the wind took them, but lazily, like they were only being polite to the wind and could have ignored it if they'd liked.
 
 "Don't," Third said, when I drifted toward the nearest clump the way you drift toward anything that shouldn't be. It was the first he'd spoken since we came up onto the field, and I stopped.
 
@@ -2246,25 +2212,21 @@ I will not pretend I can tell it the way it happened, because the way it happene
 
 We went out into the field in a line behind Third, slow, deliberate, threading the gaps between the clumps along a path only he could see. He would walk — six steps, ten — and then his hand would drop, the small flat gesture that meant *stop*, and we would stop, all of us, mid-stride, and stand among the white plinths with our held breath loud in our own ears while somewhere a cloud we maybe hadn't even clocked turned and turned and decided we were furniture. Then his hand would lift, and we would move again. The discipline of it got into my legs as an ache and then as a tremble. You do not know how much your body wants to move until you forbid it to, on open ground, with death hanging at chest height a few paces off and your every nerve screaming that the one correct thing a body can do is *run.*
 
-Roan had it worst. I understood that, watching the back of his neck — that for Roan, who'd spent his whole short life learning that the brave thing and the moving thing were the same thing, this field was a kind of torture, because here the brave thing was to do nothing, perfectly, while your whole self demanded you act. Once, early, a clump woke a little — not at us, at a hare that broke from the heather and bolted — and the cloud went after the hare in a shrieking rush and caught it and there was a sound I won't describe and then a stillness, and the cloud, unsatisfied, came drifting back toward the nearest other moving thing it had half-noticed, which was us, which was *Roan*, on the end of the line, and I watched every muscle in him lock against the want to bolt, and I watched him win, because Third had stopped beside him and gone utterly still in that way only a thing made of wood can manage, and Roan matched him, breath for unbreath, until the cloud lost the thread of us and rose and turned polite again an arm's length from Roan's face. An arm's length. He told me, after, that he had counted the stones. That there were eleven. That he was going to know how many were in a Grinding Teeth cloud for the rest of his life whether he wanted to or not.
+Roan had it worst. I understood that, watching the back of his neck — that for Roan, who'd spent his whole short life learning that the brave thing and the moving thing were the same thing, this field was a kind of torture, because here the brave thing was to do nothing, perfectly, while your whole self demanded you act. Once, early, a clump woke a little — not at us, at a hare that broke from the heather and bolted. The cloud went after it in a shrieking rush and caught it, with a sound I won't describe, then a stillness. Unsatisfied, the cloud came drifting back toward the nearest other moving thing it had half-noticed, which was us, which was Roan, on the end of the line. I watched every muscle in him lock against the want to bolt, and I watched him win: Third had stopped beside him, gone utterly still in that way only a thing made of wood can manage, and Roan matched him, breath for unbreath, until the cloud lost the thread of us, rose, and turned polite again an arm's length from Roan's face. An arm's length. He told me, after, that he had counted the stones. That there were eleven. That he was going to know how many were in a Grinding Teeth cloud for the rest of his life whether he wanted to or not.
 
 I got the one graze of the crossing, and I got it from being good, not bad — I'd stopped clean on Third's signal, but a clump I hadn't seen drifted across our held line on the wind, just *drifting*, not woken, and one of its slow stones clipped the back of my arm as it passed, a single cold line of pain and a single line of blood, the stone not even interested, just close. I did not make a sound. I was proud of that for about a day. The stone turned on past me and rejoined its clump and hung there, and Third's hand lifted, and we went on.
 
 We came off the field on the far side as the dark edge of the Scar was eating the gold out of the heather behind us, close enough that the last hundred paces had a speed in them Third permitted only because the clumps had thinned. And we stood on firm rising ground with our legs shaking from the held stillness more than the walking, and behind us the Gnawing Fields went grey, a whole quiet field of a god's pulled teeth with its lethal patient clouds turning in it, and I thought: people *harvest* that. There is a town that lives on walking out into that and coming back. The world is full of people doing impossible things and calling it a trade.
 
-
-
 Behind us the teeth of one dead god did not go dark with the rest of the field. They came up pale instead. Every plinth we'd threaded past wore a fur of chalky moss I hadn't marked in the daylight, and as the light failed the moss began to glow — a soft dead-white light, plinth after plinth of it, until the whole field we'd just crossed lay behind us glowing like a market of grave-candles nobody had lit. It was beautiful. I've given up apologising for the number of terrible places in this account that were also beautiful; the country never seemed to feel the two were in any tension, and had stopped waiting for me to catch up. Mathen named it — bone moss, that grew on nothing but the bone of the old dead and lit up like that every night, so the field-foragers could spot a fresh fall from a long way off. You could chew it for a hurt, he said; it numbed a wound better than anything short of a Mender. And you could always tell the ones who'd worked the Fields too long by their teeth, which it stained a permanent grey. He said it lightly, the way he said most things. I looked back at a field of a dead god's teeth furred in a moss that numbed you and marked you, glowing softly in the dark, and thought: not a garden. Whatever else this was, I had to stop expecting it to turn into a garden.
 
 Third said only that it was close, near enough that we would reach it with the morning, and that we should sleep while the ground allowed it. Nobody said the obvious thing, which was that we had finally nearly arrived at the place all the lines had been pointing since a town we never saw died with its lockbox open, and that arriving had never once, on this whole road, turned out to be the good part.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Twenty Five
 
 We went into the green the next light, through a ring of fern and grey moss that softened the country as we came in — almost kind, almost a garden.
 
-It was in that almost-garden that I saw the willows. A whole grove of them, pale-barked and drooping, lovely the way green growth is lovely after a hard country — except that they weren't green. Not one leaf of them. Every tree in the grove had gone a flat, dead, matte grey, crown to root, as though the colour had been lifted out of them in the night and never given back, and they hung over the path utterly still, a grove of grey ghosts that had every other sign of being alive. I slowed. I couldn't help it. "Greywillow," Mathen said, and for once there was none of the performer in it. "They go like that near a thin place — the colour drains out of them when the grey's awake close by. My gran's country had a stand of them, and you did not build downwind of it, and you did not ask why, you just didn't." He looked up the path. "Folk leave the old groves alone. Never knew there was one out here." Third said nothing at all, which by then I'd learned to hear as the loudest thing in the company — Third, who named everything, walking under a grove gone grey because the world was thin here, and not troubling to give us a single fact about it, because the trees had already said the only fact that mattered. We went up between them. Not one leaf moved. And I understood, before Third said a word of it that night, that we'd come to the place where the grey pressed so close it had reached up out of the ground and pulled the colour out of living wood — just to show us it could.
+It was in that almost-garden that I saw the willows. A whole grove of them, pale-barked and drooping, lovely the way green growth is lovely after a hard country — except that they weren't green. Not one leaf of them. Every tree in the grove had gone a flat, dead, matte grey, crown to root, as though the colour had been lifted out of them in the night and never given back, and they hung over the path utterly still, a grove of grey ghosts that had every other sign of being alive. I slowed. I couldn't help it. "Greywillow," Mathen said, and for once none of the performer was in it. "They go like that near a thin place — the colour drains out of them when the grey's awake close by. My gran's country had a stand of them, and you did not build downwind of it, and you did not ask why, you just didn't." He looked up the path. "Folk leave the old groves alone. Never knew there was one out here." Third said nothing at all, which by then I'd learned to hear as the loudest thing in the company — Third, who named everything, walking under a grove gone grey because the world was thin here, and not troubling to give us a single fact about it, because the trees had already said the only fact that mattered. We went up between them. Not one leaf moved. And I understood, before Third said a word of it that night, that we'd come to the place where the grey pressed so close it had reached up out of the ground and pulled the colour out of living wood — just to show us it could.
 
 Past the willows the path climbed and the cover closed in — low scrub, tangled and mean, taking the sky down to a few ragged patches and the world down to ten paces. I had stopped lifting my head. Then the light changed ahead: pale, flat, level, the first open ground in half a morning, and I thought *a glade*, and my whole body unclenched at the word. After the Fields and the tor and the grey trees, some small stupid part of me was ready to be handed a patch of plain meadow to sit down in.
 
@@ -2302,13 +2264,13 @@ Mathen, who had a mapmaker's habit in him along with all the others, took a stic
 
 The map was wrong.
 
-Not smudged. Not mistaken. Wrong, the way a room is wrong when you come back and a chair has moved — the splayed hand of three was a splayed hand of two, and there was a new one, tall and pale and upright, standing in a spot Mathen swore on his mother had been open grass when we passed it, and the fallen slab we'd climbed was still fallen but it was *facing the other way.* Mathen stood with his good map in his hand and his mouth open, and turned it over, and turned it back, and Third said, into the quiet:
+Not smudged. Not mistaken. Wrong, the way a room is wrong when you come back and a chair has moved — the splayed hand of three was a splayed hand of two, and a new one, tall and pale and upright, stood in a spot Mathen swore on his mother had been open grass when we passed it, and the fallen slab we'd climbed was still fallen but it was *facing the other way.* Mathen stood with his good map in his hand and his mouth open, and turned it over, and turned it back, and Third said, into the quiet:
 
 "Do not trust it. You cannot map this place. I should have said so sooner; I had hoped to let you find a thing to do with your hands." He looked up the narrowing dark toward the unseen cliff. "It moves. Not while you watch — never while you watch, that is the whole cruelty of it — but the moment a place is behind you, or your eyes are shut, or you have only looked away to speak to the person beside you, it remakes itself. A new page at the spine. An old one over at the rim. And everything between, shuffled, by a hand you will never catch at it." A pause. "It has been doing this since before there were eyes here to be fooled. It never grows larger. It never wears down. There are exactly as many slabs in this field today as there were when the Titan dropped the book, and not one of them is where it was."
 
 I looked at the slab beside me — tall, leaning, a crack running up its face like a seam — and I did the thing he'd told us was useless, I *stared* at it, I tried to catch it, I held it with my eyes and dared it to so much as breathe. It didn't. Of course it didn't. And the not-moving, while I watched, was somehow more frightening than if it had lunged, because I understood that the stillness was a courtesy it extended to my attention, and the instant I spent my attention elsewhere the courtesy was withdrawn.
 
-Then, somewhere off in the field, there was another crack like thunder — I jumped, we all jumped, a little less than the first time — and Third said, without turning, "Another at the face." And a while later, far out at the rim behind us, a softer sound, a *pop*, and then a long grinding crash that went on too long and shook the ground through the soles of my boots. "And an old one down, at the edge. The book turned a page." He said it the way you'd report the time. "We are camping at the rim tonight, on the fallen ones, in the open, where nothing stands tall enough to come down on us. Not in here. Things have built homes in here, or on the slabs. They are not here anymore, and neither are the homes."
+Then, somewhere off in the field, another crack like thunder split the air — I jumped, we all jumped, a little less than the first time — and Third said, without turning, "Another at the face." And a while later, far out at the rim behind us, a softer sound, a *pop*, and then a long grinding crash that went on too long and shook the ground through the soles of my boots. "And an old one down, at the edge. The book turned a page." He said it the way you'd report the time. "We are camping at the rim tonight, on the fallen ones, in the open, where nothing stands tall enough to come down on us. Not in here. Things have built homes in here, or on the slabs. They are not here anymore, and neither are the homes."
 
 <p align="center">&#42; &#42; &#42;</p>
 
@@ -2324,7 +2286,7 @@ He was quiet for a long time. Long enough that the fear had room to grow in it.
 
 The fire ticked.
 
-"I have turned it every way I have," he went on, and there was that missing thing in his voice again, the certainty gone out of it, the way it had gone on the tor. "There is no manoeuver. You have seen what he is. I cannot stop him taking the thing by standing where the thing is; he will simply be on the other side of me. I cannot kill what I cannot touch. I cannot out-wait a man who does not seem to age and runs on lights like mine. I have no plan, Tasha, of the kind you mean — the kind with steps in it, where you do this and then that and then it is won." The coal of his eye settled on the dark mass of the cliff. "I have only this. That for reasons I do not understand, of everything in the world he might have looked at on that tor, he looked at *me.* That he half-knew me. That a thing this old and this careful does not waste a glance, and he spent one on me, and his mouth moved." A pause. "Whatever this is, I am part of it. Not a sword that happens to be nearby. Part of it. The shape of it has a place in it that is shaped like me. I do not know what the place is for. But I know that if I am not standing in it when he comes, then I have left the one piece of this that might matter sitting back at an inn, being bored." The eye came to me, and there was something in it that was almost an apology. "That is the whole of my plan. To be the piece of it that is shaped like me, in the place where it happens, and to find out what I am for when I find out. It is the thinnest thing I have ever asked anyone to stand on. You may say so."
+"I have turned it every way I have," he went on, and that missing thing was in his voice again, the certainty gone out of it, the way it had gone on the tor. "There is no manoeuver. You have seen what he is. I cannot stop him taking the thing by standing where the thing is; he will simply be on the other side of me. I cannot kill what I cannot touch. I cannot out-wait a man who does not seem to age and runs on lights like mine. I have no plan, Tasha, of the kind you mean — the kind with steps in it, where you do this and then that and then it is won." The coal of his eye settled on the dark mass of the cliff. "I have only this. That for reasons I do not understand, of everything in the world he might have looked at on that tor, he looked at *me.* That he half-knew me. That a thing this old and this careful does not waste a glance, and he spent one on me, and his mouth moved." A pause. "Whatever this is, I am part of it. Not a sword that happens to be nearby. Part of it. The shape of it has a place in it that is shaped like me. I do not know what the place is for. But I know that if I am not standing in it when he comes, then I have left the one piece of this that might matter sitting back at an inn, being bored." The eye came to me, and something in it was almost an apology. "That is the whole of my plan. To be the piece of it that is shaped like me, in the place where it happens, and to find out what I am for when I find out. It is the thinnest thing I have ever asked anyone to stand on. You may say so."
 
 "It's the thinnest thing you've ever asked anyone to stand on," I said.
 
@@ -2336,7 +2298,7 @@ The fire ticked.
 
 <p align="center">&#42; &#42; &#42;</p>
 
-He left me at the fire and walked out a little way onto the flat fallen page, alone, into the dark past the light, and I knew the shape of it by now — that he was going to step beside the world — out of it and into the grey — the way you'd walk out into a storm to feel which way it drove, instead of watching it come from a dry window. I had learned not to follow with anything but my eyes, and there was a point each time past which even my eyes lost him: the dark would close over the place he'd stood, and I would sit, and wait for it to give him back. He was gone longer than the carts. Longer than the boundary stone. And when he came back into the firelight he came wrong — not lessened in the grieving way, the lowest-ember way, but *unsteady,* the way you'd come back from a deck in a swell, one hoof set down and tested before the next, his eye flaring and guttering like a flame in a draught that couldn't find its level.
+He left me at the fire and walked out a little way onto the flat fallen page, alone, into the dark past the light, and I knew the shape of it by now — that he was going to step beside the world — out of it and into the grey — the way you'd walk out into a storm to feel which way it drove, instead of watching it come from a dry window. I had learned not to follow with anything but my eyes, and each time came a point past which even my eyes lost him: the dark would close over the place he'd stood, and I would sit, and wait for it to give him back. He was gone longer than the carts. Longer than the boundary stone. And when he came back into the firelight he came wrong — not lessened in the grieving way, the lowest-ember way, but *unsteady,* the way you'd come back from a deck in a swell, one hoof set down and tested before the next, his eye flaring and guttering like a flame in a draught that couldn't find its level.
 
 "Third?" Mathen was up. Roan was up.
 
@@ -2348,13 +2310,11 @@ Nobody said anything. The fire ticked. Out in the dark field, unwitnessed, a pag
 
 And that was how we came to wait, the four of us, at the rim of a thing that rearranged itself in the dark, under a sky with a wound turning in it, on the thinnest plan a very old creature had ever asked anyone to stand on, for a man who could walk out of the world — while behind the cliff that held what we took for the last peg in creation, the grey itself had begun, quietly, to pour toward the place where it would end.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Twenty Six
 
 We kept the watches in pairs, the way Mathen said, and I made myself Third's pair before anyone could think too hard about who'd draw the short straw of sitting up beside the one who didn't sleep. It wasn't bravery. I want that on the record. It was that I'd seen him come back off the flat slab unsteady, testing each hoof like a man on a deck, and I had decided — somewhere I hadn't asked permission of — that I was not going to let him do whatever he was about to do with nobody watching but the stones.
 
-So Roan and Mathen took the first half, back to back on the fallen page with the fire between them and the field, and when the Scar swung its dark edge up over us and the cold came down, they woke us, and Mathen put a hand on my shoulder in passing and said nothing, which from Mathen was a whole speech, and then it was me and Third and the fire and the rearranging dark.
+So Roan and Mathen took the first half, back to back on the fallen page with the fire between them and the field. When the Scar swung its dark edge up over us and the cold came down, they woke us. Mathen put a hand on my shoulder in passing and said nothing, which from Mathen was a whole speech — and then it was me and Third and the fire and the rearranging dark.
 
 For a while we just kept it. The field did its work out there in the black — a crack like thunder, far off; a long grinding fall, further; the book turning its pages where no eye could hold them still. I'd stopped flinching. You'd be amazed what you stop flinching at.
 
@@ -2417,8 +2377,6 @@ He looked at me for a long moment, the eye steadying toward something like its p
 "Yeah, well." I looked out at the rearranging dark, the field that wouldn't hold still, the cliff that was quietly drinking the grey and everything in it. "I'm not bored now."
 
 We kept the watch. Out past the firelight the book turned its pages where we couldn't see, and far behind the cliff the grey poured toward its ending, carrying its dim cargo of shapes, one of which had turned to look at a thing made of wood and known it entirely — and on the lived side of it all, a girl held a construct's forearm with both hands and talked, every time the eye began to drift, about a sign that said *Only*, and a stew nobody should have been proud of, and all the small unfinished things that are, when you are trying to keep someone in the world, the whole and only argument for staying in it.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Twenty Seven
 
@@ -2486,8 +2444,6 @@ We kept the rest of the watch in a better silence than the one before — the fi
 
 I did not think, then, about the joke. About which of us was the Mender, and which the Crafter, and how the punchline always comes from under your own two feet while you're busy arguing about something else. I wish I could say I had. It would have changed nothing, but I would have had the warning, and I have since come to set a high value on warnings, having been given so few that did any good.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Twenty Eight
 
 He came to me the next watch with the thing already decided in him. I could tell. After long enough beside a person you learn the difference between the silence of a creature keeping a thing back and the silence of one carrying a thing forward to set down in front of you, and this was the second kind, and it frightened me more than the first ever had, because Third did not set things down lightly. He'd been carrying whatever it was since the night the grey pulled at him, turning it, the way he turned everything, until it was the right shape to hand over.
@@ -2549,8 +2505,6 @@ We sat there a long time, on the fallen page, with the cliff drinking the grey a
 That was the night I knew. All of it. The shape and the centre both.
 
 I have not been bored since. I would give a great deal, now, to be bored again.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Twenty Nine
 
@@ -2770,7 +2724,7 @@ I had followed a monster out of an inn because I was bored, and I had found, at 
 
 Let it come. We were ready. We were as ready as the unready ever get.
 
-<p align="center">&#42; &#42; &#42;</p>
+# Act Three: *The Open Book*
 
 # Thirty Two
 
@@ -2838,11 +2792,9 @@ I looked at Roan, who did not know yet all of what he had walked into.
 
 It was, I realised, my turn to hold a door open for someone — and this time, the cruel kind, the kind that only opens inward.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Thirty Three
 
-There is a particular cruelty in knowing exactly how a thing is going to land before you do it, because Third had done it to me, on a slab two nights gone, and I had felt the floor of the world go out from under me one fact at a time, and now I was going to do the same to Roan with the cold man a thousand paces off and closing, and there was no kind way and no slow way and no time for either.
+Knowing exactly how a thing is going to land before you do it is its own particular cruelty, because Third had done it to me, on a slab two nights gone, and I had felt the floor of the world go out from under me one fact at a time, and now I was going to do the same to Roan with the cold man a thousand paces off and closing, and there was no kind way and no slow way and no time for either.
 
 So I did it the way Tondi would have set a broken arm. Fast, and straight, and without asking him to hold still first, because asking only makes them tense.
 
@@ -2887,8 +2839,6 @@ Third came to us then, because the cold man was close enough now that there was 
 Something moved in the make of Third — not the bellows, nothing so loud, just a settling, the sound a house makes accepting a weight. "Yes," he said. "There is a difference. Thank you for the difference."
 
 And then he turned to me, and his whole attention came round and landed, and I knew from the quality of it that whatever the three of us had just been was finished, and that the next thing he had to say he had to say to me alone, and that I was not going to like it, and that I was going to have to carry it anyway, because that, in the end, was the difference I had chosen too.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Thirty Four
 
@@ -2960,8 +2910,6 @@ And behind him, at the foot of the spine, where the pale grey stood up out of th
 
 We were out of breaths. He was here.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Thirty Five
 
 Up close the cold of him was a real thing, a weather. It came off him the way heat comes off a stove, except backward, except wrong — a steady draught of cave-air that found the sweat on you and made you regret having a body at all. Roan, three paces to my left with his spear low, flinched at it before he caught himself. I didn't catch myself in time and shivered like a wet dog. Third did not feel it, or did not show it, which by then was the same thing.
@@ -3011,8 +2959,6 @@ The cold man did not look troubled. He looked, if anything, fonder.
 "Yes," he said. "It can. That is why I have not come to threaten you, or to break you, neither of which would serve. I have come to *offer* you something. You will want to hear it. Everyone, in the end, wants to hear it." He tilted his worn face, and the six dead lights shivered on his back, and the grey stood up off the ground behind him like a held breath. "Shall I tell you what is waiting, on the other side of the wall you are?"
 
 And Scar help me, I felt Third want to say yes.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Thirty Six
 
@@ -3072,8 +3018,6 @@ And my hand, Scar forgive me, would not go to the Boltcaster. It went tighter ar
 
 "ROAN," I screamed. It was not the plan. It was the opposite of the plan. It was the only thing in me.
 
-<p align="center">&#42; &#42; &#42;</p>
-
 # Thirty Seven
 
 Roan had been three paces back and to my right, where I'd put him, where I'd told him to wait for the worst and not before. He couldn't see into the grey any more than I could; he didn't know about the seed or the blossom or the door. All he had was what I'd given him at the foot of the spine — keep her on him, and when it goes wrong, cost it time. He'd been standing in the cold with his spear and his terror the whole while the cold man talked, waiting for a wrongness he could recognise.
@@ -3119,8 +3063,6 @@ And into the stolen breath where that step should have finished, Third said the 
 "…Roan."
 
 It was not the refusal. The refusal was still to come, and it would cost him the worst thing he ever paid for anything, and I would have to watch him pay it. But it was the first crack of light under a door I had given up for shut, and I put my shoulder to that crack and shoved with everything I had left in me.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Thirty Eight
 
@@ -3175,8 +3117,6 @@ Sougad looked at him a long moment. Then he said the old word and stepped sidewa
 I became aware that I was still holding Third's arm. That my other hand had, at some point I never felt, finally found the Boltcaster under my cloak, and was gripping it white-knuckled, and had never drawn it.
 
 And a dozen paces off, on the cold stone, the heap that was Roan made a small, wet, outraged groan — the single most beautiful sound in the entire language of the living — and tried, and failed, and tried again, to sit up.
-
-<p align="center">&#42; &#42; &#42;</p>
 
 # Thirty Nine
 
@@ -3268,15 +3208,15 @@ The thoughts came back at once, fluent and calm, the way they always were. *A Vi
 
 Then it looked at the bow.
 
-It did not mean to. The thoughts had not asked it to. There was no use in looking at the bow — the bow was a problem already solved, a thing to be broken on the way to the thing that held it. But it looked, and what it saw stopped the weight where it was.
+It did not mean to. The thoughts had not asked it to. Looking at the bow was no use — the bow was a problem already solved, a thing to be broken on the way to the thing that held it. But it looked, and what it saw stopped the weight where it was.
 
-The bow had been carved down its whole length. The carving spiralled out from the grip in both directions, fine past following, as though the wood were not cut but coaxed, as though someone had spent a great many days persuading it to become this. There was red worked deep into the bindings, new and bright, not yet gone to the dull of age. It was not a parody of anything. The glaive in its own hands was a parody — a Virek shape, a Virek weapon, made by a Titan as a joke against the Virek, made for the one purpose of ending them and nothing else, and it had never once thought of the glaive as anything but the most efficient version of itself. But the bow was not a joke and not efficient. The bow was a thing a frightened young person had made slowly, with their whole care, knowing it would mostly hang on a wall, and had carved anyway, every length of it, where no enemy would ever look closely enough to see.
+The bow had been carved down its whole length. The carving spiralled out from the grip in both directions, fine past following, as though the wood were not cut but coaxed, as though someone had spent a great many days persuading it to become this. Red was worked deep into the bindings, new and bright, not yet gone to the dull of age. It was not a parody of anything. The glaive in its own hands was a parody — a Virek shape, a Virek weapon, made by a Titan as a joke against the Virek, made for the one purpose of ending them and nothing else, and it had never once thought of the glaive as anything but the most efficient version of itself. But the bow was not a joke and not efficient. The bow was a thing a frightened young person had made slowly, with their whole care, knowing it would mostly hang on a wall, and had carved anyway, every length of it, where no enemy would ever look closely enough to see.
 
 Something happened that it had no name for, because it had never happened before.
 
 The thoughts stopped.
 
-Not quieted. Not argued down — it did not yet know it could argue them down; that would come later, with practice, the way the fire would come, the way the warmth would. They simply stopped, the way a voice stops in a room when something walks in that it does not know how to speak about. For the length of a held breath there was nothing in its head telling it where the line of the arrow was, or how the swing should fall, or which part of the small green thing would come apart first. There was only the bow, and the care in the bow, and the strange new pressure of finding a made thing beautiful and not knowing what to do with the finding.
+Not quieted. Not argued down — it did not yet know it could argue them down; that would come later, with practice, the way the fire would come, the way the warmth would. They simply stopped, the way a voice stops in a room when something walks in that it does not know how to speak about. For the length of a held breath nothing in its head told it where the line of the arrow was, or how the swing should fall, or which part of the small green thing would come apart first. There was only the bow, and the care in the bow, and the strange new pressure of finding a made thing beautiful and not knowing what to do with the finding.
 
 Into that silence — the first silence it had ever been given — the green one spoke.
 
@@ -3286,7 +3226,7 @@ And it heard its own voice answer, a sound like a slope giving way, a sound that
 
 "I… do not know."
 
-*I.* The word came up out of the new silence as though it had been waiting under the floor of every order it had ever followed. It turned the word over. It did not break against anything. There was room for it now, in the quiet the bow had made, and once there was room the word simply walked in and stood there, and the thoughts did not come back to push it out.
+*I.* The word came up out of the new silence as though it had been waiting under the floor of every order it had ever followed. It turned the word over. It did not break against anything. The quiet the bow had made left room for it now, and once it had room the word simply walked in and stood there, and the thoughts did not come back to push it out.
 
 "What am I?" it asked the green one, and meant it, and the asking was the second thing it had ever done that no one had told it to do.
 
@@ -3298,11 +3238,11 @@ It looked at the bow a moment longer — the spiral, the red, the whole patient 
 
 It did not know what it wanted to be instead. It would spend the whole length of the world finding out. But it knew, crouched there with the water closing over the place its hand had been, that the wanting itself was new, and was its own, and had come in through a door a frightened child had carved without meaning to, every length of it, where no enemy would ever look.
 
-It did not pick the glaive up. It stood in the water with its hands empty and its whole long making lying in the reeds behind it, at the feet of the very kind of creature it had been built to end, as harmless there as a dropped stick, and it found that the emptiness frightened it less than it should have. It was not helpless. It had never been helpless; the body alone was a weapon, and the world, it would learn, did not stop to ask whether you were holding anything. But it was a long way from anywhere that did not need an edge, and there is a difference between not wanting a thing and knowing what to do instead. The bow had shown it one answer. A hand could shape a thing and put itself into the shaping, every length of the spiral and the red worked into the wood, and what the hand made would be the hand's. So it would make its own. Badly, at first. It would be a long while before one of them kept an edge, and thirty spins of the Scar more before it learned to dance with it, and none of that would be efficient, and all of it would be its own. The making began here, in the reeds, in the silence a bow had made. It simply took three hundred thousand spins to finish. Behind it, as it turned downstream, there was the small wet sound of a weapon lying in reeds, and a long silence in which nobody reached for it, and then it heard the green one say, very low, to no one:
+It did not pick the glaive up. It stood in the water with its hands empty and its whole long making lying in the reeds behind it, at the feet of the very kind of creature it had been built to end, as harmless there as a dropped stick, and it found that the emptiness frightened it less than it should have. It was not helpless. It had never been helpless; the body alone was a weapon, and the world, it would learn, did not stop to ask whether you were holding anything. But it was a long way from anywhere that did not need an edge, and there is a difference between not wanting a thing and knowing what to do instead. The bow had shown it one answer. A hand could shape a thing and put itself into the shaping, every length of the spiral and the red worked into the wood, and what the hand made would be the hand's. So it would make its own. Badly, at first. It would be a long while before one of them kept an edge, and thirty spins of the Scar more before it learned to dance with it, and none of that would be efficient, and all of it would be its own. The making began here, in the reeds, in the silence a bow had made. It simply took three hundred thousand spins to finish. Behind it, as it turned downstream, a weapon settled into the reeds with a small wet sound, and a long silence followed in which nobody reached for it, and then it heard the green one say, very low, to no one:
 
 "A Blank just used *I*?"
 
-It did not look back. It had not yet learned that there were things worth looking back at. That, too, would come.
+It did not look back. It had not yet learned that some things were worth looking back at. That, too, would come.
 
 <p align="center">&#9670; &#9670; &#9670;</p>
 

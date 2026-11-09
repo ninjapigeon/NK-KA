@@ -41,5 +41,3 @@ He said: someone willing to ask how soon.
 I started the morning routine — shutters, stove, stew selection — and did not think about the fact that there was a Titanspawn Forged — I didn't have that word for him yet — sitting in the corner of my inn wearing its worn cloak, and watching me with one blue eye.
 
 I was not thinking about it very hard.
-
-<p align="center">&#42; &#42; &#42;</p>

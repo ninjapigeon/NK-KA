@@ -125,5 +125,3 @@ It was, I would understand much later — when I knew more than I wanted to and 
 "We should keep moving," he said, before I could find the shape of any of it. "We are losing the light. And I find I would like to be off this road before dark, today, more than I usually do."
 
 He didn't say why. I didn't ask. We walked on anti-spinward down the swept and watched-over road, the three of us together, and I did not learn for a long time what he had carried across it, or that he had carried it at all.
-
-<p align="center">&#42; &#42; &#42;</p>

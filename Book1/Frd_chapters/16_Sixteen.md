@@ -113,5 +113,3 @@ It was Mathen who spoke first, which was right, because Mathen always spoke firs
 Third made a sound that was not quite a laugh, from somewhere inside the bellows of his chest. It was the first time I had heard him make that sound.
 
 "Yes," he said. "It was."
-
-<p align="center">&#42; &#42; &#42;</p>

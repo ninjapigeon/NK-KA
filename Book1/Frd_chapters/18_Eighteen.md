@@ -147,5 +147,3 @@ I know now. I am telling it. That is the only thing I can do with it — the thi
 You make more than one person carry the thing.
 
 So that it doesn't all rest on him.
-
-<p align="center">&#42; &#42; &#42;</p>

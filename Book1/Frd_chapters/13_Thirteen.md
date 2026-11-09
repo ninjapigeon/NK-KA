@@ -113,5 +113,3 @@ Third was quiet for a long moment, the ember of his eye steady on the singing tr
 I slept. I did not know what geysers meant yet, or who we'd find there, or that the warm part of whatever Third had gone into had an end he hadn't shown me. I only knew that he had gone somewhere good and come back lessened, and that the two facts sitting together bothered me more than either would have alone, and I carried that small wrongness down into sleep and did not solve it.
 
 I wouldn't solve it for a long time.
-
-<p align="center">&#42; &#42; &#42;</p>

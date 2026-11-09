@@ -103,5 +103,3 @@ He glanced up the long bare run of the road, and then — quickly, the way you t
 "He is wise," was all Third said. Then he shouldered back into his cloak, and we walked on, anti-spinward, down the centre of a road that held a whole forest at arm's length on either side, under a sky with a wound rotating slowly across it, surrounded at a distance by black mountains with clouds that were *not* feeding on the forests below them.
 
 Behind us the camp grew small — the carts, the smoke, the strung washing, the Hin lifting one broad hand without looking up from his weighing — and then the ramp grew small too, and then there was only the road, running straight as a drawn line toward the place none of us could see yet: bare and patient and wholly indifferent, holding the green world off its back as it had long before us, and meaning to long after.
-
-<p align="center">&#42; &#42; &#42;</p>

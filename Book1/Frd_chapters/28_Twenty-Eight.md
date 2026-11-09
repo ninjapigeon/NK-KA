@@ -59,5 +59,3 @@ We sat there a long time, on the fallen page, with the cliff drinking the grey a
 That was the night I knew. All of it. The shape and the centre both.
 
 I have not been bored since. I would give a great deal, now, to be bored again.
-
-<p align="center">&#42; &#42; &#42;</p>

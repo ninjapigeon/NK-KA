@@ -55,5 +55,3 @@ I had a breath. Perhaps two.
 And my hand, Scar forgive me, would not go to the Boltcaster. It went tighter around his empty arm instead, because he was my friend and he was walking away from me into the arms of his dead and the thing I had sworn to do in this exact moment was the one thing my whole body refused to do.
 
 "ROAN," I screamed. It was not the plan. It was the opposite of the plan. It was the only thing in me.
-
-<p align="center">&#42; &#42; &#42;</p>

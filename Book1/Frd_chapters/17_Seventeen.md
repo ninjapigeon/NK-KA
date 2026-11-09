@@ -137,5 +137,3 @@ I took one last look back at the lockbox lid through the broken wall, lying wher
 "Let's go," I said.
 
 Third was already at the gate.
-
-<p align="center">&#42; &#42; &#42;</p>

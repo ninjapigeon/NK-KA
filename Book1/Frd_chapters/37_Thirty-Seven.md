@@ -43,5 +43,3 @@ And into the stolen breath where that step should have finished, Third said the 
 "…Roan."
 
 It was not the refusal. The refusal was still to come, and it would cost him the worst thing he ever paid for anything, and I would have to watch him pay it. But it was the first crack of light under a door I had given up for shut, and I put my shoulder to that crack and shoved with everything I had left in me.
-
-<p align="center">&#42; &#42; &#42;</p>

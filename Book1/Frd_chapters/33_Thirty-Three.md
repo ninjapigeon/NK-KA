@@ -45,5 +45,3 @@ Third came to us then, because the cold man was close enough now that there was 
 Something moved in the make of Third — not the bellows, nothing so loud, just a settling, the sound a house makes accepting a weight. "Yes," he said. "There is a difference. Thank you for the difference."
 
 And then he turned to me, and his whole attention came round and landed, and I knew from the quality of it that whatever the three of us had just been was finished, and that the next thing he had to say he had to say to me alone, and that I was not going to like it, and that I was going to have to carry it anyway, because that, in the end, was the difference I had chosen too.
-
-<p align="center">&#42; &#42; &#42;</p>

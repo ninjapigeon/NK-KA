@@ -79,5 +79,3 @@ I looked at the side of his ruined patient ancient face, the coal of his eye wat
 I lay down. I did not sleep for a long while. Out past the fire, in the dark, Third stood his watch — and now and then, by signs I had only lately learned to read, he was not standing it at all: gone a breath beside the world, in the grey, with her, whoever she had been, and back before the fire could miss him. Getting the warm part while he still could.
 
 I'd begun to see him. That was the thing about that night. Not all of him. But I'd stopped looking away, and you only get to look away the first time for free.
-
-<p align="center">&#42; &#42; &#42;</p>

@@ -51,5 +51,3 @@ Sougad looked at him a long moment. Then he said the old word and stepped sidewa
 I became aware that I was still holding Third's arm. That my other hand had, at some point I never felt, finally found the Boltcaster under my cloak, and was gripping it white-knuckled, and had never drawn it.
 
 And a dozen paces off, on the cold stone, the heap that was Roan made a small, wet, outraged groan — the single most beautiful sound in the entire language of the living — and tried, and failed, and tried again, to sit up.
-
-<p align="center">&#42; &#42; &#42;</p>

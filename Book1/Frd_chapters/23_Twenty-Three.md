@@ -39,5 +39,3 @@ He had told it so that it would go on being told. So that whoever it was out pas
 "It is a good one," I said, when the quiet had gone on long enough to start to hurt. "Your story. The true one. It's a good one, Third."
 
 "It is the good part," he said. And he put another piece of wood on the fire, though the fire did not need it, and we sat with it a while, the four of us and the maybe-fifth, in the singing nothing where the leaves would have been if there'd been a tree, before Mathen cleared his throat and started, very gently, on one of his own.
-
-<p align="center">&#42; &#42; &#42;</p>
