@@ -46,7 +46,7 @@ Where the green ones had been — on the wall beside him, in the yards below, in
 
 For one held instant, the whole village stood and looked at itself, pale beside green, and saw.
 
-Then it began. Not a battle — there was no battle in it, no sides drawn, only the oldest recognition there is, every pale one seeing the green one that had been the rest of it and every green one seeing the pale, and the seeing being unbearable, and the unbearable becoming, in the space of a breath, hands and teeth and the wall-logs torn loose for clubs. It began everywhere at once. It began the way the veins had come, as if it had always been there under the skin of these people and the flash had only made it show.
+Then it began. Not a battle — no battle in it, no sides drawn, only the oldest recognition there is, every pale one seeing the green one that had been the rest of it and every green one seeing the pale, and the seeing being unbearable, and the unbearable becoming, in the space of a breath, hands and teeth and the wall-logs torn loose for clubs. It began everywhere at once. It began the way the veins had come, as if it had always been there under the skin of these people and the flash had only made it show.
 
 "Liwon," Third said.
 
@@ -66,7 +66,7 @@ They were one child. They were the halves of one child, sundered the way the woo
 
 The green one broke first. It scrambled up the wreck of Zala's furniture and went out the high window into the dark, fast, low, the way the thoughts had always told Third the green ones moved, and Third took one step after it —
 
-— and outside there was a shout, a bright triumphant boy's shout, and then a wet sound, and the shout turned to laughter, and Third knew without going to the window that one of the pale ones had found the green child in the dark and done to it what pale and green were going to be doing to each other from this night until the end of the world.
+— and outside a shout rang out, a bright triumphant boy's shout, and then a wet sound, and the shout turned to laughter, and Third knew without going to the window that one of the pale ones had found the green child in the dark and done to it what pale and green were going to be doing to each other from this night until the end of the world.
 
 He turned back to the one on the floor.
 
@@ -84,7 +84,7 @@ Something in Third broke that he did not have a part to replace.
 
 The blue eyes — the wrong eyes, her eyes — stayed on him a moment, and were uncertain, the way they were uncertain in strange surroundings, and these were the strangest surroundings, this new pale unasked-for self. And then they were not uncertain about anything anymore.
 
-There was a small sound behind him.
+A small sound came from behind him.
 
 Wally stood in the broken doorway. Wally, who had not changed — who could not change, who was not Virek, who was a story and stories do not sunder — Wally stood unchanged in a village where every single soul had been split in two, and he was looking at the pale child on the floor with an expression Third had never seen a Hin wear, because Hin do not, as a rule, have anything in their lives that a true thing can hurt.
 

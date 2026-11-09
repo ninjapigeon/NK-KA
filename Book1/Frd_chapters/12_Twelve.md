@@ -4,7 +4,7 @@ We came off the Causeway after travelling it for two days, by one of the corkscr
 
 Then the trees changed.
 
-It wasn't sudden. That was the first wrong thing about it — there was no edge to the place, no line like the held-back margin of the Causeway, no moment you could point to and say *here, it starts here.* The ordinary forest simply thinned and was replaced, tree by tree, the way one word in a sentence gets replaced until you look up and the sentence means something else, and by the time I understood what I was looking at we had been walking in it for some time already, which I did not like, because it meant the place had got in before I noticed the door.
+It wasn't sudden. That was the first wrong thing about it — the place had no edge, no line like the held-back margin of the Causeway, no moment you could point to and say *here, it starts here.* The ordinary forest simply thinned and was replaced, tree by tree, the way one word in a sentence gets replaced until you look up and the sentence means something else, and by the time I understood what I was looking at we had been walking in it for some time already, which I did not like, because it meant the place had got in before I noticed the door.
 
 Every tree was bent the same way.
 
@@ -22,7 +22,7 @@ The trees did not move. I want that on the record, because the whole long day wa
 
 It got into your head through that crack and then it widened the crack.
 
-The thing I have never been able to explain to anyone is how a place with no enemy in it can exhaust you more thoroughly than a fight. By midday — if it was midday; the Scar's light came down grey and even through the canopy and gave us nothing to steer by — Roan had stopped talking entirely and walked with his hand wrapped white-knuckled around the haft of his spear, turning, every few paces, to check the trees behind us. There was nothing behind us. He checked anyway. He could not stop checking, and the checking was eating him, and there was nothing I could say that the place did not immediately turn sour in my mouth before I could say it.
+The thing I have never been able to explain to anyone is how a place with no enemy in it can exhaust you more thoroughly than a fight. By midday — if it was midday; the Scar's light came down grey and even through the canopy and gave us nothing to steer by — Roan had stopped talking entirely and walked with his hand wrapped white-knuckled around the haft of his spear, turning, every few paces, to check the trees behind us. There was nothing behind us. He checked anyway. He could not stop checking, and the checking was eating him, and nothing I could say stayed sweet, because the place turned it sour in my mouth before I could say it.
 
 Because it was getting into me too, and it had found the door it wanted.
 
@@ -82,7 +82,7 @@ It was that he had had three hundred thousand spins of practice keeping the door
 
 We came out of it the way we'd gone in, with no edge to mark the leaving, the bent trunks giving way tree by tree to honest crooked ordinary ones, until I looked up and the forest behind us was just a forest and the thing in my head had let go its grip so gently I couldn't say when.
 
-We made camp early, well clear of the last of the bent trees, and none of us suggested going further though there was light left. Roan built the fire too big. I let him. We didn't talk about the things we'd said, but Roan took first watch without being asked, and when I woke in the dark he was sitting close to the coals with his spear across his knees, and he looked over at me, and in the firelight he looked like a child — younger than his spins, young enough that guarding anything seemed a cruel joke to have handed him.
+We made camp early, well clear of the last of the bent trees, and none of us suggested going further though light remained. Roan built the fire too big. I let him. We didn't talk about the things we'd said, but Roan took first watch without being asked, and when I woke in the dark he was sitting close to the coals with his spear across his knees, and he looked over at me, and in the firelight he looked like a child — younger than his spins, young enough that guarding anything seemed a cruel joke to have handed him.
 
 "It wasn't true," he said. "What you said. I mean — it was. But it wasn't the why of it. I don't need someone to tell me I'm brave." He poked the fire. "I need to find out if I am. They turn out to be different things, when you're actually out here. I didn't know that before."
 
