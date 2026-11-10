@@ -56,6 +56,8 @@ The eye stayed on me, and the quality of its stillness shifted in a way I couldn
 
 That was all. Not a name so much as a place in a line, said the way you'd give a count.
 
+I had been bracing for the rest of it. A name arrives with a *he* or a *she* hung on it, the way a coat arrives with a hook; you hear *Tondi* and the other half is already there. I waited for the other half now, and it did not come. Only *Third* stood there in the air, with nothing hung on it.
+
 I looked at Roan. Roan looked at the thing.
 
 "You're the one who told it to come here," I said.

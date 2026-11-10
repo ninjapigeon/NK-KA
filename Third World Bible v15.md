@@ -43,6 +43,11 @@ Applied in this pass:
             means Sougad from ch33 on (never Third).
   TIME      Minutes, seconds and hours are fine in-world (the Scar's fuzzy
             edge takes about five minutes).
+  PRONOUNS  Third is non-binary. Tasha's narration keeps "he" (her word,
+            ch3: "I reached for the nearest word"); Third explains in ch41.
+            "It" belongs to the early chapters; "ser" is a neutral trail
+            honorific. Sections of this Bible that say "he" for Third
+            follow Tasha's convention. See the Style Sheet, section 2.
 
 Developed in collaboration with Claude · May–June 2026
 Consolidates: v.13 → v.14 → v.14 patch 2 → v.14 session patch (June 2026)

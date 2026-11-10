@@ -36,7 +36,7 @@ The cold man considered. "Sougad," he said. "It is the one thing I will give you
 
 "Liwon was not a seed."
 
-Third said it slowly, and I felt the first thing in a long time that was not slack — a tension coming back into the arm under my hand, a man finding, in the dark, the edge of something solid.
+Third said it slowly, and I felt the first thing in a long time that was not slack — a tension coming back into the arm under my hand, someone finding, in the dark, the edge of something solid.
 
 "You say it as if it were a kindness. The seed, the blossom. But she was not a seed. A seed is a thing that is for something else, that has not happened yet, that is only worth what it becomes. Liwon was not for anything. She was small, and afraid of the dark, and entirely herself, already, finished, real. She was not waiting to become beautiful. She was beautiful, and then she was killed, and the killing was real, and the losing was real, and they were the last true things left of her." The gravel was firming back toward stone. "If I take her back as your flower, I agree with you that she was only ever a seed. I let you make her into raw material for a thing that comes later. I unmake the one true thing I have — that she lived, and was hers, and not yours, and not the world's, and not a price. A woman in the snow taught me that, once. I did not understand it until just now, with my daughter holding up her arms."
 

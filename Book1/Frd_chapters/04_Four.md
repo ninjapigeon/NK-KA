@@ -44,7 +44,7 @@ The word being cost her something. I could hear it. But she said it, which was T
 
 "That said," she went on, "some of the townsfolk—" She stopped, reconsidered, and corrected herself with the flat honesty that was the closest thing she had to a personality trait. "Most of the townsfolk will not understand. Would you mind setting yourself somewhere more out of the centre of the room. And—" she looked at the cloak, which was doing its usual poor job. "—covering yourself a bit more thoroughly. Scar's sake."
 
-She did not wait for an answer. She walked to the corner she always sat in, the one with the best light for mending, and she picked up the cup of water I put out for her every morning, and she drank from it, and she almost visibly relaxed. Third looked down at its cloak, considering the problem of how to cover himself better. This required the use of an arm, so it set the Shredder's head down on the nearest table — without any apparent concern for the fact that it was a decapitated head on a table where people would later eat — and began trying to arrange the inadequate cloak into something more adequate.
+She did not wait for an answer. She walked to the corner she always sat in, the one with the best light for mending, and she picked up the cup of water I put out for her every morning, and she drank from it, and she almost visibly relaxed. Third looked down at its cloak — *his* cloak; I was still changing the words over one at a time — considering the problem of how to cover himself better. This required the use of an arm, so it set the Shredder's head down on the nearest table — without any apparent concern for the fact that it was a decapitated head on a table where people would later eat — and began trying to arrange the inadequate cloak into something more adequate.
 
 I put the vegetable down and went over to Tondi, not for conversation, which one did not seek with Tondi, but because there was a tablecloth on the pile of her current projects that was past saving, stained and fraying, not worth the Black it would take to mend.
 
@@ -65,6 +65,18 @@ Klar's whole face changed. He had not yet looked up enough to register the Titan
 "A Shredder head? You don't even—" He was already turning toward the kitchen, already planning. "Let me get a skewer."
 
 And he was gone.
+
+He was back inside a minute with a skewer in each hand, and this time, because the nearest clear table was the one by the corner, he finally looked up.
+
+He looked for a long moment. At the tablecloth. At the hooves. At the one blue eye looking back at him from the place a face should have been.
+
+"Is that a—" He stopped, and tried again the way the very young do, reaching for the plainest sentence available. "He? She?"
+
+"Third," I said.
+
+Klar considered this with the full weight of his 5,100 spins. "Right," he said, and went to put a Shredder on a spit.
+
+It was the most sensible reaction anyone in that town had to Third, then or later, and by some distance the shortest.
 
 I looked at Third, in his corner, under his tablecloth, with his one blue eye, watching the room with the patience of something that had decided this was an acceptable place to be and had no particular feelings about how long it took. I looked at Tondi, mending, her water at her elbow, behaving as though there were not a Titanspawn in her inn.
 

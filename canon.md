@@ -17,6 +17,7 @@ aliases: [world bible, continuity, Anka canon]
 - [stated] Third has cooked for others (Liwon) but never lit a fire for his own benefit — a meaningful continuity distinction.
 - [stated] Third's original armor is "Titan-willed articulated plating," explicitly unrelated to Kef-invented Serpent Scale.
 - [stated] Third runs on two Titan-original pickle-jar-sized (double-wire) containment vessels.
+- [stated] Third is non-binary. Tasha uses he/him by choice and habit and Third confirms it in ch41 ("I am not that… and I am not the other one either… he is the one that has fitted least badly"). Roan (ch2) and Tondi (ch6) say "it" early; Mathen and Waj say "ser"; ch4 has Klar asking "He? She?" and Tasha answering "Third." Book 2: Lujian narrates, avoids pronouns for the first days and settles on "he" (Scene 3 draft): consistent with Book 1.
 - [stated] The Glaive is Titan-made, pale/bone-coloured — not wood; described as "pale blade". Third leaves it at the brook beside the Virek boy on his first day and never retrieves it (ch16, ch40); his weapons thereafter are the self-made Falkas.
 
 ## Materials & technology

@@ -128,6 +128,8 @@ Mathen was quiet a moment. The geysers breathed their red breath behind us.
 
 "A man trying to wake a Titan," he said. "And a Forged who's been awake since the last one fell, walking out to stop him." He shouldered his pack. "Ser, I have been looking my whole life for a story worth telling, and you've just told me there's one walking up the road, and you expected me to let it walk off without me?" He fell in beside Roan as if the matter were long settled. "I'd never forgive myself. And I'm a *terrible* audience for my own regrets, you'll find."
 
+*Ser* is a trail word — the one you give anyone you've decided to be polite to without deciding anything else about them. Mathen handed it out like bread. I noticed Third let it stand, and later I understood why: it was the only word anyone had offered that didn't ask a question.
+
 And that was how Mathen came among us — not because Third sought a companion, and not because anything was written, but because some people, shown the edge of a thing too big to refuse, simply step over it and ask what's for supper.
 
 I caught Third watching him go ahead with Roan, the two of them already arguing amiably about something. The glow of his eye was steady, ordinary, unreadable. But he stood a moment before he followed, and I'd learned to notice when Third stood a moment.

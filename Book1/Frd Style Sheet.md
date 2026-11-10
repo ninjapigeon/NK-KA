@@ -50,6 +50,7 @@ These are deliberate and pervasive. A grammar checker will flag every one of the
 - **Repeated tics as characterisation:** *“I’m good at not thinking about things”*; *“I want that on the record”*; *“You only get to … for free the first time.”* Intentional callbacks — do not vary for elegance.
 - **Child and dialect speech** is spelled as heard (Wally in ch13: *“wif,” “sumfin,” “leefs,” “breaving”*; Mathen’s *“m’self”*). Leave.
 - **Sougad’s crossing word is never written out.** The text says *“an old word”* / *“the other old word”* (ch19, ch36, ch38). Do not supply the word.
+- **Third’s pronouns.** Third is non-binary. Tasha’s narration says *he/his* for Third by choice and habit (ch3: *“nobody gave me that one; I reached for the nearest word”*), and Third explains in ch41 (*“I am not that… and I am not the other one either… *he* is the one that has fitted least badly”*). Do not “correct” the *he* and do not swap in *they*: the point is that Tasha reached for the nearest word and Third let her. *It* survives only in the early chapters (Roan in ch2, the narration’s deliberate wobble in ch4, Tondi in ch6). *Ser* is a neutral trail honorific (ch14 gloss). Do not liken Third to “a man” in similes; use *you / someone / hands* instead. Lujian’s generic *they* for the lost child (Editorial Report) and *they* for Waj (ch41) stay.
 
 ### 2a. The reverence-tic — **the most important “do not fix”**
 

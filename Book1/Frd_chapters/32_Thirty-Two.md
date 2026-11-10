@@ -38,7 +38,7 @@ I'd promised to watch him and I watched him, and what I watched was a slow leani
 
 He knew what I was asking. We had made it a drill on the slab two nights back — that if the pull got into him I was to make him *talk,* because the part of him that talked to me was the part that was still walking to the cliff to stop a thing, and not the part that wanted to lie down in the warm and be known.
 
-"I am Third," he said, and the avalanche of it steadied as he said it, the way a man's hands steady on a rope he has remembered he is holding. "I am going to the spine to refuse him. I will not be made willing. You will not believe the version of me that begs. There is a girl named Tasha walking on my left who is going to be the whole of my will if my own gives out, and a guardsman on my right who has chosen the people over the sense, and they are mine, and they are *here,* and that is more true than anything that wall is going to offer me." A pause. The cant of him eased, a degree. "Thank you. Ask me again when I go quiet."
+"I am Third," he said, and the avalanche of it steadied as he said it, the way hands steady on a rope you have remembered you are holding. "I am going to the spine to refuse him. I will not be made willing. You will not believe the version of me that begs. There is a girl named Tasha walking on my left who is going to be the whole of my will if my own gives out, and a guardsman on my right who has chosen the people over the sense, and they are mine, and they are *here,* and that is more true than anything that wall is going to offer me." A pause. The cant of him eased, a degree. "Thank you. Ask me again when I go quiet."
 
 "I will. I'll ask you the whole way."
 

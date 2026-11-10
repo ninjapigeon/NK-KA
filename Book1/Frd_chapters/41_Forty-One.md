@@ -38,6 +38,18 @@ And at the edge of the failing light, where the dark started past the last lante
 
 I saw. I didn't say so, because some seeing is bigger than the saying of it, and he knew anyway.
 
+I had been carrying a smaller thing beside the large ones, and the floor was moving and the worst was behind us, so I set that down too.
+
+"I've called you *he* since the mill," I said. "I never asked."
+
+"No." The coal of the eye considered me. "You reached for the nearest word, the way people do. It is a decent word. It has mostly been said to me kindly, and I have answered to it." A pause, level and dry. "But I am not that, Tasha, and I am not the other one either. I was never handed either. That is not the wood talking — the wood has no opinion. I do. I have tried them both, over the spins, the way you try a coat, and *he* is the one that has fitted least badly."
+
+"That isn't an answer."
+
+"It is most of one. The rest is that I do not mind which near word you reach for, so long as it is a person's." The eye tilted, a degree. "If you ever find a better one, bring it to me. I would like to be told." A beat. "Until then, say *he.* It is your word, and I have worn it a long time without it coming off."
+
+I thought about that until the lanterns went out. I decided it wasn't permission. It was nearer to being trusted with something.
+
 So that is the end of it, or the end of the part I was there for. We rode out of the bad country on an inn that flew. Roan mended, mostly, and limps on the other leg now, which he says makes him symmetrical and which Mathen would have got a hundred spins of drinks out of, and we say so, often, because that is how you keep a man who liked drinks. Third went on, of course. There is always another peg, another patient thing, another door that might wake; and there is, he says, the matter of leaving behind people, which is the only argument he has found that beats *I am very patient*, and which he intends to keep making with his whole long life. He left the Boltcaster on the hill. He kept the Falkas. He keeps the hole.
 
 And me — I am telling you this. That is the part I have left to do, and I have come to think it is not a small one. Mathen said a story is how you get more than one person to carry the weight, so it doesn't all rest on the one. I didn't understand him then. I was wiping tables. I understand him now, on a floor that moves, with the lanterns down and someone small at the edge of them for as long as I keep the telling going: I am carrying. That is what this is. Every name I say keeps a door open the width of a finger and holds it there.

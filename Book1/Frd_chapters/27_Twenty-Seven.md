@@ -26,7 +26,7 @@ Roan, despite himself, huffed a small laugh. Mathen said nothing, watching Third
 
 "Please," said Mathen, and there was no mockery in it at all.
 
-Third set down, deliberately, the thing he'd been holding without my noticing he'd taken it out — the Boltcaster, Dorn's Boltcaster, the squat ugly wooden thing he carried and never loaded — laid it across his knees like a man laying out a friend's coat. And he told the joke.
+Third set down, deliberately, the thing he'd been holding without my noticing he'd taken it out — the Boltcaster, Dorn's Boltcaster, the squat ugly wooden thing he carried and never loaded — laid it across his knees the way you'd lay out a friend's coat. And he told the joke.
 
 "A Mender and a Crafter are arguing over whose work matters most, and because it is the day of the local children's festival, they decide to settle it the way children settle things: hide and seek. Whoever is found last matters most. They both run for an old bridge, because it is the only good hiding place for a thousand paces in any direction, but there is only room for one under it, so they crouch together in the dark, elbow to elbow. 'Who's counting?' whispers the Mender. 'I thought you were,' whispers the Crafter. 'Counting is mending. You put the numbers back in order.' 'Counting is making. You make each number out of the last.' And they are off again, in hisses, mending against making, making against mending, so absorbed that neither of them notices that somewhere a long way down, slow and patient, a count has been going on. Ninety-eight. Ninety-nine. One hundred."
 

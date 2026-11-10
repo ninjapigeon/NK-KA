@@ -115,6 +115,8 @@ The eye stayed on me, and the quality of its stillness shifted in a way I couldn
 
 That was all. Not a name so much as a place in a line, said the way you'd give a count.
 
+I had been bracing for the rest of it. A name arrives with a *he* or a *she* hung on it, the way a coat arrives with a hook; you hear *Tondi* and the other half is already there. I waited for the other half now, and it did not come. Only *Third* stood there in the air, with nothing hung on it.
+
 I looked at Roan. Roan looked at the thing.
 
 "You're the one who told it to come here," I said.
@@ -143,7 +145,7 @@ I took my coat off. Told myself I'd sleep, and was surprised, after a while, to 
 
 # Three
 
-I found out later what he did while I was asleep. I'm not exactly sure when it stopped being *it* in my head, I only noticed I'd already done it — the way you notice, well after the fact, that you've started calling someone by their first name.
+I found out later what he did while I was asleep. I'm not exactly sure when it stopped being *it* in my head, and I'm less sure when it became *he* — nobody gave me that one; I reached for the nearest word and it stuck — I only noticed I'd already done both, the way you notice, well after the fact, that you've started calling someone by their first name.
 
 When I came around the corner of the mill with my coat still half-buttoned and my eyes not fully decided about being open, he was there. Something about the way he was standing — not the stillness, which was always there, but the quality of it — made me stop walking about a dozen paces out.
 
@@ -231,7 +233,7 @@ The word being cost her something. I could hear it. But she said it, which was T
 
 "That said," she went on, "some of the townsfolk—" She stopped, reconsidered, and corrected herself with the flat honesty that was the closest thing she had to a personality trait. "Most of the townsfolk will not understand. Would you mind setting yourself somewhere more out of the centre of the room. And—" she looked at the cloak, which was doing its usual poor job. "—covering yourself a bit more thoroughly. Scar's sake."
 
-She did not wait for an answer. She walked to the corner she always sat in, the one with the best light for mending, and she picked up the cup of water I put out for her every morning, and she drank from it, and she almost visibly relaxed. Third looked down at its cloak, considering the problem of how to cover himself better. This required the use of an arm, so it set the Shredder's head down on the nearest table — without any apparent concern for the fact that it was a decapitated head on a table where people would later eat — and began trying to arrange the inadequate cloak into something more adequate.
+She did not wait for an answer. She walked to the corner she always sat in, the one with the best light for mending, and she picked up the cup of water I put out for her every morning, and she drank from it, and she almost visibly relaxed. Third looked down at its cloak — *his* cloak; I was still changing the words over one at a time — considering the problem of how to cover himself better. This required the use of an arm, so it set the Shredder's head down on the nearest table — without any apparent concern for the fact that it was a decapitated head on a table where people would later eat — and began trying to arrange the inadequate cloak into something more adequate.
 
 I put the vegetable down and went over to Tondi, not for conversation, which one did not seek with Tondi, but because there was a tablecloth on the pile of her current projects that was past saving, stained and fraying, not worth the Black it would take to mend.
 
@@ -252,6 +254,18 @@ Klar's whole face changed. He had not yet looked up enough to register the Titan
 "A Shredder head? You don't even—" He was already turning toward the kitchen, already planning. "Let me get a skewer."
 
 And he was gone.
+
+He was back inside a minute with a skewer in each hand, and this time, because the nearest clear table was the one by the corner, he finally looked up.
+
+He looked for a long moment. At the tablecloth. At the hooves. At the one blue eye looking back at him from the place a face should have been.
+
+"Is that a—" He stopped, and tried again the way the very young do, reaching for the plainest sentence available. "He? She?"
+
+"Third," I said.
+
+Klar considered this with the full weight of his 5,100 spins. "Right," he said, and went to put a Shredder on a spit.
+
+It was the most sensible reaction anyone in that town had to Third, then or later, and by some distance the shortest.
 
 I looked at Third, in his corner, under his tablecloth, with his one blue eye, watching the room with the patience of something that had decided this was an acceptable place to be and had no particular feelings about how long it took. I looked at Tondi, mending, her water at her elbow, behaving as though there were not a Titanspawn in her inn.
 
@@ -1240,6 +1254,8 @@ It was Third who said it, finally, in the flat way he said the things that matte
 Mathen was quiet a moment. The geysers breathed their red breath behind us.
 
 "A man trying to wake a Titan," he said. "And a Forged who's been awake since the last one fell, walking out to stop him." He shouldered his pack. "Ser, I have been looking my whole life for a story worth telling, and you've just told me there's one walking up the road, and you expected me to let it walk off without me?" He fell in beside Roan as if the matter were long settled. "I'd never forgive myself. And I'm a *terrible* audience for my own regrets, you'll find."
+
+*Ser* is a trail word — the one you give anyone you've decided to be polite to without deciding anything else about them. Mathen handed it out like bread. I noticed Third let it stand, and later I understood why: it was the only word anyone had offered that didn't ask a question.
 
 And that was how Mathen came among us — not because Third sought a companion, and not because anything was written, but because some people, shown the edge of a thing too big to refuse, simply step over it and ask what's for supper.
 
@@ -2406,7 +2422,7 @@ Roan, despite himself, huffed a small laugh. Mathen said nothing, watching Third
 
 "Please," said Mathen, and there was no mockery in it at all.
 
-Third set down, deliberately, the thing he'd been holding without my noticing he'd taken it out — the Boltcaster, Dorn's Boltcaster, the squat ugly wooden thing he carried and never loaded — laid it across his knees like a man laying out a friend's coat. And he told the joke.
+Third set down, deliberately, the thing he'd been holding without my noticing he'd taken it out — the Boltcaster, Dorn's Boltcaster, the squat ugly wooden thing he carried and never loaded — laid it across his knees the way you'd lay out a friend's coat. And he told the joke.
 
 "A Mender and a Crafter are arguing over whose work matters most, and because it is the day of the local children's festival, they decide to settle it the way children settle things: hide and seek. Whoever is found last matters most. They both run for an old bridge, because it is the only good hiding place for a thousand paces in any direction, but there is only room for one under it, so they crouch together in the dark, elbow to elbow. 'Who's counting?' whispers the Mender. 'I thought you were,' whispers the Crafter. 'Counting is mending. You put the numbers back in order.' 'Counting is making. You make each number out of the last.' And they are off again, in hisses, mending against making, making against mending, so absorbed that neither of them notices that somewhere a long way down, slow and patient, a count has been going on. Ninety-eight. Ninety-nine. One hundred."
 
@@ -2766,7 +2782,7 @@ I'd promised to watch him and I watched him, and what I watched was a slow leani
 
 He knew what I was asking. We had made it a drill on the slab two nights back — that if the pull got into him I was to make him *talk,* because the part of him that talked to me was the part that was still walking to the cliff to stop a thing, and not the part that wanted to lie down in the warm and be known.
 
-"I am Third," he said, and the avalanche of it steadied as he said it, the way a man's hands steady on a rope he has remembered he is holding. "I am going to the spine to refuse him. I will not be made willing. You will not believe the version of me that begs. There is a girl named Tasha walking on my left who is going to be the whole of my will if my own gives out, and a guardsman on my right who has chosen the people over the sense, and they are mine, and they are *here,* and that is more true than anything that wall is going to offer me." A pause. The cant of him eased, a degree. "Thank you. Ask me again when I go quiet."
+"I am Third," he said, and the avalanche of it steadied as he said it, the way hands steady on a rope you have remembered you are holding. "I am going to the spine to refuse him. I will not be made willing. You will not believe the version of me that begs. There is a girl named Tasha walking on my left who is going to be the whole of my will if my own gives out, and a guardsman on my right who has chosen the people over the sense, and they are mine, and they are *here,* and that is more true than anything that wall is going to offer me." A pause. The cant of him eased, a degree. "Thank you. Ask me again when I go quiet."
 
 "I will. I'll ask you the whole way."
 
@@ -2998,7 +3014,7 @@ The cold man considered. "Sougad," he said. "It is the one thing I will give you
 
 "Liwon was not a seed."
 
-Third said it slowly, and I felt the first thing in a long time that was not slack — a tension coming back into the arm under my hand, a man finding, in the dark, the edge of something solid.
+Third said it slowly, and I felt the first thing in a long time that was not slack — a tension coming back into the arm under my hand, someone finding, in the dark, the edge of something solid.
 
 "You say it as if it were a kindness. The seed, the blossom. But she was not a seed. A seed is a thing that is for something else, that has not happened yet, that is only worth what it becomes. Liwon was not for anything. She was small, and afraid of the dark, and entirely herself, already, finished, real. She was not waiting to become beautiful. She was beautiful, and then she was killed, and the killing was real, and the losing was real, and they were the last true things left of her." The gravel was firming back toward stone. "If I take her back as your flower, I agree with you that she was only ever a seed. I let you make her into raw material for a thing that comes later. I unmake the one true thing I have — that she lived, and was hers, and not yours, and not the world's, and not a price. A woman in the snow taught me that, once. I did not understand it until just now, with my daughter holding up her arms."
 
@@ -3285,6 +3301,18 @@ And at the edge of the failing light, where the dark started past the last lante
 "He'll be back," Third said, to me, or to the dark, "for as long as it gets told. That is the whole of what he is, now. A thing that is here while it is told." The coal of his eye came round to me. "It is not nothing, Tasha. I spent a long time thinking it was nothing — a thing you could only *almost* keep was the same as a thing you'd lost. It is not the same. I gave up the chance to have my—" and there he stopped, the way he always stopped, and then, because we were on a floor that moved and the worst was behind us, he went on, quietly, the first time he ever said it to me whole: "—to have my daughter. At the cliff. He offered her back and I said no, because the price was the world, and saying no was the hardest thing I have ever done, and I would do it again, and it has left a hole in me the exact size and shape of her that I am going to carry for whatever is left of a very long life." The eye held steady. "But she is not *gone*. That is what the bow taught me, in your mouth, on the road. The boy is gone past all finding and his bow is on a wall being handsome and in someone's way. Unrecognisable is not the same as gone. She is in every story I will not stop telling, and in a green thing somewhere with her eyes that will never know my name, and in the hole itself, which is hers, which I would not trade for a full and easy chest. I lost her. I did not lose *her.* Do you see. I am only now beginning to."
 
 I saw. I didn't say so, because some seeing is bigger than the saying of it, and he knew anyway.
+
+I had been carrying a smaller thing beside the large ones, and the floor was moving and the worst was behind us, so I set that down too.
+
+"I've called you *he* since the mill," I said. "I never asked."
+
+"No." The coal of the eye considered me. "You reached for the nearest word, the way people do. It is a decent word. It has mostly been said to me kindly, and I have answered to it." A pause, level and dry. "But I am not that, Tasha, and I am not the other one either. I was never handed either. That is not the wood talking — the wood has no opinion. I do. I have tried them both, over the spins, the way you try a coat, and *he* is the one that has fitted least badly."
+
+"That isn't an answer."
+
+"It is most of one. The rest is that I do not mind which near word you reach for, so long as it is a person's." The eye tilted, a degree. "If you ever find a better one, bring it to me. I would like to be told." A beat. "Until then, say *he.* It is your word, and I have worn it a long time without it coming off."
+
+I thought about that until the lanterns went out. I decided it wasn't permission. It was nearer to being trusted with something.
 
 So that is the end of it, or the end of the part I was there for. We rode out of the bad country on an inn that flew. Roan mended, mostly, and limps on the other leg now, which he says makes him symmetrical and which Mathen would have got a hundred spins of drinks out of, and we say so, often, because that is how you keep a man who liked drinks. Third went on, of course. There is always another peg, another patient thing, another door that might wake; and there is, he says, the matter of leaving behind people, which is the only argument he has found that beats *I am very patient*, and which he intends to keep making with his whole long life. He left the Boltcaster on the hill. He kept the Falkas. He keeps the hole.
 
