@@ -18,7 +18,7 @@ He had carried it three spins by then, the small green thing in its stolen sling
 
 The child watched him clean himself, and made a sound that was not quite a word and not quite a laugh, and Third went still, because it was the first sound it had made that was aimed *at* him rather than at the indifferent sky, and he did not yet have anywhere to put what that did.
 
-Her name came out of his, in a manner of speaking — out of the only thing he had ever called her. He had no name for her and felt no need of one; she was the child, which was accurate, and accuracy was the whole of what he asked of words in those days. But on the long walks he had taken to talking to her, low, to keep the volume down, and the thing he said most, when he lifted her or settled her or warned her back from an edge, was *little one.* Little one. It was not a name. It was only true.
+Her name came out of his, in a manner of speaking — out of the only name he had ever called her. He had no name for her and felt no need of one; she was the child, which was accurate, and accuracy was the whole of what he asked of words in those days. But on the long walks he had taken to talking to her, low, to keep the volume down, and what he said most, when he lifted her or settled her or warned her back from an edge, was *little one.* Little one. It was not a name. It was only true.
 
 And one day, reaching up at him from the sling with both green hands, pleased with herself, she gave it back to him in the shape her mouth could manage: "Li-wan."
 
@@ -32,7 +32,7 @@ Wally came out of the stories.
 
 Third should have expected it, having memory of the Hin from before, having known in some flat archived way that a tale told often enough and meant hard enough will, on Anka, sometimes get up and walk. But knowing a thing as fact is not the same as turning from the fire one evening to find that the fact has acquired a face.
 
-And a beard. It had started because Liwon would not sleep, and Third had no songs — songs were not in him — so he told her instead the only stories he had, which were the things he knew: the trees, the weather, the shapes of the dangerous world. He told them as stories because she would not take them as warnings. He gave the Shard trees a voice and the Squid trees a temper and the sleep-breathing shrubs a sly cowardice, and he told her the same ones over and over because she demanded the same ones over and over, and somewhere in the thirtieth-plus spin of this a small person was sitting at the edge of the firelight listening too.
+And a beard. It had started because Liwon would not sleep, and Third had no songs — songs were not in him — so he told her instead the only stories he had, which were what he knew: the trees, the weather, the shapes of the dangerous world. He told them as stories because she would not take them as warnings. He gave the Shard trees a voice and the Squid trees a temper and the sleep-breathing shrubs a sly cowardice, and he told her the same ones over and over because she demanded the same ones over and over, and somewhere in the thirtieth-plus spin of this a small person was sitting at the edge of the firelight listening too.
 
 He was about Liwon's height, which is to say small, and he had the look of someone who had always been there, and he was already laughing at the part of the Squid-tree story that Liwon always laughed at, on cue, as though he had heard it as many times as she had, which — Third came to understand — in every way that mattered, he had.
 
@@ -80,7 +80,7 @@ She ran to the Virek children now, not to him. She learned their words faster th
 
 "I tell it now. I tell it right." A pause. "She says mine isn't as good." Wally seemed to find this satisfactory in a way Third was slow to follow. "She means yours. She means she wants *yours.* She just doesn't know that's what she means yet."
 
-Third sat with that a while, on the wall he was permitted to walk now, an honorary warden of a village of the people he'd been forged to end, watching the dark for the things that came out of it.
+Third sat with that a while, on the wall he was permitted to walk now, an honorary warden of a village of the people he'd been forged to end, watching the dark for whatever came out of it.
 
 "It is as it should be," he said, at last. He had decided to believe it. He had given her a place to be still in, which was the one gift he had never been able to give her himself, and a people whose hands knew her, and a future that did not move every dawn. That it cost him the degree of warmth he had only just learned he could hold — that was a fair price, and he was, he told himself, content to have paid it.
 

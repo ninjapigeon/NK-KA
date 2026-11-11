@@ -10,7 +10,7 @@ What I kept coming back to was the weapon. Slung across its back, under the fail
 
 "You don't use that," I said, before I'd decided to. I nodded at the weapon. "The Boltcaster. You've had a blade in your hand twice since you got here and that thing hasn't come off your back once."
 
-For a moment I thought I'd asked the wrong thing, in the way you can feel a wrong question land before anyone tells you it was wrong.
+For a moment I thought I'd misstepped, in the way you can feel a wrong question land before anyone tells you it was wrong.
 
 "No," it said. "I do not use it."
 

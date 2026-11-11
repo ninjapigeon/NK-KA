@@ -4,7 +4,7 @@ The carts had been on the road a long time.
 
 There was a pile of them, hand-carts of the kind the Hin trader had, overturned and dragged half across the road and left — not recently, the wood gone grey and splitting, smell of it long gone, so that the mind doubted they were really there at all, one wheel still turning a slow finger's-width back and forth when the wind found it. Whatever had happened here had happened to people going the other way, spinward, toward the town and the trader and the ordinary world, and had happened all at once, the way the bad things on this road seemed to.
 
-"Pulled across, deliberate," Roan said, crouching at the nearest. He'd got better at this — at reading a scene before walking into it, at not touching the first thing his hands wanted to touch. "Like a barricade. Someone tried to make a wall of them."
+"Pulled across, deliberate," Roan said, crouching at the nearest. He'd got better at this — at reading a scene before walking into it, at not touching whatever his hands wanted to touch first. "Like a barricade. Someone tried to make a wall of them."
 
 "It didn't work," I said.
 
@@ -42,7 +42,7 @@ And he was somewhere else, and it was long ago, and the things thrown down aroun
 
 The village had been small. He understood that the way he understood everything in those first spins of his thinking — as information, arriving flat and complete, with no one yet home behind it to be moved by it. Small village. Virek. Perhaps forty dwellings, the woven-wall kind the green ones favoured, most of them open now, their walls broken outward.
 
-His single eye moved across it and lit what it found. Blood on a wall, dark and dried at the edges, fresh and wet at the centre, pooled below the nearest body. The body was Virek and had been for a long time and would not be much longer; already the green was going grey. There were a great many bodies. He had counted them before he chose to, the count arriving the way the smallness of the village had arrived, unbidden and exact, and he made himself stop knowing the number because the number had begun to feel like a thing he should not be holding so lightly.
+His single eye moved across it and lit what it found. Blood on a wall, dark and dried at the edges, fresh and wet at the centre, pooled below the nearest body. The body was Virek and had been for a long time and would not be much longer; already the green was going grey. There were a great many bodies. He had counted them before he chose to, the count arriving the way the smallness of the village had arrived, unbidden and exact, and he made himself stop knowing the number because the number had begun to feel like a weight he should not be holding so lightly.
 
 His hand held a glaive. The blade was wet.
 
@@ -52,7 +52,7 @@ He looked at the blade for a long time.
 
 There was an arrow in his garb, high on the shoulder, driven through the woven cords that served him for muscle and stopped by the wood beneath. It was a clean arrow, unfired-looking, absurd. And the blood on the cords around it was older than the arrow — he could see that, he could see that the blood had dried before the shaft ever found him, which meant the blood was not from this wound, which meant the blood was from the blade, which meant —
 
-He did not finish the thought. It was the first thing he had ever declined to finish.
+He did not finish the thought. It was the first he had ever declined to finish.
 
 He could not tell. That was the truth of it, then and after and for every spin that would ever come after: he stood in the wreck of a village with a wet blade in his hand and blood on his armour that was not his own and he could not tell whether he had been one of the ones who added to the sea of bodies, or had only arrived in time to stand among it. The others like him had done this. He knew that. He had perhaps done this. He would never know, and the not-knowing would walk in the grey with him forever, and it was walking with him now.
 

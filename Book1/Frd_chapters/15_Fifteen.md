@@ -4,7 +4,7 @@ A party of three has a shape, and the shape is a line. We'd walked it for a tend
 
 Four made a different shape, and Mathen made it on purpose.
 
-He'd worked out by the second morning that the line was a thing to be dismantled, and he went about it the way I'd later learn he went about everything — sideways, cheerfully, and without once announcing what he was doing. He'd fall back and walk with Roan a while and get him talking about the militia, about the town, about the girl Roan never quite named; then he'd drift up and walk with me and ask the kind of question that has no defensible reason not to answer, so that I'd answer it before I'd decided to; then he'd lengthen his stride and pull even with Third, which nobody had done, and just *walk there*, companionable, as if walking beside the oldest thing in the world were a thing a person did.
+He'd worked out by the second morning that the line was something to be dismantled, and he went about it the way I'd later learn he went about everything — sideways, cheerfully, and without once announcing what he was doing. He'd fall back and walk with Roan a while and get him talking about the militia, about the town, about the girl Roan never quite named; then he'd drift up and walk with me and ask the kind of question that has no defensible reason not to answer, so that I'd answer it before I'd decided to; then he'd lengthen his stride and pull even with Third, which nobody had done, and just *walk there*, companionable, as if walking beside the oldest thing in the world were a thing a person did.
 
 By the fourth day the line was gone. We walked in a loose knot that rearranged itself like weather, and there was talk in it, the ordinary unimportant talk that I hadn't known a group could make until I heard ours start making it, and I understood that this was a thing Mathen *did* — that he was, in some way I didn't have a trade-word for, a mender too. Tondi fixed seams. Mathen fixed the spaces between people. He'd just walked into the middle of three strangers and begun quietly stitching them into a company.
 
@@ -64,7 +64,7 @@ Later, when Roan was asleep and Third had stepped off to walk the dark the way h
 
 "You do it to everyone," I said. "Get them talking. I noticed on the road."
 
-"I do." He didn't pretend otherwise. That was a thing about Mathen — he'd lie all night in a story and not at all out of one. "It's a habit. Habits come from somewhere." He turned a stick in the fire. "I had a family of the talking kind. Loud table, everybody at once. I got good at making space in it for the quiet ones, because there was one of us who was quiet, and somebody had to." A beat, the smallest catch in the easy voice, a door I heard close before I'd properly seen it open. "Anyway. Old habit. Cheaper than the alternative."
+"I do." He didn't pretend otherwise. That was Mathen — he'd lie all night in a story and not at all out of one. "It's a habit. Habits come from somewhere." He turned a stick in the fire. "I had a family of the talking kind. Loud table, everybody at once. I got good at making space in it for the quiet ones, because there was one of us who was quiet, and somebody had to." A beat, the smallest catch in the easy voice, a door I heard close before I'd properly seen it open. "Anyway. Old habit. Cheaper than the alternative."
 
 I noticed he'd used Third's phrase. *Cheaper than the alternative.* I wondered if he'd caught it from Third or if Third had caught it from someone like Mathen, a long time ago, and it had been rattling around in him for three hundred thousand spins waiting to come back out.
 
@@ -90,4 +90,4 @@ He watched Mathen make us a company.
 
 And he let him.
 
-That was the thing, looking back — that was the bravest thing I watched Third do on that whole road, and I didn't even see it for what it was at the time. He let Mathen stitch us together, knowing what stitching costs when it tears. He stood a little apart, and counted, and let it happen anyway.
+That was it, looking back — that was the bravest act I watched Third perform on that whole road, and I didn't even see it for what it was at the time. He let Mathen stitch us together, knowing what stitching costs when it tears. He stood a little apart, and counted, and let it happen anyway.

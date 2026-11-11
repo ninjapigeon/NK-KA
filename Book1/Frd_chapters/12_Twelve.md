@@ -16,13 +16,13 @@ Not bent like wind-bent, all leaning from a prevailing weather. Not bent like re
 
 <p align="center">&#42; &#42; &#42;</p>
 
-There is nothing to tell about the Snake Forest, which is exactly the thing that is hard to tell. Nothing happened. Nothing moved. Nothing came out of the green at us with teeth. If you asked me to list the events of the worst stretch of country we crossed in all that journey, I would have nothing to give you but a list of things that did not occur, and the slow unbearable accumulation of them.
+There is nothing to tell about the Snake Forest, which is exactly what makes it hard to tell. Nothing happened. Nothing moved. Nothing came out of the green at us with teeth. If you asked me to list the events of the worst stretch of country we crossed in all that journey, I would have nothing to give you but a list of absences, and the slow unbearable accumulation of them.
 
-The trees did not move. I want that on the record, because the whole long day was a war against the conviction that they had. You would look at one — a particular trunk, its curve, the way it almost made a shape if you held it wrong in your eye — and you would walk, and you would look away to mind your feet, and when you looked back the conviction would be on you cold and total that it had shifted while your eyes were elsewhere, that the curve was at a different angle now, that it had been facing the path and was now facing *you.* And you could not prove it hadn't. That was the engine of the place. You could never prove it hadn't, because you had looked away, and looking away was the one thing a body cannot stop itself doing.
+The trees did not move. I want that on the record, because the whole long day was a war against the conviction that they had. You would look at one — a particular trunk, its curve, the way it almost made a shape if you held it wrong in your eye — and you would walk, and you would look away to mind your feet, and when you looked back the conviction would be on you cold and total that it had shifted while your eyes were elsewhere, that the curve was at a different angle now, that it had been facing the path and was now facing *you.* And you could not prove it hadn't. That was the engine of the place. You could never prove it hadn't, because you had looked away, and looking away was what a body cannot stop itself doing.
 
 It got into your head through that crack and then it widened the crack.
 
-The thing I have never been able to explain to anyone is how a place with no enemy in it can exhaust you more thoroughly than a fight. By midday — if it was midday; the Scar's light came down grey and even through the canopy and gave us nothing to steer by — Roan had stopped talking entirely and walked with his hand wrapped white-knuckled around the haft of his spear, turning, every few paces, to check the trees behind us. There was nothing behind us. He checked anyway. He could not stop checking, and the checking was eating him, and nothing I could say stayed sweet, because the place turned it sour in my mouth before I could say it.
+What I have never been able to explain to anyone is how a place with no enemy in it can exhaust you more thoroughly than a fight. By midday — if it was midday; the Scar's light came down grey and even through the canopy and gave us nothing to steer by — Roan had stopped talking entirely and walked with his hand wrapped white-knuckled around the haft of his spear, turning, every few paces, to check the trees behind us. There was nothing behind us. He checked anyway. He could not stop checking, and the checking was eating him, and nothing I could say stayed sweet, because the place turned it sour in my mouth before I could say it.
 
 Because it was getting into me too, and it had found the door it wanted.
 
@@ -66,7 +66,7 @@ It was perhaps an hour after that, in the worst of the grey afternoon, that I he
 
 I looked up. He was facing forward, the eye on the path, and there was no one he could have been answering.
 
-"No," he said again, quieter, the way you'd answer a thing that had asked the same question many times before and would ask it many more. And then a word I didn't catch, and then nothing, and his hand had closed and opened once at his side, the way Roan's kept closing on his spear.
+"No," he said again, quieter, the way you'd answer something that had asked the same question many times before and would ask it many more. And then a word I didn't catch, and then nothing, and his hand had closed and opened once at his side, the way Roan's kept closing on his spear.
 
 "Third?" I said. "Who are you talking to?"
 

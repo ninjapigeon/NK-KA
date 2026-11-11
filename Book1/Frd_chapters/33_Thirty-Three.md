@@ -26,7 +26,7 @@ He did not bolt. I will love him for that as long as I have left to love anythin
 
 "And I stop him." Flat. Already accepting the impossible arithmetic of it.
 
-"You don't *stop* him. You can't. None of us can. You're not meant to." Third's words, from the drill; I gave them to Roan now because they were the truest thing I had. "You're meant to cost it time. You put your body between me and whatever's coming and you make it spend seconds getting through you. Ten breaths. That's the job. Buy me ten breaths to finish refusing, and you'll have done more than any hero in any of Mathen's stories, and most of them only had to die for a *town.*"
+"You don't *stop* him. You can't. None of us can. You're not meant to." Third's words, from the drill; I gave them to Roan now because they were the truest I had. "You're meant to cost it time. You put your body between me and whatever's coming and you make it spend seconds getting through you. Ten breaths. That's the job. Buy me ten breaths to finish refusing, and you'll have done more than any hero in any of Mathen's stories, and most of them only had to die for a *town.*"
 
 He took that in. Then, the boy in him surfacing one last time before whatever he was about to become: "Will it hurt him? If I have to. Will I hurt Third."
 

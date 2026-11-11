@@ -46,7 +46,7 @@ I picked up the roll. It weighed almost nothing. Hexwood needles were not nothin
 
 So I didn't.
 
-I put the needles in my coat, the inside pocket, the one over the chest, where you keep the thing you cannot afford to lose. And I stood up, because Roan was going to be at the door before first light and I still had not slept, and standing up was the only way the night was going to agree to end.
+I put the needles in my coat, the inside pocket, the one over the chest, where you keep what you cannot afford to lose. And I stood up, because Roan was going to be at the door before first light and I still had not slept, and standing up was the only way the night was going to agree to end.
 
 At the door I stopped. I couldn't help it. I turned around.
 
@@ -70,7 +70,7 @@ I went.
 
 Roan was at the door, as it turned out, just lifting his hand to knock, with the particular look of a man who had also not slept and had decided that arriving early was a way of being brave about it. Behind him the sky had that first grey thinning at the edge of the Scar that meant the dark was an hour from breaking.
 
-I did not look back at the inn as we walked toward the gate. I had looked back once already, at the only thing in there worth looking back at, and she had told me to go, and I was not going to spoil the single clean thing either of us had managed by doing it twice.
+I did not look back at the inn as we walked toward the gate. I had looked back once already, at the only person in there worth looking back at, and she had told me to go, and I was not going to spoil the one clean parting either of us had managed by doing it twice.
 
 But I put my hand flat against my chest, over the inside pocket, where the needles were.
 

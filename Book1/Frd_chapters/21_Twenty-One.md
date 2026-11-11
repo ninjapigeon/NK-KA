@@ -22,7 +22,7 @@ After Liwon, Third stopped.
 
 He did not decide to. There was no moment he could afterward point to and say *there, that is where I chose to stop* — there was only the carrying of her, the small weight of what had been her, to a place with a tree he thought she would have liked, and the putting of her into the ground, and the sitting down beside the place to make certain nothing disturbed it, and then the not getting up.
 
-He told himself, at first, that he was keeping watch. That was a thing he knew how to do; he could do it for a long time. But the watch had no end written into it, because the thing he was guarding was past being harmed, and a watch with no end is only a way of describing a thing that has stopped.
+He told himself, at first, that he was keeping watch. That was something he knew how to do; he could do it for a long time. But the watch had no end written into it, because the thing he was guarding was past being harmed, and a watch with no end is only a way of describing a thing that has stopped.
 
 The Scar swung overhead, dark and light and dark, faster than it should have, or his sense of it loosened — he could not afterward say which. Greenery came up around him. A vine found his still arm and climbed it and he did not brush it off, because brushing it off was a thing a person did, and he had stopped being sure he was one. The weather passed over him the way water passes over a stone in a stream: he felt it, distantly, as pressure and temperature, and it wore at him, and he let it. He stepped to the grey more and more — a breath gone from the hillside, a long while on the far side of it, the warm part, the part where she still got the rhyme right — and he stayed longer and longer inside each breath, and minded less and less the coming back, until the coming back was the only part he still did out of habit, and even the habit was wearing thin.
 
@@ -30,7 +30,7 @@ He was, he understood without alarm, dying. Not the way the soft ones died. The 
 
 He watched the dim light gutter, and did not get up, and did not go looking for the next. He had been there long enough to be more shrub than statue when the woman sat down in front of him.
 
-She did it without ceremony, the way you'd sit on any convenient rock, and she looked at him — at the eye, which still lit, the one thing the vines had not taken — and she said, "You're not dead. I've buried dead. You're something else."
+She did it without ceremony, the way you'd sit on any convenient rock, and she looked at him — at the eye, which still lit, the one part the vines had not taken — and she said, "You're not dead. I've buried dead. You're something else."
 
 Third did not answer. Answering was a thing a person did.
 
@@ -48,7 +48,7 @@ The eye, which had not moved in a thousand spins, moved.
 
 "There it is," Lujian said softly, not surprised, only tired and a little glad. "No. Don't — you don't have to say anything. I'm only telling you. If you want them to have been a person and not a *reason*, you don't get to stop. Stopping agrees with the liar. Going on is the only way left to call it what it was." She sat back. "It's not a comfort. I know it's not. It's the opposite of a comfort. It's a debt. But it's theirs, and it's yours, and I'd think a thing that's carried a pair of Falkas since before there were towns to carry it past could carry one more thing that heavy."
 
-Third's hand, when he lifted it — the first thing he had moved on purpose in longer than he could hold — closed around the vine she had been worrying, and pulled it, slow, from the wood of his arm.
+Third's hand, when he lifted it — the first motion he had made on purpose in longer than he could hold — closed around the vine she had been worrying, and pulled it, slow, from the wood of his arm.
 
 "They were a child," he said. The voice came out of him cracked and disused, a landslide that had forgotten the shape of words. "I called her little one. She made it into a name."
 

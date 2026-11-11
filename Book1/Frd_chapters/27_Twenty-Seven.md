@@ -10,11 +10,11 @@ It was Mathen who saw it, of course, and Mathen who knew the cure, because the c
 
 "Then state me one." Mathen settled back against the fallen slab, hat down. "You taught me yourself, near enough — no, *I* taught *you*, that's the one, a story's how you make more than one person carry a thing. You've a great deal you've been carrying alone, master Forged. Set some of it on the fire where the rest of us can warm our hands at it. That's all a story is. Spreading the load."
 
-The coal of Third's eye sat on the fire a while. Then it did a thing I'd not seen it do — it went not to the cliff, not down into him, but somewhere sideways and warm, the look of a person opening a drawer they keep meaning not to.
+The coal of Third's eye sat on the fire a while. Then it did something I'd not seen it do — it went not to the cliff, not down into him, but somewhere sideways and warm, the look of a person opening a drawer they keep meaning not to.
 
 "I will tell you about Dorn," he said.
 
-I sat up at that. I knew the name. I'd known it since the inn, the corner table, the Boltcaster he carried and never fired — *Dorn's*, he'd said, the way you'd name a grave. I knew the name and the fact of the death and not one thing else about the man, and I found I badly wanted to.
+I sat up at that. I knew the name. I'd known it since the inn, the corner table, the Boltcaster he carried and never fired — *Dorn's*, he'd said, the way you'd name a grave. I knew the name and the fact of the death and nothing else about the man, and I found I badly wanted to.
 
 <p align="center">&#42; &#42; &#42;</p>
 
@@ -26,7 +26,7 @@ Roan, despite himself, huffed a small laugh. Mathen said nothing, watching Third
 
 "Please," said Mathen, and there was no mockery in it at all.
 
-Third set down, deliberately, the thing he'd been holding without my noticing he'd taken it out — the Boltcaster, Dorn's Boltcaster, the squat ugly wooden thing he carried and never loaded — laid it across his knees the way you'd lay out a friend's coat. And he told the joke.
+Third set down, deliberately, what he'd been holding without my noticing he'd taken it out — the Boltcaster, Dorn's Boltcaster, the squat ugly wooden thing he carried and never loaded — laid it across his knees the way you'd lay out a friend's coat. And he told the joke.
 
 "A Mender and a Crafter are arguing over whose work matters most, and because it is the day of the local children's festival, they decide to settle it the way children settle things: hide and seek. Whoever is found last matters most. They both run for an old bridge, because it is the only good hiding place for a thousand paces in any direction, but there is only room for one under it, so they crouch together in the dark, elbow to elbow. 'Who's counting?' whispers the Mender. 'I thought you were,' whispers the Crafter. 'Counting is mending. You put the numbers back in order.' 'Counting is making. You make each number out of the last.' And they are off again, in hisses, mending against making, making against mending, so absorbed that neither of them notices that somewhere a long way down, slow and patient, a count has been going on. Ninety-eight. Ninety-nine. One hundred."
 
@@ -52,7 +52,7 @@ The fire ticked. Nobody moved.
 
 "I killed it," Third said. "That part was not difficult; they are only difficult to the people who cannot see them coming, and I could see it, after. It is a small skill, killing the thing that has already done the thing. I have a great deal of it." The eye stayed on the fire. "He was alive a little while. Long enough to ask me to remember him, which he said would make him immortal, of a sort, and which I did not understand then and am, perhaps, beginning to. I burned what was left, the way you do. I kept the head of the Shredder, to show the village it was ended. And I kept this." His wooden hand settled on the Boltcaster, not gripping, just resting. "It has no rounds in it. I have never fired it. I do not carry it to use. I carry it because he carried it, and a thing a person carried every day for a life holds some of the shape of them, after, if you keep it near. It is not a sensible reason. I have stopped requiring my reasons to be sensible."
 
-"And the Shredders," I said. Quietly. I had a sudden, cold understanding of a thing I'd been told in an inn a road-and-a-lifetime ago and not known the weight of. "You hunt them. Still. You've hunted them this whole time. The one outside my town — Tondi's bounty, the head you brought back — that's why you took it. Not the job. Them."
+"And the Shredders," I said. Quietly. I had a sudden, cold understanding of something I'd been told in an inn a road-and-a-lifetime ago and not known the weight of. "You hunt them. Still. You've hunted them this whole time. The one outside my town — Tondi's bounty, the head you brought back — that's why you took it. Not the job. Them."
 
 "Them," Third agreed. "Wherever I hear of one. I do not take payment for those, when I can avoid it; it feels like the wrong kind of icing." A pause, the nearest he came to the thing underneath. "It does not bring him back. I am aware. I am very old and I am aware of exactly how little it does. I do it anyway. It is the one piece of grief I have found that has somewhere useful to go, and I have a great deal of grief and very little of it goes anywhere useful at all, so I spend that piece where it spends." The eye came up, found me, found Mathen, found Roan. "That is Dorn. That is the story. Thank you for holding still for it. He would have liked you. He liked almost everyone; it was his great flaw as a judge of character and his great gift as a man."
 

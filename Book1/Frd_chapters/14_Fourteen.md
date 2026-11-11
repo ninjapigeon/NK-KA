@@ -26,17 +26,17 @@ The first was the blood itself. He needed it. I watched him do a thing I'd never
 
 I am not going to be able to tell it properly. There were gears in there, and rods, turning, and the trouble was not that they were strange — I had expected strange. The trouble was that they did not *work.* Not work as in broken; work as in *make sense.* They turned against each other in ways that should have locked solid or flown apart, drove nothing I could follow into nothing I could find, and the longer my eye tried to trace one rod to the thing it turned the more something behind my eyes began to ache, a low sick wrongness, like a word you've said so many times it stops being a word. I looked away. I had to. Whatever kept Third moving was not clockwork, however much it wore the shape of it. Clockwork you can follow. This you could only flinch from, and understand that it went on turning whether you flinched or not.
 
-He packed the soaked wood into himself, into the worn place beneath, the way you'd pack a wound except he was packing the wound *with* the thing that had made the world bleed, and the seam drew closed over the part I couldn't look at, and I breathed again. He saw me watching.
+He packed the soaked wood into himself, into the worn place beneath, the way you'd pack a wound except he was packing the wound *with* the very stuff that had made the world bleed, and the seam drew closed over the part I couldn't look at, and I breathed again. He saw me watching.
 
 "I am made of anointed wood," he said. "The same as their blades. I wear, as the blood drains and then the wood wears. So I mend, as wood is mended. The pool gives me that, and the pool is free." He pressed the forearm seam flat. "That is the easy mending."
 
 Then he did the other thing, and the other thing was worse, because the other thing he could not finish.
 
-He opened his chest. Not wide — a hand's-span seam down the centre of him, drawn back the way the arm had drawn back — and inside, past more of the turning that hurt to look at, were two small lights. Blue-white. The cold clear blue-white of the dried crust on the dead towers, the blue-white that stayed. They sat in him like a pair of held breaths, side by side, and one burned steady and one had gone dim, guttered down to a wick-end of itself, and Third looked at the dim one a moment the way you look at a thing you have no answer for.
+He opened his chest. Not wide — a hand's-span seam down the centre of him, drawn back the way the arm had drawn back — and inside, past more of the turning that hurt to look at, were two small lights. Blue-white. The cold clear blue-white of the dried crust on the dead towers, the blue-white that stayed. They sat in him like a pair of held breaths, side by side, and one burned steady and one had gone dim, guttered down to a wick-end of itself, and Third looked at the dim one a moment the way you look at a problem you have no answer for.
 
 "This, the pool cannot give me," he said. "The wet mends the body. The lights want the dried — and not the dried that crusts a tower, which is too young and too rough, but the made dried, the kind that comes only from places I cannot simply walk up to and dip a cup. So I check them, here, where it is quiet. I watch the dim one. I calculate how long it has." He drew the seam closed over the two lights, and they were gone behind him, and I understood without being told that I had just been shown the most private thing about him and possibly the most dangerous. "Long enough, for now. But not long. A bottle this size burns sixty spins, eighty if I hold still, and then it is a dead coal and I am down to one, hunting the next before that one goes too. The big vessels last — a made jar the size of your two fists would last me lifetimes — but those the makers keep, or sell to things that can pay in coin or worse, and a thing like me takes what it can scrounge: small ones, a few at a time, never enough ahead. I have been hunting the next since before your people had a word for the colour. They are the part of me I did not make, and cannot make, and that is a difficult thing to carry, in a world where the only people who make the dried keep the making a secret and would like very much to charge me for it."
 
-I didn't have anything to say to that. The thing that hardened the swords kept his body whole, for free, at any weeping pool. But the thing that kept him *alive* — the two cold lights — came from somewhere else, somewhere fenced and priced and held close, and he carried two of them and one was going dim, and he had decided not to be afraid about it, the way he decided most things, by stating them plainly and walking on.
+I didn't have anything to say to that. What hardened the swords kept his body whole, for free, at any weeping pool. But what kept him *alive* — the two cold lights — came from somewhere else, somewhere fenced and priced and held close, and he carried two of them and one was going dim, and he had decided not to be afraid about it, the way he decided most things, by stating them plainly and walking on.
 
 The second reason I worked out for myself, from the way the working people glanced at him and then eased, and the way two hard-looking men with a hand-cart and a ledger came over the far rise, looked at the field, looked at the Forged standing among the towers in the middle of it, and turned their cart around.
 
@@ -76,7 +76,7 @@ Pale moths had come up off the pools while we watched — I noticed them only no
 
 <p align="center">&#42; &#42; &#42;</p>
 
-He came back to himself the way you surface from a bad dream, all at once and ashamed. He got an elbow under himself and looked at the blade, and at Third, and at the two of us, and I watched him decide what kind of man he was going to be about it, which is a thing you can actually watch some people do.
+He came back to himself the way you surface from a bad dream, all at once and ashamed. He got an elbow under himself and looked at the blade, and at Third, and at the two of us, and I watched him decide what kind of man he was going to be about it, which you can actually watch some people do.
 
 "I'd apologise," he said, "but I think a thank-you's the more honest coin. You could've split me like kindling and I'd have had it coming." He worked his jaw. "I thought I'd taken every safe step. Turns out I'd taken every safe step but one, and it's always the one."
 
@@ -120,7 +120,7 @@ He didn't ask to come with us. That's the part I keep, looking back — nobody r
 
 He helped us refill our water, because he knew the clean seeps at the field's edge from the tainted run-off and we didn't. He told us, unprompted, the trick of telling anointed water from clean. He walked us to the far edge of the field naming the people who came regular, which ones would trade fair and which would short you, and somewhere in the naming it stopped being directions for travellers passing through and started being the talk of someone who'd decided, without announcing it, to keep walking the same direction we were walking.
 
-It was Third who said it, finally, in the flat way he said the things that mattered.
+It was Third who said it, finally, in the flat way he said what mattered.
 
 "We are going anti-spinward, to stop a man who is gathering the tools of the Titans, with which I believe he intends to call one back. It is dangerous, and most who hear it do not believe the danger, and of those who believe it, most very sensibly decline to come. You should know what you would be following, before you follow it any further."
 

@@ -25,7 +25,7 @@ I'd seen them before, back in town, but maybe something about being in a town so
 
 The keeping was a tower of dry-laid stone on a tor, the kind of high bare place where the wind has opinions, and it had been there long enough that the path up to it was worn into the rock a hand's-depth, and the keeper who met us at the top was as worn as the path.
 
-She was old in the way that stops being about how many thousands of spins. She watched the four of us climb the last of it — a Forged, a swordsman, a guardsman, and a girl who served stew — and she did not reach for the bell-rope by the door, and she did not look afraid, and that was the first thing that frightened me, because everyone is at least a little afraid of Third, and she wasn't, because she had clearly decided some time ago that there was a worse thing coming and we weren't it.
+She was old in the way that stops being about how many thousands of spins. She watched the four of us climb the last of it — a Forged, a swordsman, a guardsman, and a girl who served stew — and she did not reach for the bell-rope by the door, and she did not look afraid, and that was what frightened me first, because everyone is at least a little afraid of Third, and she wasn't, because she had clearly decided some time ago that there was a worse thing coming and we weren't it.
 
 "You're late if you're help," she said, "and early if you're him. Which."
 
@@ -67,13 +67,13 @@ Third had said it back at the inn, and I had not truly heard it until now: *a gr
 
 Roan moved first.
 
-I want it written down exactly, because I have heard it told wrong since, told as foolishness. It was not foolishness. Roan stepped into the doorway with his spear levelled and his voice shaking and he said "you don't go in," and he meant it, and he was more frightened than I have ever seen a person be, and he did it anyway, and that is the only thing bravery has ever been.
+I want it written down exactly, because I have heard it told wrong since, told as foolishness. It was not foolishness. Roan stepped into the doorway with his spear levelled and his voice shaking and he said "you don't go in," and he meant it, and he was more frightened than I have ever seen a person be, and he did it anyway, and that is all bravery has ever been.
 
 The man looked at him. For the first time, something behind the tired eyes engaged — mild, almost kind, the look you'd give a child who'd planted himself in your path with his arms out.
 
 And then he said an old word, and stepped sideways.
 
-I felt Third go rigid beside me. Not move — the opposite of move. He went rigid the way you go rigid when you see a thing that cannot be, and the not-being of it nails you to the spot, and in the half-breath that Third stood nailed, the man was simply — past. Past Roan's spear, past the door, not through them, beside them, gone out of the world at that angle my eye could never hold and back into it on the inside of the tower, between Mathen and the shelf, and he reached out and took the peg off the worn stone dish the way you'd take a cup off a table in your own house.
+I felt Third go rigid beside me. Not move — the opposite of move. He went rigid the way you go rigid when you see what cannot be, and the not-being of it nails you to the spot, and in the half-breath that Third stood nailed, the man was simply — past. Past Roan's spear, past the door, not through them, beside them, gone out of the world at that angle my eye could never hold and back into it on the inside of the tower, between Mathen and the shelf, and he reached out and took the peg off the worn stone dish the way you'd take a cup off a table in your own house.
 
 He did not wake it. I had set it back into a place with my own shaking hands, and a place does not come up for anyone — and it came up for him, no tap, no catch, as though it had never been fixed to anything at all. Then Third moved. Too late, knowing it was too late, crossing the tower in a stride with his Falkas sliding out of their sheaths in one smooth motion — and the man looked at him.
 
@@ -89,7 +89,7 @@ Nobody had touched him. That was the whole of it, and it took us all a while to 
 
 The keeper didn't weep. She knelt by the empty dish and put her hand in the worn hollow of it, the dish her people had worn smooth with checking, and she left it there, and she said, to no one, "well," in the voice of a person setting down a thing they have carried so long that the not-carrying is worse than the weight ever was.
 
-Mathen got her up, and got water into her, and got a fire going, because that is what Mathen does, he tends the spaces between the standing and the falling. Roan sat in the doorway where he'd braced and looked at his own hands as if they belonged to someone he was disappointed in, and I went and sat by him, because I'd watched him do the bravest thing on that tor and I wasn't going to let him learn the wrong lesson from its uselessness.
+Mathen got her up, and got water into her, and got a fire going, because that is what Mathen does, he tends the spaces between the standing and the falling. Roan sat in the doorway where he'd braced and looked at his own hands as if they belonged to someone he was disappointed in, and I went and sat by him, because I'd watched him do the bravest act on that tor and I wasn't going to let him learn the wrong lesson from its uselessness.
 
 "It didn't matter," he said.
 
