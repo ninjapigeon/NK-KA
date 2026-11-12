@@ -1,4 +1,4 @@
-# Six
+# 6
 
 "Soon," he'd said, which I took for a word chosen to avoid choosing a number. He kept his watch that night the same as every night, and if he learned anything more in the dark hours he didn't share it with me. The next morning came and went the way mornings did — shutters, stove, the regulars in for their bread — with nothing in any of it to suggest "soon" meant anything closer than it always had. It turned out to mean early afternoon, and it wasn't Third who set the date.
 

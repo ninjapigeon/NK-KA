@@ -1,4 +1,4 @@
-# Thirty One
+# 31
 
 Grief in a party of three is a different animal from grief alone. Alone, you can let it have all of you; there's no one watching to be frightened by how much. With two others, you have to keep enough of yourself back to be a person they can stand near, and the keeping-back is its own exhaustion, on top of the grief, which does not take kindly to being kept back and finds other ways out.
 

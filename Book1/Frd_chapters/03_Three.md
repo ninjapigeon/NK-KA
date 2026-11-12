@@ -1,4 +1,4 @@
-# Three
+# 3
 
 I found out later what he did while I was asleep. I'm not exactly sure when it stopped being *it* in my head, and I'm less sure when it became *he* — nobody gave me that one; I reached for the nearest word and it stuck — I only noticed I'd already done both, the way you notice, well after the fact, that you've started calling someone by their first name.
 

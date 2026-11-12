@@ -1,4 +1,4 @@
-# Twenty Seven
+# 27
 
 The second night of the waiting was worse than the first, because on the first night the dread had been a new thing and you can stand almost anything once for its novelty, and on the second night it was just the furniture. The cliff drank the grey. The book turned its pages out in the dark. We sat our paired watches and ate cold and spoke little, and Roan had got to that brittle place a body gets when it has been afraid for longer than it can keep being interestingly afraid, where a person will either find something to do with the fear or start coming apart at a seam.
 

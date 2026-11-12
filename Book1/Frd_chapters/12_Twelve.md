@@ -1,4 +1,4 @@
-# Twelve
+# 12
 
 We came off the Causeway after travelling it for two days, by one of the corkscrew ramps. The last of the high country had been more of the world insisting on itself — a stretch where the trail crossed a field of low sterile rings, perfect circles of bare grey dirt a few paces across with a sickly green tree dead-centre of each, no grass, no weed, nothing growing under them but the next identical sapling pushing up at the ring's edge to start its own circle of starvation. These I knew — occluding trees, the farmers near home called them, and hated them — and we walked between the rings the way you'd walk between graves, and nobody spoke, and the trees drank the life out of the dirt in their tidy obsessive circles and asked us for nothing. So when the ramp let us down into ordinary country that felt like a held breath let out, and for half a day the trail was just a trail and the trees were just trees, I believed in the world again — not because the world had earned it, but because I wanted it so badly that half a day of plain green was enough to buy me.
 

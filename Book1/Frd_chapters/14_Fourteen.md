@@ -1,4 +1,4 @@
-# Fourteen
+# 14
 
 You smell the geysers before you see them, and the smell is the first argument the place makes that you should not be there — like a butcher's block after a day's work, with the feel of jade dust and salt at the back of your throat.
 

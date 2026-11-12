@@ -1,4 +1,4 @@
-# Thirty Seven
+# 37
 
 Roan had been three paces back and to my right, where I'd put him, where I'd told him to wait for the worst and not before. He couldn't see into the grey any more than I could; he didn't know about the seed or the blossom or the door. All he had was what I'd given him at the foot of the spine — keep her on him, and when it goes wrong, cost it time. He'd been standing in the cold with his spear and his terror the whole while the cold man talked, waiting for a wrongness he could recognise.
 

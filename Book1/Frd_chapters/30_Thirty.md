@@ -1,4 +1,4 @@
-# Thirty
+# 30
 
 He should not have gone in. He knew it the way he knew the weather of a blade coming — knew it before his hoof left the lived ground — and he went in anyway, because the alternative was to stand at the embers of his friend and not know whether the friend was anywhere at all, and that was a thing his three hundred thousand spins had not taught him how to bear.
 

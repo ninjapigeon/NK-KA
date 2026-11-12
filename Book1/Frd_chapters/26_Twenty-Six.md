@@ -1,4 +1,4 @@
-# Twenty Six
+# 26
 
 We kept the watches in pairs, the way Mathen said, and I made myself Third's pair before anyone could think too hard about who'd draw the short straw of sitting up beside the one who didn't sleep. It wasn't bravery. I want that on the record. It was that I'd seen him come back off the flat slab unsteady, testing each hoof like a man on a deck, and I had decided — somewhere I hadn't asked permission of — that I was not going to let him do whatever he was about to do with nobody watching but the stones.
 

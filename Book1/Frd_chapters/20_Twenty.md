@@ -1,4 +1,4 @@
-# Twenty
+# 20
 
 There is a trick to not seeing a thing, and I was good at it, and the trick is this: you keep your eyes moving. You don't let them rest on the wrongness. You catalogue around it — the hooves, the bellows, the way the eye is a hole and not a lamp — you note each piece and you file it and you never, ever, lay the pieces out side by side on the same table, because the moment you do they stop being pieces and start being a picture.
 

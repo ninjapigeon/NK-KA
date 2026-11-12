@@ -1,4 +1,4 @@
-# Eight
+# 8
 
 I closed the inn that night the way I'd closed it a thousand times, except that I was aware of doing it, which was the difference between a thing you do and a thing you are doing for the last time.
 

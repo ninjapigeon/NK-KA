@@ -1,4 +1,4 @@
-# Two
+# 2
 
 They stopped a few paces short of me — far enough to let me look at the thing without it looming, and looming was clearly something it could do without trying.
 

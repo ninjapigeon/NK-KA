@@ -1,4 +1,4 @@
-# Thirty Eight
+# 38
 
 I have been asked to describe what happened next more times than I have been asked anything else in my life, and I have never once done it well, because the truest answer is the one nobody wants: I don't know. I couldn't see it. The most important thing that has ever happened in the world happened a half-step sideways from me, in a place my eyes were not made to go, and all I had was the back of a wooden man and the things he said out loud and the slow terrible arithmetic of watching someone decide.
 

@@ -1,4 +1,4 @@
-# Thirty Nine
+# 39
 
 The world did not feel saved. I want to put that down plainly, because the stories will say we saved it and the word will do what words do, it will round everything off smooth, and there was nothing smooth about that rock in the grey light with the cold man gone and the three of us still on it, breathing, which is a different and much smaller thing than *saved.* The world felt the way a room feels after someone has been very ill in it and the fever has finally broken: not triumphant. Just quiet, and wrung out, and aware of how close the other thing had come.
 

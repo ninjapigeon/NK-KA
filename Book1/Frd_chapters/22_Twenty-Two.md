@@ -1,4 +1,4 @@
-# Twenty Two
+# 22
 
 The country had been getting meaner for two days. The trees thinned and then gave up; the green went to a low grey scrub that crunched underfoot and smelled of nothing; the trail stopped being a trail and started being the least-bad line across a waste of broken stone. We were walking toward the place near the edge of the world where the dead were said to crawl, and the land had begun, in the way of lands, to dress for the occasion.
 

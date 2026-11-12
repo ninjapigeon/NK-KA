@@ -1,4 +1,4 @@
-# Nine
+# 9
 
 The gate was a different thing in the light. At night it had been a threat held off by spikes; now it was just a gap in a wall, with Pek leaning on the frame the way the militia always leaned on things, and the packed earth of the trail running out through it toward a horizon I had looked at my whole life and never once walked into.
 

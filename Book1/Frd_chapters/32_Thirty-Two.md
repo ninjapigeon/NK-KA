@@ -1,4 +1,4 @@
-# Thirty Two
+# 32
 
 We knew it was the day because the field stopped pretending.
 

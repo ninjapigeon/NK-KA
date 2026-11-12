@@ -32,7 +32,7 @@ spaced hyphen.
 
 Three named acts, listed in `acts.md` (name | title | first chapter):
 *The Quiet Town* (1–9), *Where the Lines Point* (10–31), *The Open Book*
-(32–41). Chapters stay numbered only. `join.py` inserts the act headings.
+(32–41). Chapters are numbered only: each file's first line is the numeral (`# 1`, `# 2` … `# 41`); the file names keep the word (`01_One.md`) just so they sort. `join.py` inserts the act headings.
 
 ## Reassembling
 

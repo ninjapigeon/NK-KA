@@ -1,4 +1,4 @@
-# Forty
+# 40
 
 The water was the first thing it had ever stopped for that was not a threat.
 

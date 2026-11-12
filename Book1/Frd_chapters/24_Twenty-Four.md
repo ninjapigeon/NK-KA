@@ -1,4 +1,4 @@
-# Twenty Four
+# 24
 
 Mathen had told us about the fields while the stones were still falling, hunched under that overhang with the sky cracking outside, and I had pictured something terrible. I always do. The thing itself was worse and better than the picture, the way the real things on Anka always were: not terrible. Quiet. A quiet that had teeth in it, but you had to earn the teeth.
 

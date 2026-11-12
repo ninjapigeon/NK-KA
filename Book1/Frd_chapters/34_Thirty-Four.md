@@ -1,4 +1,4 @@
-# Thirty Four
+# 34
 
 The first thing he did was check his hands.
 

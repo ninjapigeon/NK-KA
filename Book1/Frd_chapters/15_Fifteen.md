@@ -1,4 +1,4 @@
-# Fifteen
+# 15
 
 A party of three has a shape, and the shape is a line. We'd walked it for a tenday without my ever thinking about it: Third in front because Third was always in front, me behind him because his back was the safest place in the world to put your eyes, and Roan behind me with his spear and his checking. A line. You don't talk much in a line. You talk to the back of a head, or you don't, and mostly we hadn't.
 

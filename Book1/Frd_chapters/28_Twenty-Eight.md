@@ -1,4 +1,4 @@
-# Twenty Eight
+# 28
 
 He came to me the next watch with the thing already decided in him. I could tell. After long enough beside a person you learn the difference between the silence of a creature keeping a thing back and the silence of one carrying a thing forward to set down in front of you, and this was the second kind, and it frightened me more than the first ever had, because Third did not set things down lightly. He'd been carrying whatever it was since the night the grey pulled at him, turning it, the way he turned everything, until it was the right shape to hand over.
 

@@ -1,4 +1,4 @@
-# Seventeen
+# 17
 
 We had come through the bog that morning, and the bog had nearly kept Roan, so the smell, when it found us in the afternoon, landed on people already shaken.
 

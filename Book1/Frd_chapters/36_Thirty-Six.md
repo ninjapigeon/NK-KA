@@ -1,4 +1,4 @@
-# Thirty Six
+# 36
 
 He did not describe it. I think that is what I had braced for — a speech, a temptation laid out in words I could hear and hate and argue with. Instead the cold man simply said an old word, opened his hand, palm up, toward the wall of standing grey behind him, and the grey thinned where he gestured the way frost thins on a window when you put your thumb to it, and Third made a sound.
 

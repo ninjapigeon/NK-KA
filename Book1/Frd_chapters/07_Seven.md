@@ -1,4 +1,4 @@
-# Seven
+# 7
 
 We got the traveller into one of the rooms upstairs, and he was asleep before Klar had finished setting down the second cup of water, the deep instant sleep of a body that has been refusing itself for too long. Tondi had looked at the wound on his arm and made the face she made when something was going to need more attention than it was going to get, and then she'd dressed it properly anyway, because that was the difference between Tondi and her reputation.
 

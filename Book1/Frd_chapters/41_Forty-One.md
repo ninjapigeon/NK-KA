@@ -1,4 +1,4 @@
-# Forty One
+# 41
 
 The stories will tell you we walked out of the Giant's Graveyard. They will make it sound like a single motion, a thing with a shape — *and then they walked out* — the way stories tidy a distance into a sentence. It was not a sentence. It was most of a day and into the dark and most of another, across a field that had gone back to merely trying to kill us in the ordinary ways, with Roan on Third's arm making the small involuntary sounds of a man whose ribs disagreed with being carried and being still equally, and the cliff at our backs never seeming to get any further away no matter how long we put it behind us. That is what walking out is. It is the part the stories cut.
 

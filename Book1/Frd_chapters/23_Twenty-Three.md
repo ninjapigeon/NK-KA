@@ -1,4 +1,4 @@
-# Twenty Three
+# 23
 
 Mathen wanted a story. He always wanted a story — it was the engine that ran him, the way some men run on drink and some on grievance — but that night he wanted one badly enough to go after Third for it, which none of us had ever seen him do.
 

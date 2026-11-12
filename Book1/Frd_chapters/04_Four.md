@@ -1,4 +1,4 @@
-# Four
+# 4
 
 I'd got as far as selecting the vegetables for the day's stew when Tondi came down, and that was when the morning stopped going the way mornings usually went.
 

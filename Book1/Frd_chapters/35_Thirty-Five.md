@@ -1,4 +1,4 @@
-# Thirty Five
+# 35
 
 Up close the cold of him was a real thing, a weather. It came off him the way heat comes off a stove, except backward, except wrong — a steady draught of cave-air that found the sweat on you and made you regret having a body at all. Roan, three paces to my left with his spear low, flinched at it before he caught himself. I didn't catch myself in time and shivered like a wet dog. Third did not feel it, or did not show it, which by then was the same thing.
 

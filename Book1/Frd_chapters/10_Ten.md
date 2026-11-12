@@ -1,4 +1,4 @@
-# Ten
+# 10
 
 We saw it on the third day, which was a day earlier than Third had said, and I learned something about distance on Anka that the trail between two larger settlements had never taught me: that a thing can be visible long before it is near, and that the gap between the two is where your legs find out what they are made of.
 

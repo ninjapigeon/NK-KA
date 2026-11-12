@@ -1,4 +1,4 @@
-# Thirty Three
+# 33
 
 Knowing exactly how a thing is going to land before you do it is its own particular cruelty, because Third had done it to me, on a slab two nights gone, and I had felt the floor of the world go out from under me one fact at a time, and now I was going to do the same to Roan with the cold man a thousand paces off and closing, and there was no kind way and no slow way and no time for either.
 
