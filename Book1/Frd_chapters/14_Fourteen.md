@@ -90,17 +90,19 @@ It was, I realised, a kindness — Third doling out the exact amount of dignity 
 
 He asked to see one of Third's Falkas. Third let him, on the condition he could see Mathen's blade in turn, and the two of them stood in the bloody field passing weapons back and forth like boys trading knucklebones. Mathen's was a good blade, an heirloom — his father's chip-carving under his own, he said, three generations of marks before he'd judged it worthy of the red. He was proud of it and trying not to be, which made me like him.
 
-Then he turned Third's over in his hands, and went still, the way people went still around Third when the wrongness of him landed.
+Then he turned Third's over in his hands, and went still — not the stillness people went into around Third, when the wrongness of him landed, but a craftsman's, and it took me a moment to see that he was not looking at Third at all.
 
-"This is old work," Mathen said slowly. "This flourish, here — nobody carves like this. This is from—" He looked up. "Who made this?"
+"This is hard," he said. "Hexwood-hard, end to end. Red right through." He tilted the blade to the light and ran his thumb down the bevel, and stopped. "But this edge has been taken down. See — the old angle's still under the new one, like a riverbed under a river. And under *that*. Someone has brought this edge back, and back, and back."
 
-"I did, over many spins, before anointing it," Third said.
+"Yes," Third said.
 
-"And who repaired it? Since."
+"And the carving." His voice had gone odd. "The grip-work's been sanded out and cut again, and the old cut's still showing through the new, wider and shallower, a ghost of it. And the script along the fuller — that's three hands. This one's thin and square, nothing like I've seen on any blade. This one's a long way after it. And this one" — his thumb found a line so sharp it was nearly bright — "has barely been carried."
 
-"The same. I learned a thing or two on my travels."
+Roan, beside me, understood less than half, and said so. Mathen answered without lifting his eyes, the way you answer a child when something more important is happening. "Everyone knows a blade goes soft in the end. The red fades — ten thousand spins, the smiths say. My grandmother said it, a smith told my father, every swordsman's heard it. And every swordsman nods, and oils his blade, and never once sees it, because by the time it's true the sword's been in a drawer for three lifetimes and the man holding it is holding a very handsome stick." He turned the Falka a degree, so the light ran down it. "Nobody *holds* that story. And here it is. Hard as the day it was cut, and every day it was ever cut still on it. This isn't a blade that was kept. It's a blade that's been *started over*."
 
-Mathen laughed, the easy laugh of a man waiting for the rest of a joke. Then he didn't. He looked at the blade, and at Third's forearm where I'd watched the seam close, and at the single off-centre eye of him, the body visibly mended a hundred times over and the weapon nearly as old.
+"I lost count somewhere past twenty," Third said. "While it is soft it can be cut, and while it is cut it can be mended, and then the red goes back in and it is a Falka again. It is a poor tenday to be without them." The eye considered the thing in Mathen's hands with something that was not quite fondness. "It is the same blade. I am not certain it has ever been the same blade twice."
+
+Mathen laughed, the easy laugh of a man waiting for the rest of a joke. Then he did the sum, and didn't. Twenty fadings, and ten thousand spins to each — I watched him reach for the number and find that the numbers ran out before the answer did. He looked at the blade, and at Third's forearm where I'd watched the seam close, and at the single off-centre eye of him, the body visibly mended a hundred times over and the weapon the same.
 
 "Your waking," Mathen said carefully. "When was your waking."
 

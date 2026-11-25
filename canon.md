@@ -54,3 +54,8 @@ aliases: [world bible, continuity, Anka canon]
 - [stated] Sougad is first named in ch36; the Anvil in ch35; "the cold man" means Sougad from ch33.
 - [stated] Third's eye is blue. Roan favours his left leg (ch1) and limps on the other leg after the climax (ch41).
 - [stated] The Porter lowers a ramp, never ropes; it holds at the rim because no barge-master brings a hull down to board under falling rock (ch41).
+- [stated] Hexwood anointing fades: deep-anointed worked pieces (weapons, tools, heirlooms) after ~10,000 spins; thin-anointed Teeth/coins after ~1,000. While soft, a piece can be re-sanded, re-sharpened and re-carved, then re-anointed. Third's Falkas have been through this "somewhere past twenty" times, so they carry every layer of carving (incl. Titanspeech lettering in several hands). Mathen realises this at the geysers (ch14); he knew the rumour but had never held proof.
+- [stated] Titanspeech on the page is deliberately rare. Tasha cannot read the script (she can recognise the three-mark word for *peace*, VDF, cut across the head of every memorial pillar). Third reads it in passing. In ch41 Tasha supplies the vowel to FRD, which is why the book is titled FRD.
+- [stated] Act epigraphs (in acts.md): Act One VDF (peace), Act Two DPJ (anti-spinward), Act Three BHZ (open).
+- [stated] Memorial pillars carry VDF (peace) across the head (ch1, ch5, ch17). The ch19 tower lintel reads BKR (Titan / power).
+- [stated] Titanspeech describes for nearly everyone; it only does anything for a speaker with standing (Sougad). Third says so in ch20, setting up ch37.

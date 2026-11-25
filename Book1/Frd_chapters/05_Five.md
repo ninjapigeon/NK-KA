@@ -44,6 +44,12 @@ I thought about that — Third standing in the pre-dawn, reading a knee-high pli
 
 Before asking something of it. I looked at the tablecloth I'd draped over him — my idea, technically, though Tondi had grunted permission — and tried to remember if I'd ever thought of this town as something that could be asked things. I'd mostly thought of it as somewhere I'd been born and hadn't left.
 
+"The three marks across the top," I said. I had carried that one since I was small enough to be lifted up to look at it, and there had never been anyone to ask. "Can you read those too?"
+
+"Yes. They say *peace*." The eye considered the shuttered window, and the pillar beyond it. "Every town cuts it. It is the one word of Titanspeech nearly everyone keeps, and I have never decided whether it is a prayer or an apology."
+
+I had been wrong about *remember* my whole life, and no one had ever once corrected me. I decided not to say so.
+
 "What are you asking of it?" I said. "Specifically."
 
 "For someone — or several someones — willing to travel with a Titanspawn toward a problem that will likely become violent, with no guarantee of return, in service of preventing something most people do not yet know is happening."

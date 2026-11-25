@@ -50,6 +50,22 @@ I had been carrying a smaller thing beside the large ones, and the floor was mov
 
 I thought about that until the lanterns went out. I decided it wasn't permission. It was nearer to being trusted with something.
 
+In the morning, such as the Porter had one, I found him at the flue-plate with a soot-black fingertip, drawing. Three marks, small and careful, in a hand I had never seen him use. I realised I had never seen him write anything at all. He read everything he passed — pillars, lintels, the chalk on Waj's board — and set nothing down.
+
+"That's your name," I said. I don't know how I knew. It was the way he held the finger, like a man handling something that might still be hot.
+
+"It is how the old script spells it." He did not look up. "F, R, D. It keeps no vowels. A reader brings their own, and the word comes out as whatever the reader is carrying."
+
+"Which is the right one?"
+
+"There is not one. That is rather the point of it." The eye tilted. "Say it as you say it, Tasha. You are the one who has had to."
+
+So I put in the one sound it was missing, small and soft, set between the others the way you would set a peg, and I said it aloud. The coal of his eye went quiet in a way I would have given a great deal to see from the inside.
+
+"Yes," Third said. "That is how it is read now."
+
+I have set the three marks at the head of these pages, where he would have put them, and left the vowels to you.
+
 So that is the end of it, or the end of the part I was there for. We rode out of the bad country on an inn that flew. Roan mended, mostly, and limps on the other leg now, which he says makes him symmetrical and which Mathen would have got a hundred spins of drinks out of, and we say so, often, because that is how you keep a man who liked drinks. Third went on, of course. There is always another peg, another patient thing, another door that might wake; and there is, he says, the matter of leaving behind people, which is the only argument he has found that beats *I am very patient*, and which he intends to keep making with his whole long life. He left the Boltcaster at the foot of the cliff. He kept the Falkas. He keeps the hole.
 
 And me — I am telling you this. That is the part I have left to do, and I have come to think it is not a small one. Mathen said a story is how you get more than one person to carry the weight, so it doesn't all rest on the one. I didn't understand him then. I was wiping tables. I understand him now, on a floor that moves, with the lanterns down and someone small at the edge of them for as long as I keep the telling going: I am carrying. That is what this is. Every name I say keeps a door open the width of a finger and holds it there.

@@ -11,6 +11,8 @@
 
 # Act One: *The Quiet Town*
 
+<p align="center"><i>VDF — peace</i></p>
+
 # 1
 
 The greybeards call them Titanspawn. The militia call them problems. The rest of us don't call them anything — you don't name the thing that took the Pell family, you just get your ladder up before the Scar finishes crossing and you don't listen too hard to the sounds that come, some nights, off the far side of the wall. After long enough the not-thinking is a skill of its own. I'd had the practice.
@@ -39,7 +41,7 @@ The table under the window was Kern's. He was the Kro who'd been coming to the i
 
 I made my round. Six tables, and I knew the wobble in each. The lockbox in the floor — lever down, lid true, the way Tondi had shown me the first night she trusted me with it, kneeling on the alcohol-preserved boards beside me as if she were teaching me something holy. I straightened chairs that were already straight, which was either professional habit or a way of not going home yet. I knew which.
 
-Through the gap in the shutters, if you stood right, you could see the memorial pillar — knee-high, three-sided, every name the town had buried since its founding. Not a long list. We were young, as towns go. I stood there too long and looked at it in the last of the Scar's light, and felt the quiet come down the way it did some nights, and not as a comfort. I'd been as far as Dunarth once, spireward, on a caravan, and back, and that was the whole of everywhere I'd been that wasn't here. I wasn't unhappy. I was unhappy the way you aren't hungry until the food is carried past you — which holds up fine, right until something changes.
+Through the gap in the shutters, if you stood right, you could see the memorial pillar — knee-high, three-sided, every name the town had buried since its founding. Not a long list. We were young, as towns go. Across its head ran three old marks, the same three that every pillar everywhere carried and nobody I knew could read; I had always assumed they said *remember*. I stood there too long and looked at it in the last of the Scar's light, and felt the quiet come down the way it did some nights, and not as a comfort. I'd been as far as Dunarth once, spireward, on a caravan, and back, and that was the whole of everywhere I'd been that wasn't here. I wasn't unhappy. I was unhappy the way you aren't hungry until the food is carried past you — which holds up fine, right until something changes.
 
 Nothing was going to change. That was the thing about quiet towns.
 
@@ -318,6 +320,12 @@ I thought about that — Third standing in the pre-dawn, reading a knee-high pli
 "I have found it useful to understand a place before asking something of it."
 
 Before asking something of it. I looked at the tablecloth I'd draped over him — my idea, technically, though Tondi had grunted permission — and tried to remember if I'd ever thought of this town as something that could be asked things. I'd mostly thought of it as somewhere I'd been born and hadn't left.
+
+"The three marks across the top," I said. I had carried that one since I was small enough to be lifted up to look at it, and there had never been anyone to ask. "Can you read those too?"
+
+"Yes. They say *peace*." The eye considered the shuttered window, and the pillar beyond it. "Every town cuts it. It is the one word of Titanspeech nearly everyone keeps, and I have never decided whether it is a prayer or an apology."
+
+I had been wrong about *remember* my whole life, and no one had ever once corrected me. I decided not to say so.
 
 "What are you asking of it?" I said. "Specifically."
 
@@ -680,6 +688,8 @@ Roan laughed — surprised out of him, the first real laugh since the gate — a
 We walked on toward the Causeway, and the Spire, and whatever waited at the end of it that none of us yet understood, and behind us the town did not change at all.
 
 # Act Two: *Where the Lines Point*
+
+<p align="center"><i>DPJ — anti-spinward</i></p>
 
 # 10
 
@@ -1217,17 +1227,19 @@ It was, I realised, a kindness — Third doling out the exact amount of dignity 
 
 He asked to see one of Third's Falkas. Third let him, on the condition he could see Mathen's blade in turn, and the two of them stood in the bloody field passing weapons back and forth like boys trading knucklebones. Mathen's was a good blade, an heirloom — his father's chip-carving under his own, he said, three generations of marks before he'd judged it worthy of the red. He was proud of it and trying not to be, which made me like him.
 
-Then he turned Third's over in his hands, and went still, the way people went still around Third when the wrongness of him landed.
+Then he turned Third's over in his hands, and went still — not the stillness people went into around Third, when the wrongness of him landed, but a craftsman's, and it took me a moment to see that he was not looking at Third at all.
 
-"This is old work," Mathen said slowly. "This flourish, here — nobody carves like this. This is from—" He looked up. "Who made this?"
+"This is hard," he said. "Hexwood-hard, end to end. Red right through." He tilted the blade to the light and ran his thumb down the bevel, and stopped. "But this edge has been taken down. See — the old angle's still under the new one, like a riverbed under a river. And under *that*. Someone has brought this edge back, and back, and back."
 
-"I did, over many spins, before anointing it," Third said.
+"Yes," Third said.
 
-"And who repaired it? Since."
+"And the carving." His voice had gone odd. "The grip-work's been sanded out and cut again, and the old cut's still showing through the new, wider and shallower, a ghost of it. And the script along the fuller — that's three hands. This one's thin and square, nothing like I've seen on any blade. This one's a long way after it. And this one" — his thumb found a line so sharp it was nearly bright — "has barely been carried."
 
-"The same. I learned a thing or two on my travels."
+Roan, beside me, understood less than half, and said so. Mathen answered without lifting his eyes, the way you answer a child when something more important is happening. "Everyone knows a blade goes soft in the end. The red fades — ten thousand spins, the smiths say. My grandmother said it, a smith told my father, every swordsman's heard it. And every swordsman nods, and oils his blade, and never once sees it, because by the time it's true the sword's been in a drawer for three lifetimes and the man holding it is holding a very handsome stick." He turned the Falka a degree, so the light ran down it. "Nobody *holds* that story. And here it is. Hard as the day it was cut, and every day it was ever cut still on it. This isn't a blade that was kept. It's a blade that's been *started over*."
 
-Mathen laughed, the easy laugh of a man waiting for the rest of a joke. Then he didn't. He looked at the blade, and at Third's forearm where I'd watched the seam close, and at the single off-centre eye of him, the body visibly mended a hundred times over and the weapon nearly as old.
+"I lost count somewhere past twenty," Third said. "While it is soft it can be cut, and while it is cut it can be mended, and then the red goes back in and it is a Falka again. It is a poor tenday to be without them." The eye considered the thing in Mathen's hands with something that was not quite fondness. "It is the same blade. I am not certain it has ever been the same blade twice."
+
+Mathen laughed, the easy laugh of a man waiting for the rest of a joke. Then he did the sum, and didn't. Twenty fadings, and ten thousand spins to each — I watched him reach for the number and find that the numbers ran out before the answer did. He looked at the blade, and at Third's forearm where I'd watched the seam close, and at the single off-centre eye of him, the body visibly mended a hundred times over and the weapon the same.
 
 "Your waking," Mathen said carefully. "When was your waking."
 
@@ -1541,7 +1553,7 @@ I didn't think Mathen had ever put a spear through his own foot in his life. But
 
 We split up to search — Mathen and Roan taking the outbuildings along the wall, Third and I taking the large structure near the centre that Third had been looking at since we came through the gate. I think he sent the others wide on purpose. I think he already knew what we were going to find, and didn't want an audience for it.
 
-The memorial pillar stood near the middle of the settlement, knee-high, three-sided, perhaps a dozen names across it. The founding plaque at its base had been there long enough to wear smooth at the edges but not long enough to rise very far out of the ground.
+The memorial pillar stood near the middle of the settlement, knee-high, three-sided, perhaps a dozen names across it. The founding plaque at its base had been there long enough to wear smooth at the edges but not long enough to rise very far out of the ground. Across its head ran the same three marks as the pillar at home, cut by another hand in another decade, and not so much as chipped. Everything else in that place had been broken. I knew them without being able to read them, the way you know your own door in a row of doors, and it was somehow the worst thing in the town.
 
 I stopped at it for a moment. A generation. Maybe less. Some of these names had likely been children when the town was founded; they'd grown up and built something, and the something was gone in a spin or two along with everyone who'd made it. I thought about a knee-high pillar in a town a great deal like this one, with a great deal fewer names on it, and Tondi in her corner, and Klar's stew, and I made myself stop thinking about it.
 
@@ -1792,7 +1804,7 @@ I'd seen them before, back in town, but maybe something about being in a town so
 
 <p align="center">&#42; &#42; &#42;</p>
 
-The keeping was a tower of dry-laid stone on a tor, the kind of high bare place where the wind has opinions, and it had been there long enough that the path up to it was worn into the rock a hand's-depth, and the keeper who met us at the top was as worn as the path.
+The keeping was a tower of dry-laid stone on a tor, the kind of high bare place where the wind has opinions, and it had been there long enough that the path up to it was worn into the rock a hand's-depth, and the keeper who met us at the top was as worn as the path. Over the door lay one long slab of paler stone than the rest, the only block on the tor no one had laid by hand, cut with three marks I couldn't read. Third's eye went to it as we came up, the way yours goes to a clock in a strange room, and away again. "*Titan*," he said under his breath, to nobody, "or *power*. The old tongue never could tell them apart." It was the first time I'd heard him translate anything without being asked, and I did not ask for more.
 
 She was old in the way that stops being about how many thousands of spins. She watched the four of us climb the last of it — a Forged, a swordsman, a guardsman, and a girl who served stew — and she did not reach for the bell-rope by the door, and she did not look afraid, and that was what frightened me first, because everyone is at least a little afraid of Third, and she wasn't, because she had clearly decided some time ago that there was a worse thing coming and we weren't it.
 
@@ -1923,6 +1935,10 @@ Third was quiet long enough that I thought I'd hit the limit of him, the place w
 I'd known it — I'd *seen* it — but hearing him say it plain, name it like a fact about the weather, did something to the back of my neck. "How long have you been able to?"
 
 "Since the beginning. Since I woke. It is not a thing I learned. It is a thing I am." The eye came round to me, the glow level. "Which is why tonight was — " and there he stopped, and the glow guttered, and I watched him reach for a true word and find only the size of the thing. "I have been able to step beside the world since before there were towns to step into. Sorcerers have reached it too, now and again, the way you reach anything with the right spell and enough nerve — paid for in blood, or time, or sense, and over almost before it starts. A few wander in by accident, at the thin places, and come out again if they're lucky, changed, with a story no one quite believes. That is most of what the word 'Akna' has ever meant to anyone who isn't me. But in all that time, I have never met another thing that did what I do — that simply stepped, the way you'd step over a threshold, without a spell, without a cost paid first, without the grey being an accident that happened to it. I had decided that part was mine. The single thing in the world that was only mine." A pause. "Tonight a man walked up a hill and said a word I didn't know, old enough that I felt it more than heard it, and stepped sideways — and then did it again a breath later, as if the first had cost him nothing at all. A sorcerer pays for one crossing and is spent by it. He wasn't spent. And he looked at me while he did it, and his face — Tasha, his face did the thing your face does when you hear a tune you knew as a child and cannot place. He half-knew me. And I do not know him. And I do not know how a man who needs the word can use it the way I use nothing, and it is the first thing in a very long time that I have not known and could not simply wait until I did."
+
+"What was the word?" I said.
+
+"I did not know it. I know the tongue." The eye stayed on the dark. "Titanspeech. The old one. Every greybeard on Anka thinks he knows a dozen words of it, and he is right, and it does him no good. Said by anyone, in any ordinary place, it only *describes* — the way a map describes. I have heard it spoken for longer than your town has had a name, and in all that time I have not once heard it *do* anything." A pause. "Tonight it did."
 
 It was, I realised, the most frightened I had ever heard him. Not loud. Third was never loud. But there was a thing missing from his voice that was always there, and the missing of it was the fear: the certainty. Third always knew. It was the most Third thing about him, more than the hooves or the eye — that flat unhurried *I have seen this, I know what it is, here is what it does.* And the man on the tor had reached into him and taken the certainty out.
 
@@ -2742,6 +2758,8 @@ Let it come. We were ready. We were as ready as the unready ever get.
 
 # Act Three: *The Open Book*
 
+<p align="center"><i>BHZ — open</i></p>
+
 # 32
 
 We knew it was the day because the field stopped pretending.
@@ -3313,6 +3331,22 @@ I had been carrying a smaller thing beside the large ones, and the floor was mov
 "It is most of one. The rest is that I do not mind which near word you reach for, so long as it is a person's." The eye tilted, a degree. "If you ever find a better one, bring it to me. I would like to be told." A beat. "Until then, say *he.* It is your word, and I have worn it a long time without it coming off."
 
 I thought about that until the lanterns went out. I decided it wasn't permission. It was nearer to being trusted with something.
+
+In the morning, such as the Porter had one, I found him at the flue-plate with a soot-black fingertip, drawing. Three marks, small and careful, in a hand I had never seen him use. I realised I had never seen him write anything at all. He read everything he passed — pillars, lintels, the chalk on Waj's board — and set nothing down.
+
+"That's your name," I said. I don't know how I knew. It was the way he held the finger, like a man handling something that might still be hot.
+
+"It is how the old script spells it." He did not look up. "F, R, D. It keeps no vowels. A reader brings their own, and the word comes out as whatever the reader is carrying."
+
+"Which is the right one?"
+
+"There is not one. That is rather the point of it." The eye tilted. "Say it as you say it, Tasha. You are the one who has had to."
+
+So I put in the one sound it was missing, small and soft, set between the others the way you would set a peg, and I said it aloud. The coal of his eye went quiet in a way I would have given a great deal to see from the inside.
+
+"Yes," Third said. "That is how it is read now."
+
+I have set the three marks at the head of these pages, where he would have put them, and left the vowels to you.
 
 So that is the end of it, or the end of the part I was there for. We rode out of the bad country on an inn that flew. Roan mended, mostly, and limps on the other leg now, which he says makes him symmetrical and which Mathen would have got a hundred spins of drinks out of, and we say so, often, because that is how you keep a man who liked drinks. Third went on, of course. There is always another peg, another patient thing, another door that might wake; and there is, he says, the matter of leaving behind people, which is the only argument he has found that beats *I am very patient*, and which he intends to keep making with his whole long life. He left the Boltcaster at the foot of the cliff. He kept the Falkas. He keeps the hole.
 

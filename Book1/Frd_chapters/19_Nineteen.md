@@ -23,7 +23,7 @@ I'd seen them before, back in town, but maybe something about being in a town so
 
 <p align="center">&#42; &#42; &#42;</p>
 
-The keeping was a tower of dry-laid stone on a tor, the kind of high bare place where the wind has opinions, and it had been there long enough that the path up to it was worn into the rock a hand's-depth, and the keeper who met us at the top was as worn as the path.
+The keeping was a tower of dry-laid stone on a tor, the kind of high bare place where the wind has opinions, and it had been there long enough that the path up to it was worn into the rock a hand's-depth, and the keeper who met us at the top was as worn as the path. Over the door lay one long slab of paler stone than the rest, the only block on the tor no one had laid by hand, cut with three marks I couldn't read. Third's eye went to it as we came up, the way yours goes to a clock in a strange room, and away again. "*Titan*," he said under his breath, to nobody, "or *power*. The old tongue never could tell them apart." It was the first time I'd heard him translate anything without being asked, and I did not ask for more.
 
 She was old in the way that stops being about how many thousands of spins. She watched the four of us climb the last of it — a Forged, a swordsman, a guardsman, and a girl who served stew — and she did not reach for the bell-rope by the door, and she did not look afraid, and that was what frightened me first, because everyone is at least a little afraid of Third, and she wasn't, because she had clearly decided some time ago that there was a worse thing coming and we weren't it.
 

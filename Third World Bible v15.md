@@ -1715,8 +1715,20 @@ role steel plays elsewhere:
   - HEXWOOD — wood carved then anointed with Titan blood, harder
     than stone. Premium hard material: weapons, tools,
     heirloom-grade needles, lock-boxes. Bone is the cheap
-    substitute it's contrasted against. After roughly a thousand
-    spins, the anointing fades and the item needs re-anointing.
+    substitute it's contrasted against. The anointing is not
+    permanent: in deep-anointed worked pieces (weapons, tools,
+    heirlooms) it fades after roughly 10,000 spins (~33 Earth
+    years) and the item softens back to ordinary wood. While soft
+    it can be re-sanded, re-sharpened and re-carved; re-anointing
+    makes it hard again. Every swordsman has heard the rumour;
+    almost none has held proof, because the pieces tend to outlive
+    the habit of checking. THIRD'S FALKAS have been through this
+    cycle "somewhere past twenty" times, so every layer of their
+    carving (including Titanspeech lettering in several hands, the
+    oldest letterforms long out of use) is still on them, and the
+    edge has been re-ground each time. This is what Mathen sees at
+    the geysers (ch14) and what stops him cold. Thin-anointed mass
+    goods (Teeth, coins) fade much sooner: ~1,000 spins.
     Before the Titans fell, their own minions carried something
     that looked like Hexwood but was actually Titan-reinforced
     Jade. When the Titans died, that reinforcement died with them.
@@ -1817,8 +1829,9 @@ anoint evenly and hold a clean strike). Only after stamping is it
 anointed with wet Titan blood — the actual mint act, and the
 moment it hardens into true Hexwood: mahogany-red, effectively
 unalterable. Before anointing a strike could be re-cut; after, it
-can't be without destroying the coin. Like all Hexwood, the
-anointing fades after roughly a thousand spins without renewal —
+can't be without destroying the coin. Unlike deep-anointed
+weapons and tools (~10,000 spins), a Tooth is thinly anointed, so
+the anointing fades after roughly a thousand spins without renewal —
 old, un-reanointed Teeth soften back to ordinary wood and age out
 of hard currency on their own, no institutional recall needed.
 

@@ -124,6 +124,7 @@ Anka is a flat plane with no sun, moon, stars, or seasons; the **Scar** (a rotat
 - **Named acts, numbered chapters.** The book has three named acts — *The Quiet Town* (ch1–9), *Where the Lines Point* (ch10–31), *The Open Book* (ch32–41), listed in `Frd_chapters/acts.md` — each with its own title page and a place on the visible contents page. Chapters are numbered only, as numerals (1 … 41), and the chapter heading is just the digit; the numbered scheme keeps the contents page from spoiling anything, so don’t reintroduce descriptive chapter titles.
 - **Chapter endings:** a chapter never ends on `* * *` (the chapter break already does that job). The only divider allowed as the last thing in a chapter is `◆ ◆ ◆`, where the chapter hands over into or out of a grey memory (ch29, ch30, ch39, ch40).
 - **Dialogue** uses double quotes.
+- **Titanspeech on the page:** sparing. Written as capital consonants only (VDF, BKR, FRD), never with vowels added; Tasha cannot read it, Third translates in passing. Act epigraphs live in `acts.md`.
 
 -----
 

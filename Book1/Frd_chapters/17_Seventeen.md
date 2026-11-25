@@ -62,7 +62,7 @@ I didn't think Mathen had ever put a spear through his own foot in his life. But
 
 We split up to search — Mathen and Roan taking the outbuildings along the wall, Third and I taking the large structure near the centre that Third had been looking at since we came through the gate. I think he sent the others wide on purpose. I think he already knew what we were going to find, and didn't want an audience for it.
 
-The memorial pillar stood near the middle of the settlement, knee-high, three-sided, perhaps a dozen names across it. The founding plaque at its base had been there long enough to wear smooth at the edges but not long enough to rise very far out of the ground.
+The memorial pillar stood near the middle of the settlement, knee-high, three-sided, perhaps a dozen names across it. The founding plaque at its base had been there long enough to wear smooth at the edges but not long enough to rise very far out of the ground. Across its head ran the same three marks as the pillar at home, cut by another hand in another decade, and not so much as chipped. Everything else in that place had been broken. I knew them without being able to read them, the way you know your own door in a row of doors, and it was somehow the worst thing in the town.
 
 I stopped at it for a moment. A generation. Maybe less. Some of these names had likely been children when the town was founded; they'd grown up and built something, and the something was gone in a spin or two along with everyone who'd made it. I thought about a knee-high pillar in a town a great deal like this one, with a great deal fewer names on it, and Tondi in her corner, and Klar's stew, and I made myself stop thinking about it.
 
